@@ -1,0 +1,248 @@
+{
+  "programCode": "QSA",
+  "programName": "BSc in Quantitative Social Analysis",
+  "intakeYear": "2025-26",
+  "school": "Humanities and Social Science",
+  "prerequisites": [],
+  "required": [
+    {
+      "subject": "SOSC",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "SOSC 1050",
+          "credits": 3,
+          "title": "Introduction to Social Science Research"
+        }
+      ]
+    },
+    {
+      "subject": "SOSC",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "SOSC 1110",
+          "credits": 3,
+          "title": "Data Analysis for Quantitative Social Research"
+        }
+      ]
+    },
+    {
+      "subject": "SOSC",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "SOSC 2400",
+          "credits": 3,
+          "title": "Quantitative Data Analysis for Social Research II"
+        }
+      ]
+    },
+    {
+      "subject": "SOSC",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "SOSC 3200",
+          "credits": 1,
+          "title": "Quantitative Social Analysis Colloquium"
+        }
+      ]
+    },
+    {
+      "subject": "SOSC",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "SOSC 4110",
+          "credits": 3,
+          "title": "Capstone Project"
+        }
+      ]
+    },
+    {
+      "subject": "SOSC",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "SOSC 4330",
+          "credits": 3,
+          "title": "Quantitative Data Analysis for Social Research III"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 7,
+      "note": "[(MATH 1005 OR MATH 1006 OR MATH 1013 OR MATH 1023) AND (MATH 1014 OR MATH 1024)] OR [MATH 1020]",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1005"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1006"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1013"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1023"
+                  }
+                ]
+              },
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1014"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1024"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "course",
+            "code": "MATH 1020"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 1005",
+          "credits": 4,
+          "title": "Calculus and Statistics"
+        },
+        {
+          "code": "MATH 1006",
+          "credits": 4,
+          "title": "Calculus, Vectors, and Matrices"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1014",
+          "credits": 3,
+          "title": "Calculus II"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        },
+        {
+          "code": "MATH 1024",
+          "credits": 3,
+          "title": "Honors Calculus II"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MATH 2411",
+          "credits": 4,
+          "title": "Applied Statistics"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "COMP 1021 OR COMP 1023",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 1021"
+          },
+          {
+            "type": "course",
+            "code": "COMP 1023"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 1021",
+          "credits": 3,
+          "title": "Introduction to Computer Science"
+        },
+        {
+          "code": "COMP 1023",
+          "credits": 3,
+          "title": "Introduction to Python Programming"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [],
+  "electives": [
+    {
+      "subject": "SOSC",
+      "minCredits": 24,
+      "maxCredits": null,
+      "freeForm": "Social Science Electives (8 courses from the specified elective list.  Students should take at least 2 Foundation courses, EACH of which should be from a different discipline [Foundation 1 to Foundation 5], and out of the 24 credits, at least 6 credits must be at 3000-/4000- level. Courses on the list of QSA Methodological Electives may not be counted towards this elective requirement) Foundation 1: Geography/Demography SOSC 1780 3 Population and Development in China SOSC 1860 3 Population and Society Foundation 2: Economics SOSC 1440 3 Introduction to Economics Foundation 3: Political Science SOSC 1300 3 The World of Politics SOSC 1450** 3 Introduction to Comparative Politics Foundation 4: Psychology SOSC 1960 3 Introduction to Psychology SOSC 1980 3 Psychology of Personal Growth Foundation 5: Sociology SOSC 1850 3 Understanding Society Others SOSC Any SOSC courses except those listed as Foundation course in this requirement and those listed under QSA Methodological Electives. SOSC/MATH/ COMP/ISOM/ MARK",
+      "areas": []
+    },
+    {
+      "subject": "SOSC/MATH/COMP/ISOM/MARK",
+      "minCredits": 12,
+      "maxCredits": null,
+      "freeForm": "QSA Methodological Electives (4 courses from the specified elective list, of which 6 credits must be taken in SOSC) SOSC 3240 3 Application of Geographical Information Systems SOSC 3600** 3 Public Policy Analysis SOSC 3720 3 Introduction to Social Network Analysis SOSC 3730 3 Survey Design and Methods SOSC 4250 3 Experiments and Quasi-experiments in the Social Sciences SOSC 4300 3 Computational Social Science MATH 2421 4 Probability MATH 2431 4 Honors Probability MATH 3423 3 Statistical Inference MATH 3424 3 Regression Analysis MATH 3426 3 Sampling MATH 4423 3 Nonparametric Statistics MATH 4424 3 Multivariate Analysis MATH 4425 3 Introductory Time Series COMP 2011 4 Programming with C++ ISOM 3360 3 Data Mining for Business Analytics MARK 3220 4 Marketing Research",
+      "areas": []
+    }
+  ],
+  "notes": "- SOSC 1450: The course was last offered in 2020-21 and was deleted subsequently.\n- SOSC 3600: The course was last offered in 2020-21 and was deleted subsequently.\n2026-27 QSA (4Y) (2025-26 intake) Page 3",
+  "tracks": []
+}

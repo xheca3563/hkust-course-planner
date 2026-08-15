@@ -1,0 +1,474 @@
+{
+  "programCode": "MGMT",
+  "programName": "BBA in Management",
+  "intakeYear": "2026-27",
+  "school": "Business and Management",
+  "prerequisites": [],
+  "required": [],
+  "schoolRequirements": [
+    {
+      "subject": "ACCT",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ACCT 2010",
+          "credits": 3,
+          "title": "Principles of Accounting I"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ECON",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "ECON 2103 OR ECON 2113",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "ECON 2103"
+          },
+          {
+            "type": "course",
+            "code": "ECON 2113"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "ECON 2103",
+          "credits": 3,
+          "title": "Principles of Microeconomics"
+        },
+        {
+          "code": "ECON 2113",
+          "credits": 3,
+          "title": "Microeconomics"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ECON",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "ECON 2123 OR ECON 3123 (BSc ECOF students can only use ECON 3123 to fulfill this requirement; while others should take ECON 2123)",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "ECON 2123"
+          },
+          {
+            "type": "course",
+            "code": "ECON 3123"
+          },
+          {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "ECON 3123"
+              },
+              {
+                "type": "course",
+                "code": "ECON 2123"
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "ECON 2123",
+          "credits": 3,
+          "title": "Macroeconomics"
+        },
+        {
+          "code": "ECON 3123",
+          "credits": 3,
+          "title": "Macroeconomic Theory I"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "FINA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "FINA 2303",
+          "credits": 3,
+          "title": "Financial Management"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ISOM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISOM 2010",
+          "credits": 3,
+          "title": "Introduction to Information Systems"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ISOM",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISOM 2020",
+          "credits": 1,
+          "title": "Coding for Business"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ISOM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISOM 2500",
+          "credits": 3,
+          "title": "Business Statistics"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ISOM",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISOM 2600",
+          "credits": 1,
+          "title": "Introduction to Business Analytics"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "MGMT",
+      "minCredits": 2,
+      "maxCredits": 2,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MGMT 2010",
+          "credits": 2,
+          "title": "Business Ethics and the Individual"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "MGMT",
+      "minCredits": 2,
+      "maxCredits": 2,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MGMT 2130",
+          "credits": 2,
+          "title": "Business Ethics and Social Responsibility"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "MATH 1003 OR MATH 1013 OR MATH 1020 OR MATH 1023",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 1003"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1013"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1020"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1023"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 1003",
+          "credits": 3,
+          "title": "Calculus and Linear Algebra"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "SB&M",
+      "minCredits": 12,
+      "maxCredits": 12,
+      "note": "Courses for BBA majors: ACCT 2200 AND ISOM 2700 AND MARK 2120 AND MGMT 2110 (Students who enroll in the BSc majors of SBM are not required to take these courses for graduation)",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "course",
+                "code": "ACCT 2200"
+              },
+              {
+                "type": "course",
+                "code": "ISOM 2700"
+              },
+              {
+                "type": "course",
+                "code": "MARK 2120"
+              },
+              {
+                "type": "course",
+                "code": "MGMT 2110"
+              }
+            ]
+          },
+          {
+            "type": "or",
+            "children": []
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "ACCT 2200",
+          "credits": 3,
+          "title": "Principles of Accounting II"
+        },
+        {
+          "code": "ISOM 2700",
+          "credits": 3,
+          "title": "Operations Management"
+        },
+        {
+          "code": "MARK 2120",
+          "credits": 3,
+          "title": "Marketing Management"
+        },
+        {
+          "code": "MGMT 2110",
+          "credits": 3,
+          "title": "Organizational Behavior"
+        }
+      ],
+      "noProse": false
+    }
+  ],
+  "electives": [
+    {
+      "subject": "MGMT",
+      "minCredits": 9,
+      "maxCredits": null,
+      "freeForm": "MGMT 3000-level or above Electives (Any 3 courses of the subject and level as specified. Courses taken as Option Required Courses may not be counted towards the elective requirement.)",
+      "areas": []
+    }
+  ],
+  "notes": "- MGMT 4300: The course was last offered in 2022-23 and was deleted subsequently.\n2026-27 MGMT (4Y) (2026-27 intake) Page 3",
+  "tracks": [
+    {
+      "name": "Consulting Option",
+      "note": "Students in the Consulting Option should also take MGMT 3120, MGMT 3140, and MGMT 4210 as specified in the major requirements.  Courses used to fulfill the requirements of another option under MGMT cannot be reused to count towards this Option.",
+      "groups": [
+        {
+          "subject": "MGMT",
+          "minCredits": 3,
+          "maxCredits": 4,
+          "note": "MGMT 3110 OR MGMT 3160 OR MGMT 4230",
+          "logic": {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "MGMT 3110"
+              },
+              {
+                "type": "course",
+                "code": "MGMT 3160"
+              },
+              {
+                "type": "course",
+                "code": "MGMT 4230"
+              }
+            ]
+          },
+          "options": [
+            {
+              "code": "MGMT 3110",
+              "credits": 4,
+              "title": "Human Resources Management"
+            },
+            {
+              "code": "MGMT 3160",
+              "credits": 3,
+              "title": "Environmental Business Strategies"
+            },
+            {
+              "code": "MGMT 4230",
+              "credits": 4,
+              "title": "International Management"
+            }
+          ]
+        },
+        {
+          "subject": "MGMT",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "MGMT 4250",
+              "credits": 3,
+              "title": "Management Consulting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Corporate Social Responsibility and Sustainability Option",
+      "note": "Students in the Corporate Social Responsibility and Sustainability Option should also take MGMT 4210 as specified in the major requirements.  Courses used to fulfill the requirements of another option under MGMT cannot be reused to count towards this Option.",
+      "groups": [
+        {
+          "subject": "MGMT",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "MGMT 3160",
+              "credits": 3,
+              "title": "Environmental Business Strategies"
+            }
+          ]
+        },
+        {
+          "subject": "MGMT",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "MGMT 3170",
+              "credits": 3,
+              "title": "Managing CSR (Corporate Social Responsibility)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Human Resources Option",
+      "note": "Students in the Human Resources Option should also take MGMT 3110 as specified in the major requirements. Courses used to fulfill the requirements of another option under MGMT cannot be reused to count towards this Option.",
+      "groups": [
+        {
+          "subject": "MGMT",
+          "minCredits": 6,
+          "maxCredits": 6,
+          "note": "MGMT 4270 OR MGMT 4280 OR MGMT 4290 OR MGMT",
+          "logic": {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "MGMT 4270"
+              },
+              {
+                "type": "course",
+                "code": "MGMT 4280"
+              },
+              {
+                "type": "course",
+                "code": "MGMT 4290"
+              }
+            ]
+          },
+          "options": [
+            {
+              "code": "MGMT 4270",
+              "credits": 3,
+              "title": "Training and Development"
+            },
+            {
+              "code": "MGMT 4280",
+              "credits": 3,
+              "title": "Transnational Legal Issues and Dispute Settlement"
+            },
+            {
+              "code": "MGMT 4290",
+              "credits": 3,
+              "title": "HR Analytics"
+            },
+            {
+              "code": "MGMT 4300",
+              "credits": 3,
+              "title": "Knowing and Managing Your Social Networks for Careers and Business"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "trackRequired": false
+}

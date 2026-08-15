@@ -1,0 +1,614 @@
+{
+  "programCode": "CIVL",
+  "programName": "BEng in Civil Engineering",
+  "intakeYear": "2023-24",
+  "school": "Engineering",
+  "prerequisites": [],
+  "required": [
+    {
+      "subject": "CIVL",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CIVL 1010",
+          "credits": 0,
+          "title": "Academic and Professional Development I"
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CIVL 1100",
+          "credits": 3,
+          "title": "Discovering Civil and Environmental Engineering"
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CIVL 2010",
+          "credits": 0,
+          "title": "Academic and Professional Development II"
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CIVL 2020",
+          "credits": 0,
+          "title": "Industrial and BIM Training"
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CIVL 2110",
+          "credits": 3,
+          "title": "Statics"
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CIVL 2120",
+          "credits": 3,
+          "title": "Mechanics of Materials"
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CIVL 2160",
+          "credits": 3,
+          "title": "Modeling Systems with Uncertainties"
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CIVL 2170",
+          "credits": 3,
+          "title": "Infrastructure Systems Engineering and Management"
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CIVL 2410",
+          "credits": 3,
+          "title": "Environmental Assessment and Management"
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CIVL 2510",
+          "credits": 3,
+          "title": "Fluid Mechanics"
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CIVL 2810",
+          "credits": 3,
+          "title": "Construction Materials"
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CIVL 3010",
+          "credits": 0,
+          "title": "Academic and Professional Development III"
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CIVL 3020",
+          "credits": 0,
+          "title": "Internship Training"
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CIVL 3210",
+          "credits": 3,
+          "title": "Introduction to Construction Management"
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CIVL 3310",
+          "credits": 3,
+          "title": "Structural Analysis"
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CIVL 3320",
+          "credits": 3,
+          "title": "Reinforced Concrete Design"
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CIVL 3510",
+          "credits": 3,
+          "title": "Hydrosystems Engineering"
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CIVL 3610",
+          "credits": 3,
+          "title": "Traffic and Transportation Engineering"
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CIVL 3730",
+          "credits": 3,
+          "title": "Fundamentals of Geotechnics"
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CIVL 3740",
+          "credits": 3,
+          "title": "Geotechnical Analysis and Design"
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "minCredits": 6,
+      "maxCredits": 6,
+      "note": "CIVL 4910 OR CIVL 4920 (Students taking the Research Option must take CIVL 4920)",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "CIVL 4910"
+          },
+          {
+            "type": "course",
+            "code": "CIVL 4920"
+          },
+          {
+            "type": "course",
+            "code": "CIVL 4920"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "CIVL 4910",
+          "credits": 6,
+          "title": "Civil and Environmental Engineering Final Year Project"
+        },
+        {
+          "code": "CIVL 4920",
+          "credits": 6,
+          "title": "Civil and Environmental Engineering Final Year Thesis"
+        },
+        {
+          "code": "CIVL 4950",
+          "credits": 3,
+          "title": "Civil Engineering Capstone Design Project"
+        },
+        {
+          "code": "ENGG 2010",
+          "credits": 0,
+          "title": "Engineering Seminar Series"
+        },
+        {
+          "code": "LANG 4033",
+          "credits": 3,
+          "title": "Technical Communication II for Civil and Environmental"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 5,
+      "note": "COMP 1021 OR COMP 1022P OR COMP 2011 OR",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 1021"
+          },
+          {
+            "type": "course",
+            "code": "COMP 1022P"
+          },
+          {
+            "type": "course",
+            "code": "COMP 2011"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 1021",
+          "credits": 3,
+          "title": "Introduction to Computer Science"
+        },
+        {
+          "code": "COMP 1022P",
+          "credits": 3,
+          "title": "Introduction to Computing with Java"
+        },
+        {
+          "code": "COMP 2011",
+          "credits": 4,
+          "title": "Programming with C++"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 5,
+      "maxCredits": 5,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "COMP 2012H",
+          "credits": 5,
+          "title": "Honors Object-Oriented Programming and Data Structures"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 1012",
+          "credits": 3,
+          "title": "General Chemistry B: Atomic Structure, Molecules, and Bonding"
+        }
+      ]
+    },
+    {
+      "subject": "LANG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "LANG 2030",
+          "credits": 3,
+          "title": "Technical Communication I"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 7,
+      "note": "[(MATH 1012 OR MATH 1013 OR MATH 1023) AND (MATH 1014 OR MATH 1024)] OR [MATH 1020]",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1012"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1013"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1023"
+                  }
+                ]
+              },
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1014"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1024"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "course",
+            "code": "MATH 1020"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 1012",
+          "credits": 4,
+          "title": "Calculus IA"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1014",
+          "credits": 3,
+          "title": "Calculus II"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        },
+        {
+          "code": "MATH 1024",
+          "credits": 3,
+          "title": "Honors Calculus II"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MATH 2011",
+          "credits": 3,
+          "title": "Introduction to Multivariable Calculus"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MATH 2350",
+          "credits": 3,
+          "title": "Applied Linear Algebra and Differential Equations"
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "PHYS 1112 OR PHYS 1312",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "PHYS 1112"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 1312"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "PHYS 1112",
+          "credits": 3,
+          "title": "General Physics I with Calculus"
+        },
+        {
+          "code": "PHYS 1312",
+          "credits": 3,
+          "title": "Honors General Physics I"
+        }
+      ]
+    }
+  ],
+  "electives": [
+    {
+      "subject": "CIVL/SENG",
+      "minCredits": 9,
+      "maxCredits": null,
+      "freeForm": "CIVL Electives (3 courses from the specified elective list) CIVL Any CIVL courses at 4000-level or above except CIVL 4230 SENG Any 3000-level or above courses offered by the Engineering School or engineering departments other than CIVL",
+      "areas": []
+    }
+  ],
+  "notes": "- COMP 1022P: The course was last offered in 2024-25 and was deleted subsequently.\n- MATH 1012: The course was last offered in 2024-25 and was deleted subsequently.\n2026-27 CIVL (4Y) (2023-24 intake) Page 3",
+  "tracks": [
+    {
+      "name": "Research Option",
+      "note": "Students with CGA of 3.15 or above may apply for enrollment in the Research Option.  They should declare their intention to enroll in the Option no later than the first term of their third year of study.  In addition, students should take CIVL 4920 as specified in the major requirements.",
+      "groups": [
+        {
+          "subject": "CIVL/UROP",
+          "minCredits": 1,
+          "maxCredits": 4,
+          "note": "CIVL 4900 OR UROP 1100",
+          "logic": {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "CIVL 4900"
+              },
+              {
+                "type": "course",
+                "code": "UROP 1100"
+              }
+            ]
+          },
+          "options": [
+            {
+              "code": "CIVL 4900",
+              "credits": 1,
+              "title": "Directed Studies"
+            },
+            {
+              "code": "UROP 1100",
+              "credits": 1,
+              "title": "Undergraduate Research Opportunities Series 1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "trackRequired": false
+}

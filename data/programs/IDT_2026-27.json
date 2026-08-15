@@ -1,0 +1,231 @@
+{
+  "programCode": "IDT",
+  "programName": "BSc in Innovation, Design and Technology",
+  "intakeYear": "2026-27",
+  "school": "",
+  "prerequisites": [],
+  "required": [
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 5,
+      "note": "COMP 1023 OR COMP 2011 OR COMP 2012H",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 1023"
+          },
+          {
+            "type": "course",
+            "code": "COMP 2011"
+          },
+          {
+            "type": "course",
+            "code": "COMP 2012H"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 1023",
+          "credits": 3,
+          "title": "Introduction to Python Programming"
+        },
+        {
+          "code": "COMP 2011",
+          "credits": 4,
+          "title": "Programming with C++"
+        },
+        {
+          "code": "COMP 2012H",
+          "credits": 5,
+          "title": "Honors Object-Oriented Programming and Data Structures"
+        }
+      ]
+    },
+    {
+      "subject": "LANG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "LANG 4036",
+          "credits": 3,
+          "title": "Technical Communication for Technology Projects"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 7,
+      "note": "[MATH 1006 OR MATH 1013 OR MATH 1023 AND (MATH 1014 OR MATH 1024)] OR [MATH 1020] (Subject to",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "MATH 1006"
+              },
+              {
+                "type": "course",
+                "code": "MATH 1013"
+              },
+              {
+                "type": "and",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1023"
+                  },
+                  {
+                    "type": "or",
+                    "children": [
+                      {
+                        "type": "course",
+                        "code": "MATH 1014"
+                      },
+                      {
+                        "type": "course",
+                        "code": "MATH 1024"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "course",
+            "code": "MATH 1020"
+          },
+          {
+            "type": "or",
+            "children": []
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 1006",
+          "credits": 4,
+          "title": "Calculus, Vectors, and Matrices"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1014",
+          "credits": 3,
+          "title": "Calculus II"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        },
+        {
+          "code": "MATH 1024",
+          "credits": 3,
+          "title": "Honors Calculus II"
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "PHYS 1101 OR PHYS 1111 OR PHYS 1112 OR PHYS 1312",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "PHYS 1101"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 1111"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 1112"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 1312"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "PHYS 1101",
+          "credits": 4,
+          "title": "Introductory Physics"
+        },
+        {
+          "code": "PHYS 1111",
+          "credits": 3,
+          "title": "General Physics I"
+        },
+        {
+          "code": "PHYS 1112",
+          "credits": 3,
+          "title": "General Physics I with Calculus"
+        },
+        {
+          "code": "PHYS 1312",
+          "credits": 3,
+          "title": "Honors General Physics I"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [],
+  "electives": [
+    {
+      "subject": "ISDN/ENTR/SBM/TEMG",
+      "minCredits": 6,
+      "maxCredits": null,
+      "freeForm": "Product Management and Entrepreneurship Electives (Courses from the specified elective list, of which at least 1 course must be at 3000-level or above.) ISDN 3350 3 Global Product Development ISDN 3360 3 From Product Innovations to Successful Technology Startups ISDN 4200 3 Product Management ENTR 3100 3 Industrial Landscape: Understanding the Elements to Start a Business FINA 2203 3 Fundamentals of Business Finance ISOM 2030 3 Business Protections for Innovations ISOM 2700 3 Operations Management ISOM 4020 3 Innovation Management and Technology Entrepreneurship MARK 2120 3 Marketing Management TEMG 3950 3 T&M Case Analysis and Product Innovation TEMG 4940 3-5 T&M Prototyping and Research Project TEMG 4950 3-5 T&M Corporate Consulting Project TEMG 4970 1-5 T&M IBPC Startup Project Academy of Interdisciplinary Studies - BSc in Innovation, Design and Technology ISDN/SENG/ MATH",
+      "areas": []
+    },
+    {
+      "subject": "ISDN/SENG/MATH",
+      "minCredits": 21,
+      "maxCredits": null,
+      "freeForm": "Project-related Electives (Courses from the specified elective list, of which at least 12 credits should be at 3000-level or above and no more than 3 credits at 1000-level.  Students should seek approval of their advisor for the choices of courses.) ISDN 2210 3 Introduction to Brand Design ISDN 3004 2 Advanced Sketching ISDN 3150 3 AI for Design ISDN 3300 3 Interaction Design BIEN 3320 3 Data Science for Biology and Medicine COMP 2011 4 Programming with C++ COMP 2012 4 Object-Oriented Programming and Data Structures COMP 2211 3 Introduction to Artificial Intelligence COMP 2611 4 Computer Organization COMP 3111 4 Software Engineering COMP 3211 3 Learning, Reasoning, and Decision Making in AI COMP 3311 3 Database Management Systems COMP 3711 3 Design and Analysis of Algorithms COMP 4021 3 Internet Computing COMP 4221 3 Introduction to Natural Language Processing COMP 4331 3 Data Mining COMP 4411 3 Computer Graphics COMP 4421 3 Image Processing COMP 4461 3 Human-Computer Interaction COMP 4462 3 Data Visualization COMP 4521 3 Mobile Application Development COMP 4632 3 Practicing Cybersecurity: Attacks and Counter-measures COMP 4641 3 Social Information Network Analysis and Engineering COMP 4651 3 Cloud Computing and Big Data Systems COMP 4901 0-4 Special Topics in Computer Science",
+      "areas": []
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 0,
+      "maxCredits": 4,
+      "freeForm": "Any ELEC courses at 3000-level",
+      "areas": []
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 0,
+      "maxCredits": 4,
+      "freeForm": "Any ELEC courses at 4000-level ELEC 2100 4 Signals and Systems ELEC 2350 4 Introduction to Computer Organization and Design ELEC 2400 4 Electronic Circuits ELEC 2600 4 Probability and Random Processes in Engineering IEDA 2520 3 Probability for Engineers MATH 2011 3 Introduction to Multivariable Calculus MATH 2111 3 Matrix Algebra and Applications MATH 2343 4 Discrete Structures MATH 2350 3 Applied Linear Algebra and Differential Equations MATH 2411 4 Applied Statistics MECH 2020 3 Statics and Dynamics MECH 2040 3 Solid Mechanics I MECH 2210 3 Fluid Mechanics MECH 2310 3 Thermodynamics Academy of Interdisciplinary Studies - BSc in Innovation, Design and Technology MECH 2410 3 Engineering Materials I MECH 2520 3 Design and Manufacturing I MECH 3030 3 Mechanisms of Machinery MECH 3300 3 Energy Conversion MECH 3310 3 Heat Transfer MECH 3420 3 Engineering Materials II MECH 3510 3 Computer-Aided Design and Manufacturing MECH 3610 3 Control Principles MECH 3907 3 Mechatronic Design and Prototyping MECH 4450 3 Introduction to Finite Element Analysis MECH 4710 3 Introduction to Robotics MECH 4740 3 Numerical Methods in Engineering",
+      "areas": []
+    }
+  ],
+  "notes": "",
+  "tracks": []
+}

@@ -1,0 +1,44 @@
+{
+  "programCode": "CHEM",
+  "programName": "CHEM 1011  General Chemistry A: Reactions, Thermodynamics, and Reaction",
+  "intakeYear": "2025-26",
+  "school": "",
+  "prerequisites": [],
+  "required": [],
+  "schoolRequirements": [],
+  "electives": [],
+  "notes": "-     CHEM 2410: The credit value will be changed to 4 starting from Fall, 2027-28.\n-     CHEM 3420: The credit value will be changed to 4 starting from Fall, 2027-28.\n2026-27  CHEM (4Y) (2025-26 intake) Page 6",
+  "tracks": [
+    {
+      "name": "Biomolecular Chemistry Track",
+      "note": "",
+      "groups": []
+    },
+    {
+      "name": "Core Chemistry Track",
+      "note": "",
+      "groups": []
+    },
+    {
+      "name": "Environmental and Analytical Chemistry Option",
+      "note": "Students in the Core Chemistry Track, and those in the International Research Enrichment Track with consent of the program office, may enroll in the Environmental and Analytical Chemistry Option.",
+      "groups": []
+    },
+    {
+      "name": "Materials Chemistry Option",
+      "note": "Students in the Core Chemistry Track, and those in the International Research Enrichment Track with consent of the program office, may enroll in the Materials Chemistry Option.",
+      "groups": []
+    },
+    {
+      "name": "Pure Chemistry Option",
+      "note": "Students in the Core Chemistry Track, and those in the International Research Enrichment Track with consent of the program office, may enroll in the Pure Chemistry Option.",
+      "groups": []
+    },
+    {
+      "name": "International Research Enrichment Track",
+      "note": "Students in the IRE Track should also take SCIE 3500 and SCIE 4500 as specified in the major requirement and follow the curriculum of the Core Chemistry Track with additional requirement(s) specified below. Subject to approval of the program office, students may take an option under the Core Chemistry Track and reuse CHEM 4430 to fulfill the requirements, if applicable, of any of these Chemistry Options.",
+      "groups": []
+    }
+  ],
+  "trackRequired": true
+}

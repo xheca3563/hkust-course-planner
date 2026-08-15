@@ -1,0 +1,557 @@
+{
+  "programCode": "BMH",
+  "programName": "BSc in Biomedical and Health Sciences",
+  "intakeYear": "2026-27",
+  "school": "Science",
+  "prerequisites": [],
+  "required": [
+    {
+      "subject": "LIFS",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "LIFS 3040",
+          "credits": 3,
+          "title": "Animal Physiology"
+        }
+      ]
+    },
+    {
+      "subject": "LIFS",
+      "minCredits": 8,
+      "maxCredits": 8,
+      "note": "LIFS 3901 OR LIFS 3902 OR LIFS 3903 OR LIFS 3904 (2",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "LIFS 3901"
+          },
+          {
+            "type": "course",
+            "code": "LIFS 3902"
+          },
+          {
+            "type": "course",
+            "code": "LIFS 3903"
+          },
+          {
+            "type": "course",
+            "code": "LIFS 3904"
+          },
+          {
+            "type": "or",
+            "children": []
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "LIFS 3901",
+          "credits": 4,
+          "title": "Case Study on Biomedical and Health Sciences IIA - Generation of"
+        },
+        {
+          "code": "LIFS 3902",
+          "credits": 4,
+          "title": "Case Study on Biomedical and Health Sciences IIB - Phenotypic"
+        },
+        {
+          "code": "LIFS 3903",
+          "credits": 4,
+          "title": "Case Study on Biomedical and Health Sciences IIC - Genome-wide"
+        },
+        {
+          "code": "LIFS 3904",
+          "credits": 4,
+          "title": "Case Study on Biomedical and Health Sciences IID - Analysis of Next-"
+        },
+        {
+          "code": "LIFS 4370",
+          "credits": 3,
+          "title": "Human Genetics and Personalized Medicine"
+        },
+        {
+          "code": "LIFS 4380",
+          "credits": 3,
+          "title": "Pharmacology and Toxicology"
+        }
+      ]
+    },
+    {
+      "subject": "LIFS",
+      "minCredits": 3,
+      "maxCredits": 7,
+      "note": "LIFS 4966 OR (LIFS 4976 AND LIFS 4986)",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "LIFS 4966"
+          },
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "course",
+                "code": "LIFS 4976"
+              },
+              {
+                "type": "course",
+                "code": "LIFS 4986"
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "LIFS 4966",
+          "credits": 3,
+          "title": "Biomedical and Health Sciences Capstone Project"
+        },
+        {
+          "code": "LIFS 4976",
+          "credits": 3,
+          "title": "Biomedical and Health Sciences Project Research I"
+        },
+        {
+          "code": "LIFS 4986",
+          "credits": 4,
+          "title": "Biomedical and Health Sciences Project Research II"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 1011",
+          "credits": 3,
+          "title": "General Chemistry A: Reactions, Thermodynamics, and"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 1012",
+          "credits": 3,
+          "title": "General Chemistry B: Atomic Structure, Molecules, and Bonding"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 1051",
+          "credits": 1,
+          "title": "Laboratory for General Chemistry A"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 1052",
+          "credits": 1,
+          "title": "Laboratory for General Chemistry B"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "MATH 1005 OR MATH 1006 OR MATH 1013",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 1005"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1006"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1013"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 1005",
+          "credits": 4,
+          "title": "Calculus and Statistics"
+        },
+        {
+          "code": "MATH 1006",
+          "credits": 4,
+          "title": "Calculus, Vectors, and Matrices"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "COMP 1021",
+          "credits": 3,
+          "title": "Introduction to Computer Science"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "COMP 1021 OR COMP 1022P OR COMP 1023",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 1021"
+          },
+          {
+            "type": "course",
+            "code": "COMP 1022P"
+          },
+          {
+            "type": "course",
+            "code": "COMP 1023"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 1021",
+          "credits": 3,
+          "title": "Introduction to Computer Science"
+        },
+        {
+          "code": "COMP 1022P",
+          "credits": 3,
+          "title": "Introduction to Computing with Java"
+        },
+        {
+          "code": "COMP 1023",
+          "credits": 3,
+          "title": "Introduction to Python Programming"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "SSCI",
+      "minCredits": 18,
+      "maxCredits": 18,
+      "note": "SSCI Science Foundation courses [6 courses from the specified elective list, including at least 1 lecture course, but no more than",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 1008",
+          "credits": 3,
+          "title": "Introductory Chemistry"
+        },
+        {
+          "code": "CHEM 1011",
+          "credits": 3,
+          "title": "General Chemistry A: Reactions, Thermodynamics, and Reaction "
+        },
+        {
+          "code": "CHEM 1012",
+          "credits": 3,
+          "title": "General Chemistry B: Atomic Structure, Molecules, and Bonding "
+        },
+        {
+          "code": "CHEM 1051",
+          "credits": 1,
+          "title": "Laboratory for General Chemistry A"
+        },
+        {
+          "code": "CHEM 1052",
+          "credits": 1,
+          "title": "Laboratory for General Chemistry B"
+        },
+        {
+          "code": "DASC 2010",
+          "credits": 3,
+          "title": "Calculus for Data Analytics in Science"
+        },
+        {
+          "code": "LIFS 1901",
+          "credits": 3,
+          "title": "General Biology I"
+        },
+        {
+          "code": "LIFS 1902",
+          "credits": 3,
+          "title": "General Biology II"
+        },
+        {
+          "code": "LIFS 1903",
+          "credits": 1,
+          "title": "Laboratory for General Biology I"
+        },
+        {
+          "code": "LIFS 1904",
+          "credits": 1,
+          "title": "Laboratory for General Biology II"
+        },
+        {
+          "code": "LIFS 1930",
+          "credits": 3,
+          "title": "Nature of Life Sciences"
+        },
+        {
+          "code": "LIFS 2210",
+          "credits": 3,
+          "title": "Biochemistry I"
+        },
+        {
+          "code": "MATH 1005",
+          "credits": 4,
+          "title": "Calculus and Statistics"
+        },
+        {
+          "code": "MATH 1006",
+          "credits": 4,
+          "title": "Calculus, Vectors, and Matrices"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1014",
+          "credits": 3,
+          "title": "Calculus II"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        },
+        {
+          "code": "MATH 1024",
+          "credits": 3,
+          "title": "Honors Calculus II"
+        },
+        {
+          "code": "MATH 2011",
+          "credits": 3,
+          "title": "Introduction to Multivariable Calculus"
+        },
+        {
+          "code": "MATH 2023",
+          "credits": 4,
+          "title": "Multivariable Calculus"
+        },
+        {
+          "code": "MATH 2111",
+          "credits": 3,
+          "title": "Matrix Algebra and Applications"
+        },
+        {
+          "code": "MATH 2121",
+          "credits": 4,
+          "title": "Linear Algebra"
+        },
+        {
+          "code": "MATH 2131",
+          "credits": 4,
+          "title": "Honors in Linear and Abstract Algebra I"
+        },
+        {
+          "code": "OCES 1001",
+          "credits": 3,
+          "title": "The Earth as a Blue Planet"
+        },
+        {
+          "code": "OCES 1010",
+          "credits": 3,
+          "title": "Principles and Applications of Environmental Science"
+        },
+        {
+          "code": "PHYS 1101",
+          "credits": 4,
+          "title": "Introductory Physics"
+        },
+        {
+          "code": "PHYS 1111",
+          "credits": 3,
+          "title": "General Physics I"
+        },
+        {
+          "code": "PHYS 1112",
+          "credits": 3,
+          "title": "General Physics I with Calculus"
+        },
+        {
+          "code": "PHYS 1113",
+          "credits": 1,
+          "title": "Laboratory for General Physics I"
+        },
+        {
+          "code": "PHYS 1114",
+          "credits": 3,
+          "title": "General Physics II"
+        },
+        {
+          "code": "PHYS 1115",
+          "credits": 1,
+          "title": "Laboratory for General Physics II"
+        },
+        {
+          "code": "PHYS 1312",
+          "credits": 3,
+          "title": "Honors General Physics I"
+        },
+        {
+          "code": "PHYS 1314",
+          "credits": 3,
+          "title": "Honors General Physics II"
+        }
+      ],
+      "noProse": true
+    },
+    {
+      "subject": "SSCI（仅 IRE 方向）",
+      "minCredits": 8,
+      "maxCredits": 9,
+      "note": "Additional Required Courses for IRE Track [SCIE 1500 AND SCIE 2500 AND SCIE 3900 AND LANG 3027 AND (UROP 1000 OR UROP 1100)]",
+      "logic": {
+        "type": "and",
+        "children": [
+          {
+            "type": "course",
+            "code": "SCIE 1500"
+          },
+          {
+            "type": "course",
+            "code": "SCIE 2500"
+          },
+          {
+            "type": "course",
+            "code": "SCIE 3900"
+          },
+          {
+            "type": "course",
+            "code": "LANG 3027"
+          },
+          {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "UROP 1000"
+              },
+              {
+                "type": "course",
+                "code": "UROP 1100"
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "SCIE 1500",
+          "credits": 1,
+          "title": "Guided Study on Research I"
+        },
+        {
+          "code": "SCIE 2500",
+          "credits": 1,
+          "title": "Guided Study on Research II"
+        },
+        {
+          "code": "SCIE 3900",
+          "credits": 3,
+          "title": "International Research Experience"
+        },
+        {
+          "code": "LANG 3027",
+          "credits": 3,
+          "title": "Science Communication in English for Research Students"
+        },
+        {
+          "code": "UROP 1000",
+          "credits": 0,
+          "title": "Undergraduate Research Opportunities"
+        },
+        {
+          "code": "UROP 1100",
+          "credits": 1,
+          "title": "1 Undergraduate Research Opportunities Series"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "SSCI（仅 IRE 方向）",
+      "minCredits": 6,
+      "maxCredits": 6,
+      "note": "Additional Science 2000-level or above Electives for IRE Track (Any 2 courses of the subject and level as specified and approved by advisor)",
+      "logic": null,
+      "options": [],
+      "noProse": false
+    }
+  ],
+  "electives": [
+    {
+      "subject": "LIFS/CHEM/SENG/SBM/SHSS",
+      "minCredits": 17,
+      "maxCredits": 21,
+      "freeForm": "Biomedical and Health Sciences Electives [Courses from the specified elective list. Students should take a minimum of 17 credits (for those opting for LIFS 4976 and LIFS 4986) or 21 credits (for those opting for LIFS 4966), of which at least 12 credits must be offered by LIFS.] LIFS 1982 2 Introduction to Biomedical and Health Science Laboratory Techniques LIFS 2070 3 Introduction to Biotechnology LIFS 3002 2-4 Special Topics of Biological Sciences LIFS 3060 3 Microbiology LIFS 3070 3 Introduction to Biophysical Instrumentation LIFS 3140 4 General Genetics LIFS 3150 3 Biostatistics LIFS 3180** 3 Human Anatomy LIFS 3190** 3 Human Physiology LIFS 3240 3 Introduction to Neurobiology LIFS 3370 3 Human Genetics in Practice LIFS 4000 1-4 Special Topics in Life Science LIFS 4060 3 Immunobiology LIFS 4090 3 Developmental Biology LIFS 4140 3 Cancer Biology LIFS 4170** 3 Bioethics LIFS 4320 3 Data Science for Biology and Medicine LIFS 4540 3 Structure and Function of Proteins LIFS 4550 3 Biochemistry of Nutrition LIFS 4760 3 Biochemistry of Diseases LIFS 4881** 3 High Throughput Sequencing in Practice LIFS 4950 3 Neurochemistry CHEM 2111 3 Fundamentals of Organic Chemistry CHEM 2155 1 Fundamental Organic Chemistry Laboratory CHEM 2311 3 Analytical Chemistry CHEM 2355 1 Fundamental Analytical Chemistry Laboratory BIEN 4110 3 Regulatory Affairs in the Healthcare Industry CENG 4650 3 Biomaterials and Drug Delivery COMP 2011 4 Programming with C++ MGMT 1120 3 Developing the Leader in You MGMT 1130 3 Traps and Pitfalls in Judgment and Decision Making MGMT 2110 3 Organizational Behavior SOSC 1960 3 Introduction to Psychology SOSC 1969 3 Discovering Mind and Behavior SOSC 1980 3 Psychology of Personal Growth SOSC 1990 3 Research Methods in Psychological Science SOSC 2240 3 Biological Psychology SOSC 3900 3 Abnormal Psychology",
+      "areas": []
+    }
+  ],
+  "notes": "- LIFS 3180: This is a new course subject to approval.\n- LIFS 3190: This is a new course subject to approval.\n- LIFS 4170: This is a new course subject to approval.\n- LIFS 4881: This is a new course subject to approval.\n2026-27 BMH (4Y) (2026-27 intake) Page 3",
+  "tracks": []
+}

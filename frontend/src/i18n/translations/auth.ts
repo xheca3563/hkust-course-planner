@@ -1,0 +1,16 @@
+export const auth = {
+  'auth.confirmPassword': { en: 'Confirm password', zh: '确认密码' },
+  'auth.emailAlreadyRegistered': { en: 'This email is already registered', zh: '该邮箱已注册' },
+  'auth.emailLabel': { en: 'Email', zh: '邮箱' },
+  'auth.fillAllFields': { en: 'Please fill in all fields', zh: '请填写所有字段' },
+  'auth.invalidCredentials': { en: 'Invalid email or password', zh: '邮箱或密码错误' },
+  'auth.login': { en: 'Sign in', zh: '登录' },
+  'auth.operationFailed': { en: 'Operation failed, please try again later', zh: '操作失败，请稍后重试' },
+  'auth.passwordLabel': { en: 'Password', zh: '密码' },
+  'auth.passwordMinLength': { en: 'Password must be at least 6 characters', zh: '密码至少需要6位字符' },
+  'auth.passwordMismatch': { en: 'Passwords do not match', zh: '两次输入的密码不一致' },
+  'auth.register': { en: 'Sign up', zh: '注册' },
+  'auth.signupSuccess': { en: 'Registration successful! Please check your email for the confirmation link.', zh: '注册成功！请查看邮箱确认链接。' },
+  'auth.supabaseNotConfigured': { en: 'Supabase is not configured', zh: 'Supabase 未配置' },
+  'auth.syncHint': { en: 'Sign in to sync your timetable, favorites, and preferences across devices', zh: '登录后可跨设备同步课表、收藏和偏好设置' },
+} as const

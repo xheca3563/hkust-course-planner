@@ -1,0 +1,397 @@
+{
+  "programCode": "CENG",
+  "programName": "BEng in Chemical Engineering",
+  "intakeYear": "2026-27",
+  "school": "Engineering",
+  "prerequisites": [],
+  "required": [
+    {
+      "subject": "CENG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CENG 1000",
+          "credits": 3,
+          "title": "Foundations of Chemical and Biological Engineering"
+        }
+      ]
+    },
+    {
+      "subject": "CENG",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CENG 1010",
+          "credits": 0,
+          "title": "Academic and Professional Development I"
+        }
+      ]
+    },
+    {
+      "subject": "CENG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CENG 1110",
+          "credits": 3,
+          "title": "Introduction to Chemical Engineering"
+        }
+      ]
+    },
+    {
+      "subject": "CENG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CENG 1500",
+          "credits": 3,
+          "title": "A First Course on Materials Science and Applications"
+        }
+      ]
+    },
+    {
+      "subject": "CENG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CENG 2210",
+          "credits": 3,
+          "title": "Chemical and Biological Engineering Thermodynamics"
+        }
+      ]
+    },
+    {
+      "subject": "CENG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CENG 2220",
+          "credits": 3,
+          "title": "Transport Phenomena I"
+        }
+      ]
+    },
+    {
+      "subject": "CENG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CENG 2310",
+          "credits": 3,
+          "title": "Modeling for Chemical and Biological Engineering I"
+        }
+      ]
+    },
+    {
+      "subject": "CENG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CENG 2320",
+          "credits": 3,
+          "title": "Modeling for Chemical and Biological Engineering II"
+        }
+      ]
+    },
+    {
+      "subject": "CENG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CENG 3110",
+          "credits": 3,
+          "title": "Process Dynamics and Control"
+        }
+      ]
+    },
+    {
+      "subject": "CENG",
+      "minCredits": 5,
+      "maxCredits": 5,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CENG 3150",
+          "credits": 5,
+          "title": "Integrated Chemical Process and Product Design"
+        }
+      ]
+    },
+    {
+      "subject": "CENG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CENG 3210",
+          "credits": 3,
+          "title": "Separation Processes"
+        }
+      ]
+    },
+    {
+      "subject": "CENG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CENG 3220",
+          "credits": 3,
+          "title": "Transport Phenomena II"
+        }
+      ]
+    },
+    {
+      "subject": "CENG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CENG 3230",
+          "credits": 3,
+          "title": "Chemical and Biological Reaction Engineering"
+        }
+      ]
+    },
+    {
+      "subject": "CENG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CENG 3300",
+          "credits": 3,
+          "title": "Data Science for Molecular Engineering"
+        }
+      ]
+    },
+    {
+      "subject": "CENG",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CENG 3950",
+          "credits": 4,
+          "title": "Chemical and Environmental Engineering Laboratory**"
+        }
+      ]
+    },
+    {
+      "subject": "CENG",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CENG 4020",
+          "credits": 0,
+          "title": "Academic and Professional Development II"
+        }
+      ]
+    },
+    {
+      "subject": "CENG",
+      "minCredits": 6,
+      "maxCredits": 6,
+      "note": "CENG 4920 OR CENG 4930 OR CENG 4940",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "CENG 4920"
+          },
+          {
+            "type": "course",
+            "code": "CENG 4930"
+          },
+          {
+            "type": "course",
+            "code": "CENG 4940"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "CENG 4920",
+          "credits": 6,
+          "title": "Chemical Engineering Capstone Design"
+        },
+        {
+          "code": "CENG 4930",
+          "credits": 6,
+          "title": "Chemical Engineering Thesis Research"
+        },
+        {
+          "code": "CENG 4940",
+          "credits": 6,
+          "title": "Chemical Engineering Industrial Project"
+        }
+      ]
+    },
+    {
+      "subject": "BIEN/LIFS",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "BIEN 2410 OR BIEN 2610 OR LIFS 1901",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "BIEN 2410"
+          },
+          {
+            "type": "course",
+            "code": "BIEN 2610"
+          },
+          {
+            "type": "course",
+            "code": "LIFS 1901"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "BIEN 2410",
+          "credits": 3,
+          "title": "Cellular and Systems Physiology for Engineers"
+        },
+        {
+          "code": "BIEN 2610",
+          "credits": 3,
+          "title": "Chemical Biology for Engineers"
+        },
+        {
+          "code": "LIFS 1901",
+          "credits": 3,
+          "title": "General Biology I"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 1052",
+          "credits": 1,
+          "title": "Laboratory for General Chemistry B"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 2111",
+          "credits": 3,
+          "title": "Fundamentals of Organic Chemistry"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 2155",
+          "credits": 1,
+          "title": "Fundamental Organic Chemistry Laboratory"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [],
+  "electives": [
+    {
+      "subject": "CENG/BIEN/COMP/ENEG/CHEM",
+      "minCredits": 12,
+      "maxCredits": null,
+      "freeForm": "CENG Electives (Courses from the specified list; students taking the Environment Option must take CENG 4140 and CENG 4710.) CENG 4000 3 Special Topics CENG 4130 3 Plant Design and Economics CENG 4140 3 Energy Resources, Conversions and Technologies CENG 4160** 3 Prototype Development for Chemical Processes and Products CENG 4510 3 Nature Engineering and DNA Nanotechnology CENG 4540 3 Nanomaterials and Applications in Chemical Engineering CENG 4620 3 Bioproducts and Processing CENG 4630 3 Food Processing Technology CENG 4640 3 Biomolecular Engineering CENG 4650 3 Biomaterials and Drug Delivery CENG 4670 3 Pharmaceutical Engineering CENG 4710 3 Environmental Control CENG 4950 3 Chem-E-Car CENG 4980 3 Investigation Project CENG 5210 3 Advanced Separation Processes CENG 5230 3 Advanced Control and Data Science CENG 5240 3 Deep Learning for Chemical and Biological Engineering CENG 5550 3 Polymer Physics and Advanced Applications CENG 5840 3 Nanomaterials for Chemical Engineering Applications CENG 5930 3 Electrochemical Energy Technologies BIEN 5070 3 Synthetic Biology COMP 2211 3 Introduction to Artificial Intelligence ENEG 4130 3 Photovoltaic Materials and Devices CHEM 2311 3 Analytical Chemistry",
+      "areas": []
+    }
+  ],
+  "notes": "- CENG 3950: The course title will be changed to \"Chemical Engineering Laboratory\" starting from Fall,\n2027-28.\n- CENG 4160: The course was last offered in 2022-23 and was deleted subsequently.\n- COMP 1022P: The course was last offered in 2024-25 and was deleted subsequently.\n2026-27 CENG (4Y) (2026-27 intake) Page 4",
+  "tracks": [
+    {
+      "name": "Environment Option",
+      "note": "Students in the Environment Option should also take CENG 4140 and CENG 4710 to fulfill the CENG Electives as specified under the Major Requirements.",
+      "groups": [
+        {
+          "subject": "ENEG",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "ENEG 1700",
+              "credits": 3,
+              "title": "Introduction to Energy and Environmental Engineering"
+            }
+          ]
+        },
+        {
+          "subject": "CENG/CIVL/ENVR",
+          "minCredits": 3,
+          "maxCredits": null,
+          "note": "Environment Electives (1 course from the specified elective list) CENG 4720 3 Environmental Impact Assessment and Management Systems CIVL 4430 3 Environmental Impact Assessment CIVL 4450 3 Carbon Footprint Analysis and Reduction ENVR 3110 3 Life Cycle Assessment for Sustainable Development ENVR 3220 3 Energy Sources and Usage",
+          "logic": null,
+          "options": []
+        }
+      ]
+    }
+  ],
+  "trackRequired": false
+}

@@ -1,0 +1,6193 @@
+[
+  {
+    "code": "ACCT 1010",
+    "title": "Accounting, Business and Society",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "AISC 1000",
+    "title": "Foundations of AI Literacy: Human–AI Or chestration",
+    "credits": 3,
+    "areas": [
+      "HAIC"
+    ],
+    "areaByCohort": {
+      "cc22": [],
+      "cc25": [],
+      "cc26": [
+        "HAIC"
+      ]
+    },
+    "remark": "From 2026-27 Fall for 2026-27 cohort.",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "AISC 1000A",
+    "title": "Foundations of AI Literacy: Human-AI Orchestration",
+    "credits": 3,
+    "areas": [
+      "HAIC"
+    ],
+    "areaByCohort": {
+      "cc22": [],
+      "cc25": [],
+      "cc26": [
+        "HAIC"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "AISC 1000B",
+    "title": "Foundations of AI Literacy: Human-AI Orchestration",
+    "credits": 3,
+    "areas": [
+      "HAIC"
+    ],
+    "areaByCohort": {
+      "cc22": [],
+      "cc25": [],
+      "cc26": [
+        "HAIC"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "AMCC 2010",
+    "title": "Digital Audio Workstation Composition",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": [
+        "A"
+      ]
+    },
+    "remark": "is a commo n core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "AMCC 2020",
+    "title": "Coding for Artistic Expression and Creation",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": []
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "BIEN 1610",
+    "title": "Engineering Life: Synthetic Biology and Innovations for Human Health",
+    "credits": 3,
+    "areas": [
+      "S",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S",
+        "T"
+      ],
+      "cc25": [
+        "S",
+        "T"
+      ],
+      "cc26": [
+        "S",
+        "T"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "BIEN 1620",
+    "title": "Revolutionizing Health: Biomedical Innovations in Everyday Life",
+    "credits": 3,
+    "areas": [
+      "S",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S",
+        "T"
+      ],
+      "cc25": [
+        "S",
+        "T"
+      ],
+      "cc26": []
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "CENG 1800",
+    "title": "Introduction to Food Science and Technology",
+    "credits": 3,
+    "areas": [
+      "S",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S",
+        "T"
+      ],
+      "cc25": [
+        "S",
+        "T"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": "CORE 1212",
+    "prev": "CORE 1212"
+  },
+  {
+    "code": "CHEM 1002",
+    "title": "Introduction to Chemistry of Cosmetics",
+    "credits": 3,
+    "areas": [
+      "S"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S"
+      ],
+      "cc25": [
+        "S"
+      ],
+      "cc26": []
+    },
+    "remark": "CORE 1121",
+    "coreCode": "CORE 1121",
+    "prev": "CORE 1121"
+  },
+  {
+    "code": "CHEM 1004",
+    "title": "Chemistry in Everyday Life",
+    "credits": 3,
+    "areas": [
+      "S",
+      "SUS"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S"
+      ],
+      "cc25": [
+        "S",
+        "SUS"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": "CORE 1120",
+    "prev": "CORE 1120"
+  },
+  {
+    "code": "CIVL 1100",
+    "title": "Discovering Civil and Environmental Engineering",
+    "credits": 3,
+    "areas": [
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [
+        "T"
+      ],
+      "cc26": [
+        "T"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "CIVL 1140",
+    "title": "Environment and Society: Sustainable Development Goals and Carbon Neutrality",
+    "credits": 3,
+    "areas": [
+      "SUS",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [
+        "SUS",
+        "T"
+      ],
+      "cc26": [
+        "SUS",
+        "T"
+      ]
+    },
+    "remark": "--",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "CIVL 1161",
+    "title": "Building the Future: Civil Engineering Challenges & Solutions",
+    "credits": 3,
+    "areas": [
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [
+        "T"
+      ],
+      "cc26": []
+    },
+    "remark": "is a commo n core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "CIVL 1180",
+    "title": "Monitoring Changing Climate from Space",
+    "credits": 3,
+    "areas": [
+      "S",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S",
+        "T"
+      ],
+      "cc25": [
+        "S",
+        "T"
+      ],
+      "cc26": [
+        "S",
+        "T"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "CIVL 1190",
+    "title": "Climate Change, Big History and Sustainability",
+    "credits": 3,
+    "areas": [
+      "S",
+      "SUS"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S"
+      ],
+      "cc25": [
+        "S",
+        "SUS"
+      ],
+      "cc26": [
+        "S",
+        "SUS"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1223",
+    "prev": "CORE 1223"
+  },
+  {
+    "code": "CIVL 1210",
+    "title": "Fundamental of Green Buildings",
+    "credits": 3,
+    "areas": [
+      "SUS",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [
+        "SUS",
+        "T"
+      ],
+      "cc26": []
+    },
+    "remark": "- This is a common core course with effect from",
+    "coreCode": null,
+    "prev": "CIVL 2910"
+  },
+  {
+    "code": "CIVL 1220",
+    "title": "Big Data for Smarter Cities",
+    "credits": 3,
+    "areas": [
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [],
+      "cc26": []
+    },
+    "remark": "Area T valid until 2024-25 Summer.",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "COMP 1001",
+    "title": "Exploring Multimedia and Internet Computing",
+    "credits": 3,
+    "areas": [
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [
+        "T"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": "CORE 1231",
+    "prev": "CORE 1231"
+  },
+  {
+    "code": "COMP 1942",
+    "title": "Exploring and Visualizing Data",
+    "credits": 3,
+    "areas": [
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [
+        "T"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": "CORE 1232",
+    "prev": "CORE 1232"
+  },
+  {
+    "code": "COMP 1943",
+    "title": "Creative Sound and Video Design",
+    "credits": 3,
+    "areas": [
+      "A",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "T"
+      ],
+      "cc25": [
+        "A",
+        "T"
+      ],
+      "cc26": [
+        "A",
+        "T"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1233",
+    "prev": "CORE 1233"
+  },
+  {
+    "code": "COMP 1945",
+    "title": "Artificial Intelligence for Everyone: From Data to Applications",
+    "credits": 3,
+    "areas": [
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [
+        "T"
+      ],
+      "cc26": [
+        "T"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "CTDL 1901",
+    "title": "Cognitive Foundations of University Educat ion: Critical Thinking and Data Literacy",
+    "credits": 3,
+    "areas": [
+      "CTDL"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "CTDL"
+      ],
+      "cc25": [
+        "CTDL"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "CTDL 1902",
+    "title": "AI and Society: Ethics, Cognition, and Critical Analysis",
+    "credits": 3,
+    "areas": [
+      "CTDL"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "CTDL"
+      ],
+      "cc25": [
+        "CTDL"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": "IDPO 2500B"
+  },
+  {
+    "code": "CTDL 1950",
+    "title": "Decision – Inside Out: Empowering Interdisciplinary Thinking",
+    "credits": 3,
+    "areas": [
+      "CTDL",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "CTDL",
+        "T"
+      ],
+      "cc25": [
+        "CTDL",
+        "T"
+      ],
+      "cc26": [
+        "T"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "ECON 1220",
+    "title": "Thinking like an Economist I: Microeconomics",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "ECON 1221",
+    "title": "Thinking like an Economist II: Macroeconomics",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "ECON 1222",
+    "title": "What Economics Tells Us About Our Life and Social Policy",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "ELEC 1010",
+    "title": "Electronic and Information Technology",
+    "credits": 3,
+    "areas": [
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [
+        "T"
+      ],
+      "cc26": [
+        "T"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1240",
+    "prev": "CORE 1240"
+  },
+  {
+    "code": "ELEC 1150",
+    "title": "Information Technology Revolution: Past, Present and Future",
+    "credits": 3,
+    "areas": [
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [
+        "T"
+      ],
+      "cc26": [
+        "T"
+      ]
+    },
+    "remark": "cour se code was ENGG 1150 on or before",
+    "coreCode": "CORE 1203, ENGG 1150",
+    "prev": "CORE 1203, ENGG 1150"
+  },
+  {
+    "code": "EMIA 1901",
+    "title": "Introduction to Smart City Development",
+    "credits": 3,
+    "areas": [
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [
+        "T"
+      ],
+      "cc26": [
+        "T"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": "EMIA 4500A"
+  },
+  {
+    "code": "EMIA 1902",
+    "title": "Digital Information Governance in the AI Era --",
+    "credits": 3,
+    "areas": [
+      "SA",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA",
+        "T"
+      ],
+      "cc25": [
+        "SA",
+        "T"
+      ],
+      "cc26": [
+        "SA",
+        "T"
+      ]
+    },
+    "remark": "is a commo n core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "ENGG 1110",
+    "title": "Engineering Solutions to Grand Challenges of the 21st Century",
+    "credits": 3,
+    "areas": [
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [
+        "T"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": "CORE 1202",
+    "prev": "CORE 1202"
+  },
+  {
+    "code": "ENGG 1200",
+    "title": "Engineering Team Design Experience",
+    "credits": 3,
+    "areas": [
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [
+        "T"
+      ],
+      "cc26": [
+        "T"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1200",
+    "prev": "CORE 1200"
+  },
+  {
+    "code": "ENGG 1300",
+    "title": "Design Thinking for Health Innovation",
+    "credits": 3,
+    "areas": [
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [
+        "T"
+      ],
+      "cc26": [
+        "T"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1201",
+    "prev": "CORE 1201"
+  },
+  {
+    "code": "ENGG 1500",
+    "title": "Technological Innovation: From Concept to Reality --",
+    "credits": 3,
+    "areas": [
+      "S",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S",
+        "T"
+      ],
+      "cc25": [
+        "S",
+        "T"
+      ],
+      "cc26": [
+        "S",
+        "T"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "ENTR 1001",
+    "title": "Entrepreneurship 1001: Designing Your Future",
+    "credits": 3,
+    "areas": [
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [
+        "T"
+      ],
+      "cc26": [
+        "T"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1001",
+    "prev": "CORE 1001"
+  },
+  {
+    "code": "ENVR 1030",
+    "title": "Environment and Health",
+    "credits": 3,
+    "areas": [
+      "SUS",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [
+        "SUS",
+        "T"
+      ],
+      "cc26": [
+        "SUS",
+        "T"
+      ]
+    },
+    "remark": "--",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "ENVR 1080",
+    "title": "The Smart Consumer - Uncovering the Hidden Story behind the Product Label",
+    "credits": 3,
+    "areas": [
+      "SA",
+      "SUS"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA",
+        "SUS"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": "CORE 1943",
+    "prev": null
+  },
+  {
+    "code": "ENVR 1150",
+    "title": "Climate Change Impacts and Extreme Weather Events",
+    "credits": 3,
+    "areas": [
+      "S",
+      "SUS"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S"
+      ],
+      "cc25": [
+        "S",
+        "SUS"
+      ],
+      "cc26": [
+        "S",
+        "SUS"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1941",
+    "prev": "CORE 1941"
+  },
+  {
+    "code": "ENVR 2020",
+    "title": "Urban Air Pollution",
+    "credits": 3,
+    "areas": [
+      "S",
+      "SUS"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S"
+      ],
+      "cc25": [
+        "S",
+        "SUS"
+      ],
+      "cc26": [
+        "S",
+        "SUS"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 2941",
+    "prev": null
+  },
+  {
+    "code": "ENVR 2050",
+    "title": "Sustainability Thinking",
+    "credits": 3,
+    "areas": [
+      "SA",
+      "SUS"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SUS"
+      ],
+      "cc26": [
+        "SUS"
+      ]
+    },
+    "remark": "SUS from 2025-26 Fall.",
+    "coreCode": "CORE 2942",
+    "prev": null
+  },
+  {
+    "code": "ENVR 2060",
+    "title": "From Trash to Treasure: Transforming Waste into Resources",
+    "credits": 3,
+    "areas": [
+      "SA",
+      "SUS"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SUS"
+      ],
+      "cc26": [
+        "SUS"
+      ]
+    },
+    "remark": "SUS from 2025-26 Fall.",
+    "coreCode": "CORE 2943",
+    "prev": null
+  },
+  {
+    "code": "ENVR 2070",
+    "title": "Smart Buildings for a Warming Planet",
+    "credits": 3,
+    "areas": [
+      "T",
+      "SUS"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [
+        "SUS"
+      ],
+      "cc26": [
+        "SUS"
+      ]
+    },
+    "remark": "SUS from 2025-26 Fall.",
+    "coreCode": "CORE 2944",
+    "prev": null
+  },
+  {
+    "code": "FINA 1303",
+    "title": "Introduction to Financial Markets and Institutions",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HMAW 1905",
+    "title": "Behavioral Foundations of University Education: Habits, Mindsets, and Wellness",
+    "credits": 3,
+    "areas": [
+      "HMW"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "HMW"
+      ],
+      "cc25": [
+        "HMW"
+      ],
+      "cc26": [
+        "HMW"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HMAW 1905A",
+    "title": "Behavioral Foundations of University Education: Habits, Mindsets, and Wellness",
+    "credits": 3,
+    "areas": [
+      "HMW"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "HMW"
+      ],
+      "cc25": [
+        "HMW"
+      ],
+      "cc26": [
+        "HMW"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1905A",
+    "prev": "CORE 1905A"
+  },
+  {
+    "code": "HMAW 1905B",
+    "title": "Behavioral Foundations of University Education: Habits, Mindsets, and Wellness",
+    "credits": 3,
+    "areas": [
+      "HMW"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "HMW"
+      ],
+      "cc25": [
+        "HMW"
+      ],
+      "cc26": [
+        "HMW"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1905B",
+    "prev": "CORE 1905B"
+  },
+  {
+    "code": "HMAW 1905C",
+    "title": "Behavioral Foundations of University Education: Habits, Mindsets, and Wellness",
+    "credits": 3,
+    "areas": [
+      "HMW"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "HMW"
+      ],
+      "cc25": [
+        "HMW"
+      ],
+      "cc26": [
+        "HMW"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1905C",
+    "prev": "CORE 1905C"
+  },
+  {
+    "code": "HMAW 1905D",
+    "title": "Behavioral Foundations of University Education: Habits, Mindsets, and Wellness",
+    "credits": 3,
+    "areas": [
+      "HMW"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "HMW"
+      ],
+      "cc25": [
+        "HMW"
+      ],
+      "cc26": [
+        "HMW"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1905D",
+    "prev": "CORE 1905D"
+  },
+  {
+    "code": "HMAW 1905E",
+    "title": "Behavioral Foundations of University Education: Habits, Mindsets, and Wellness",
+    "credits": 3,
+    "areas": [
+      "HMW"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "HMW"
+      ],
+      "cc25": [
+        "HMW"
+      ],
+      "cc26": [
+        "HMW"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1905E",
+    "prev": "CORE 1905E"
+  },
+  {
+    "code": "HUMA 1010",
+    "title": "Introduction to Language",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1011",
+    "title": "Linguistics in Life --",
+    "credits": 3,
+    "areas": [
+      "H",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H",
+        "T"
+      ],
+      "cc25": [
+        "H",
+        "T"
+      ],
+      "cc26": [
+        "H",
+        "T"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1030",
+    "title": "Structure of the Chinese Language",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "CORE 1503#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1060",
+    "title": "Introduction to Mandarin Chinese Grammar",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "CORE 1504#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1100",
+    "title": "Music of the World",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": [
+        "A"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1102",
+    "title": "Enjoyment of Classical Music",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": [
+        "A"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1108",
+    "title": "Expressive Sounds --",
+    "credits": 3,
+    "areas": [
+      "A",
+      "H",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "H",
+        "T"
+      ],
+      "cc25": [
+        "A",
+        "H",
+        "T"
+      ],
+      "cc26": [
+        "A",
+        "H",
+        "T"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1109",
+    "title": "Understanding Music in Context",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": [
+        "A"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1110",
+    "title": "Improvisational Artists Lab",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": [
+        "A"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1150",
+    "title": "Exploration of Drawing -- CORE 1660#",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": [
+        "A"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1154",
+    "title": "Photography",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": [
+        "A"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1155",
+    "title": "Video Art",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1156",
+    "title": "Exploration of Chinese Calligraphy",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": [
+        "A"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1157",
+    "title": "Introduction to Acting and Public Speaking",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": [
+        "A"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1160",
+    "title": "Weiqi and Chinese Culture",
+    "credits": 1,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": [
+        "A"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1210",
+    "title": "Chinese Women on Screen",
+    "credits": 3,
+    "areas": [
+      "A",
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "H"
+      ],
+      "cc25": [
+        "A",
+        "H"
+      ],
+      "cc26": [
+        "A",
+        "H"
+      ]
+    },
+    "remark": "CORE 1601",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1221",
+    "title": "Introduction to Game Studies",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1231",
+    "title": "Popular Culture of East Asia --",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": [
+        "A"
+      ]
+    },
+    "remark": "CORE 1602#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1301",
+    "title": "World Literature and Film",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": [
+        "A"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1302",
+    "title": "World Literature in the 20th Century",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1411",
+    "title": "Inside Chinese Documents and Archives: Methods and Perspectives",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1412",
+    "title": "China Through Time and Space: Chinese Historical Geography",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1430",
+    "title": "History of P. R. China's Diplomacy, 1949-1989 --",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "CORE 1522#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1520",
+    "title": "Modern East Asia",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1622",
+    "title": "Science, Technology and Society: Historical and Cultural Approaches",
+    "credits": 3,
+    "areas": [
+      "H",
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H",
+        "SA"
+      ],
+      "cc25": [
+        "H",
+        "SA"
+      ],
+      "cc26": [
+        "H",
+        "SA"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1639",
+    "title": "Marriage, Family and Kinship in Cross-cultural Perspectives -- CORE 1554#",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1650",
+    "title": "Appreciation of Western Art",
+    "credits": 3,
+    "areas": [
+      "A",
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "H"
+      ],
+      "cc25": [
+        "A",
+        "H"
+      ],
+      "cc26": [
+        "A",
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1660",
+    "title": "Introduction to Chinese Art",
+    "credits": 3,
+    "areas": [
+      "A",
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "H"
+      ],
+      "cc25": [
+        "A",
+        "H"
+      ],
+      "cc26": [
+        "A",
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1651",
+    "prev": null
+  },
+  {
+    "code": "HUMA 1671",
+    "title": "Cantonese Opera in Hong Kong Culture #",
+    "credits": 3,
+    "areas": [
+      "A",
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "H"
+      ],
+      "cc25": [
+        "A",
+        "H"
+      ],
+      "cc26": [
+        "A",
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1672",
+    "title": "Studio Arts Worksh ops: Cantonese Opera -- CORE 1662#",
+    "credits": 1,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": [
+        "A"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1673",
+    "title": "Art and Digital Culture",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": [
+        "A"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1674",
+    "title": "China in Historical Maps",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1675",
+    "title": "Global History of Explorations",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1676",
+    "title": "Marco Polo and His Book of Travels",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1677",
+    "title": "East Asia and the West: From the Silk Road to The Belt and Road",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1678",
+    "title": "Introduction to Digital Humanities & AI",
+    "credits": 3,
+    "areas": [
+      "H",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H",
+        "T"
+      ],
+      "cc25": [
+        "H",
+        "T"
+      ],
+      "cc26": []
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1679",
+    "title": "Central and Eastern Europe from 1917 to the Present",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1681",
+    "title": "Cold War in Europe 1945-1989",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1710",
+    "title": "The Art of Thinking in the Hong Kong Context",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1720",
+    "title": "Logic --",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "CORE 1572#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1811",
+    "title": "History of Chinese Philosophy",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1920",
+    "title": "Introduction to Moral Philosophy",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1921",
+    "title": "Philosophy of Science",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1922",
+    "title": "Introduction to Analytic Philosophy",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 1930",
+    "title": "Introduction to the Ethics of Artificial Intelligence and Data Science --",
+    "credits": 3,
+    "areas": [
+      "H",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H",
+        "T"
+      ],
+      "cc25": [
+        "H",
+        "T"
+      ],
+      "cc26": [
+        "H",
+        "T"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2010",
+    "title": "Metaphors in En glish and Chinese --",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "CORE 2501",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2031",
+    "title": "The Cantonese Language",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2032",
+    "title": "Language, Power and Identity",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2033",
+    "title": "Language and Intercultural Communication --",
+    "credits": 3,
+    "areas": [
+      "H",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H",
+        "T"
+      ],
+      "cc25": [
+        "H",
+        "T"
+      ],
+      "cc26": [
+        "H",
+        "T"
+      ]
+    },
+    "remark": "is is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2034",
+    "title": "Language Planning and Policy in Asian Contexts",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2035",
+    "title": "Language in Action: Doing Discourse Analysis",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2101",
+    "title": "Enjoyment of Western Opera",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2104",
+    "title": "Music Theory I: Introduction to Tonal Music",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": [
+        "A"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2105",
+    "title": "Music, Drama, and Theatre",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": [
+        "A"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2107",
+    "title": "Introduction to Electronic Music Composition",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": [
+        "A"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2108",
+    "title": "Music of China -- CORE 2635#",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": [
+        "A"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2109",
+    "title": "East Asian Popular Music --",
+    "credits": 3,
+    "areas": [
+      "A",
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "H"
+      ],
+      "cc25": [
+        "A",
+        "H"
+      ],
+      "cc26": [
+        "A",
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2110",
+    "title": "Understanding Algorithms and Com putation through Music --",
+    "credits": 3,
+    "areas": [
+      "A",
+      "H",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "H",
+        "T"
+      ],
+      "cc25": [
+        "A",
+        "H",
+        "T"
+      ],
+      "cc26": [
+        "A",
+        "H",
+        "T"
+      ]
+    },
+    "remark": "is a co mmon core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2202",
+    "title": "The Japanese Novel -- Modern Japanese",
+    "credits": 3,
+    "areas": [
+      "A",
+      "H",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "H",
+        "T"
+      ],
+      "cc25": [
+        "A",
+        "H",
+        "T"
+      ],
+      "cc26": [
+        "A",
+        "H",
+        "T"
+      ]
+    },
+    "remark": "course title was",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2203",
+    "title": "Japanese Cinema --",
+    "credits": 3,
+    "areas": [
+      "A",
+      "H",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "H",
+        "T"
+      ],
+      "cc25": [
+        "A",
+        "H",
+        "T"
+      ],
+      "cc26": [
+        "A",
+        "H",
+        "T"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2204",
+    "title": "Japanese Science Fiction",
+    "credits": 3,
+    "areas": [
+      "A",
+      "H",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "H",
+        "T"
+      ],
+      "cc25": [
+        "A",
+        "H",
+        "T"
+      ],
+      "cc26": [
+        "A",
+        "H",
+        "T"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2205",
+    "title": "Asian Cinema, Global Cinema",
+    "credits": 3,
+    "areas": [
+      "A",
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "H"
+      ],
+      "cc25": [
+        "A",
+        "H"
+      ],
+      "cc26": [
+        "A",
+        "H"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2240",
+    "title": "Reading Chinese Literature: Dreams of the Red Chamber",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2250",
+    "title": "Modern Chinese Fiction (1917-1949) --",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2260",
+    "title": "Contemporary Chines e Fiction (1949-present) --",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "CORE 2603#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2300",
+    "title": "Traditional Ch inese Poetry: Early Chinese Poetry --",
+    "credits": 3,
+    "areas": [
+      "A",
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "H"
+      ],
+      "cc25": [
+        "A",
+        "H"
+      ],
+      "cc26": [
+        "A",
+        "H"
+      ]
+    },
+    "remark": "CORE 2604#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2310",
+    "title": "Traditiona l Chinese Fiction",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "CORE 2605#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2330",
+    "title": "Anime #",
+    "credits": 3,
+    "areas": [
+      "A",
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "H"
+      ],
+      "cc25": [
+        "A",
+        "H"
+      ],
+      "cc26": [
+        "A",
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2331",
+    "title": "Japanese Animation: Technology, Gender, and History",
+    "credits": 3,
+    "areas": [
+      "A",
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "H"
+      ],
+      "cc25": [
+        "A",
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "course title was",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2340",
+    "title": "Between Old and New: Chines e Stories and Their Reinventions -- CORE 2607#",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": [
+        "A"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2401",
+    "title": "Global Science Fiction: An Interdisciplinary Approach",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "is is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2412",
+    "title": "Exploring Text at Scale: Natural Language Processing and Digital Humanities --",
+    "credits": 3,
+    "areas": [
+      "H",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H",
+        "T"
+      ],
+      "cc25": [
+        "H",
+        "T"
+      ],
+      "cc26": [
+        "H",
+        "T"
+      ]
+    },
+    "remark": "is a co mmon core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2420",
+    "title": "Late Imperial China -- CORE 2521#",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2440",
+    "title": "20th-Century China in Documentary Films",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2470",
+    "title": "From Fung Shui to Mao's Villages: City Plans, Urban Politics & the Unseen World of Chinese Villages",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2520",
+    "title": "History of Tea in East Asia -- -- CORE 2606",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "CORE 2525#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2588",
+    "title": "Nazism and German Society, 1914-1945",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "CORE 2526#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2621",
+    "title": "Culture and Environment -- CORE 2551#",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2632",
+    "title": "Chinese Cu lture and Society in Anthropological Perspectives -- CORE 2553#",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2634",
+    "title": "Global History: New Anthropolo gical Perspectives --",
+    "credits": 3,
+    "areas": [
+      "H",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H",
+        "T"
+      ],
+      "cc25": [
+        "H",
+        "T"
+      ],
+      "cc26": [
+        "H",
+        "T"
+      ]
+    },
+    "remark": "is a commo n core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2635",
+    "title": "Cultural Diversity in China",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "CORE 2554#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2636",
+    "title": "Medical Anthropology",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2638",
+    "title": "Peoples and Cultures in Southeast Asia",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "CORE 2555#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2640",
+    "title": "Unofficial China: Social History 1800s-1930s --",
+    "credits": 3,
+    "areas": [
+      "A",
+      "H",
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "H",
+        "C-Comm"
+      ],
+      "cc25": [
+        "A",
+        "H"
+      ],
+      "cc26": [
+        "A",
+        "H"
+      ]
+    },
+    "remark": "CORE 2529# C-Comm until 2024-25 Summer.",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2660",
+    "title": "Introduction to Chinese Painting",
+    "credits": 3,
+    "areas": [
+      "A",
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "H"
+      ],
+      "cc25": [
+        "A",
+        "H"
+      ],
+      "cc26": [
+        "A",
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 2651",
+    "prev": null
+  },
+  {
+    "code": "HUMA 2661",
+    "title": "Chinese Oil Painting",
+    "credits": 3,
+    "areas": [
+      "A",
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "H"
+      ],
+      "cc25": [
+        "A",
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "CORE 2652#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2670",
+    "title": "Understanding Western Painting",
+    "credits": 3,
+    "areas": [
+      "A",
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "H"
+      ],
+      "cc25": [
+        "A",
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2680",
+    "title": "Understanding Western Architecture",
+    "credits": 3,
+    "areas": [
+      "A",
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "H"
+      ],
+      "cc25": [
+        "A",
+        "H"
+      ],
+      "cc26": [
+        "A",
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2831",
+    "title": "Metaphysics: Study of Reality and Existence",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2832",
+    "title": "Philosophy of Mind --",
+    "credits": 3,
+    "areas": [
+      "H",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H",
+        "T"
+      ],
+      "cc25": [
+        "H",
+        "T"
+      ],
+      "cc26": [
+        "H",
+        "T"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2840",
+    "title": "Buddhism and the Chinese Intellectual Tradition -- CORE 2571#",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2911",
+    "title": "Buddhism: Origin and Growth -- CORE 2572#",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2921",
+    "title": "Ethical Theories and Contemporary Issues",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 2930",
+    "title": "What am I? Personal Identity and the Self from a Philosophical Perspective",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 3030",
+    "title": "Language, Communication and Culture",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 3050",
+    "title": "Psychology of Language",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "CORE 3502 HUMA 3800 Guided Studi es in Chinese Philosophical Classics 3 H CORE 3571#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 3060",
+    "title": "Language and Migration --",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "CORE 3503#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 3201",
+    "title": "Animation: A Global Perspective --",
+    "credits": 3,
+    "areas": [
+      "A",
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "H"
+      ],
+      "cc25": [
+        "A",
+        "H"
+      ],
+      "cc26": [
+        "A",
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 3210",
+    "title": "Traditional Chinese Po etry: Tang and Song Poetry -- CORE 3602#",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 3220",
+    "title": "Modern Chinese Poetry",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": []
+    },
+    "remark": "CORE 3603#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 3250",
+    "title": "Independent Cinema in Contemporary China --",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "CORE 3604#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 3430",
+    "title": "Reading Modern Chin ese History Historically",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "CORE 3521#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 3630",
+    "title": "Community and Cultural Identity",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 3660",
+    "title": "Tradition & Modern ity: Chinese Ink Painting in 20th Century # -- CORE 2574",
+    "credits": 3,
+    "areas": [
+      "A",
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "H"
+      ],
+      "cc25": [
+        "A",
+        "H"
+      ],
+      "cc26": [
+        "A",
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 3680",
+    "title": "Contemporary Architecture: The Pritzker Prize Winners",
+    "credits": 3,
+    "areas": [
+      "A",
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "H"
+      ],
+      "cc25": [
+        "A",
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 3800",
+    "title": "Guided Studies in Chinese Philosophical Classics",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 3810",
+    "title": "Taoism and the Chinese Tradition",
+    "credits": 3,
+    "areas": [
+      "C-Comm",
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm",
+        "H"
+      ],
+      "cc25": [
+        "C-Comm",
+        "H"
+      ],
+      "cc26": []
+    },
+    "remark": "CORE 3572#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "HUMA 3900",
+    "title": "Philosophical Inquiry into the Modern World",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "IEDA 1250",
+    "title": "Optimizing Decisions for Personal and Business Development",
+    "credits": 3,
+    "areas": [
+      "S",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S",
+        "T"
+      ],
+      "cc25": [
+        "S",
+        "T"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": "CORE 1251",
+    "prev": "CORE 1251"
+  },
+  {
+    "code": "IEDA 1280",
+    "title": "Decision Analytics for Modern Society",
+    "credits": 3,
+    "areas": [
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [
+        "T"
+      ],
+      "cc26": [
+        "T"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "ISDN 1120",
+    "title": "Bring AI to Your Side --",
+    "credits": 3,
+    "areas": [
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [
+        "T"
+      ],
+      "cc26": [
+        "T"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "ISDN 1130",
+    "title": "Introduction to Eco-Design",
+    "credits": 3,
+    "areas": [
+      "SUS"
+    ],
+    "areaByCohort": {
+      "cc22": [],
+      "cc25": [
+        "SUS"
+      ],
+      "cc26": [
+        "SUS"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "ISDN 1200",
+    "title": "Design Thinking for Technological Innovations",
+    "credits": 3,
+    "areas": [
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [
+        "T"
+      ],
+      "cc26": []
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "ISDN 2000",
+    "title": "What is Design and Why Design?",
+    "credits": 3,
+    "areas": [
+      "SUS",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [
+        "SUS",
+        "T"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": "CORE 2261",
+    "prev": null
+  },
+  {
+    "code": "ISDN 2110",
+    "title": "From Ideas to Assets: Practice of the Creative Economy System",
+    "credits": 3,
+    "areas": [
+      "A"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A"
+      ],
+      "cc25": [
+        "A"
+      ],
+      "cc26": []
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": "ISDN 3000A"
+  },
+  {
+    "code": "ISOM 1090",
+    "title": "Social Media: Collective Intelligence & Creativity",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": "CORE 1341",
+    "prev": null
+  },
+  {
+    "code": "ISOM 1380",
+    "title": "Technology and Innovation: Social and Business Perspectives",
+    "credits": 3,
+    "areas": [
+      "SA",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA",
+        "T"
+      ],
+      "cc25": [
+        "SA",
+        "T"
+      ],
+      "cc26": [
+        "SA",
+        "T"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1340",
+    "prev": null
+  },
+  {
+    "code": "ISOM 1400",
+    "title": "Digital Philanthropy: Harnessing Technology for Social Changes and Beyond",
+    "credits": 3,
+    "areas": [
+      "SA",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA",
+        "T"
+      ],
+      "cc25": [
+        "SA",
+        "T"
+      ],
+      "cc26": [
+        "SA",
+        "T"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "ISOM 1500",
+    "title": "Insightful Decisions",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "ISOM 1700",
+    "title": "Critical Issues in Business Operations",
+    "credits": 3,
+    "areas": [
+      "SA",
+      "SUS"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA",
+        "SUS"
+      ],
+      "cc26": []
+    },
+    "remark": "--",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "ISOM 2030",
+    "title": "Business Protecti ons for Innovations",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "ISOM 2310",
+    "title": "Fundamentals of E-Commerce: Business, Technology, and the Society",
+    "credits": 3,
+    "areas": [
+      "SA",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA",
+        "T"
+      ],
+      "cc25": [
+        "SA",
+        "T"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": "CORE 1343",
+    "prev": null
+  },
+  {
+    "code": "ISOM 2400",
+    "title": "Global Information Infrastructure and Policy",
+    "credits": 3,
+    "areas": [
+      "SA",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA",
+        "T"
+      ],
+      "cc25": [
+        "SA",
+        "T"
+      ],
+      "cc26": []
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1401",
+    "title": "Intensive English Language for University Studies",
+    "credits": 3,
+    "areas": [
+      "E-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "E-Comm"
+      ],
+      "cc25": [
+        "E-Comm"
+      ],
+      "cc26": [
+        "E-Comm"
+      ]
+    },
+    "remark": "Intensive English course; counts toward E-Comm.",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1402",
+    "title": "English for University Studies",
+    "credits": 3,
+    "areas": [
+      "E-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "E-Comm"
+      ],
+      "cc25": [
+        "E-Comm"
+      ],
+      "cc26": [
+        "E-Comm"
+      ]
+    },
+    "remark": "course title was",
+    "coreCode": "CORE 1402",
+    "prev": "CORE 1402"
+  },
+  {
+    "code": "LANG 1402I",
+    "title": "English for University Studies",
+    "credits": 3,
+    "areas": [
+      "E-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "E-Comm"
+      ],
+      "cc25": [
+        "E-Comm"
+      ],
+      "cc26": [
+        "E-Comm"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1403",
+    "title": "Academic English for University Studies",
+    "credits": 3,
+    "areas": [
+      "E-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "E-Comm"
+      ],
+      "cc25": [
+        "E-Comm"
+      ],
+      "cc26": [
+        "E-Comm"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1404",
+    "title": "Advanced Academic Englis h for University Studies",
+    "credits": 3,
+    "areas": [
+      "E-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "E-Comm"
+      ],
+      "cc25": [
+        "E-Comm"
+      ],
+      "cc26": [
+        "E-Comm"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1405",
+    "title": "Mediated Me: An Introduction to Digital Literacy",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "course code was LANG 1004 on or before",
+    "coreCode": "CORE 1405, LANG 1004",
+    "prev": "CORE 1405, LANG 1004"
+  },
+  {
+    "code": "LANG 1406",
+    "title": "Academic English for Business Studies",
+    "credits": 3,
+    "areas": [
+      "E-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "E-Comm"
+      ],
+      "cc25": [
+        "E-Comm"
+      ],
+      "cc26": [
+        "E-Comm"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1407",
+    "title": "Academic English for Engineering Studies",
+    "credits": 3,
+    "areas": [
+      "E-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "E-Comm"
+      ],
+      "cc25": [
+        "E-Comm"
+      ],
+      "cc26": [
+        "E-Comm"
+      ]
+    },
+    "remark": "is a co mmon core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1408",
+    "title": "Academic English for Humanities and Social Science Studies",
+    "credits": 3,
+    "areas": [
+      "E-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "E-Comm"
+      ],
+      "cc25": [
+        "E-Comm"
+      ],
+      "cc26": []
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1409",
+    "title": "Academic English for Science Studies",
+    "credits": 3,
+    "areas": [
+      "E-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "E-Comm"
+      ],
+      "cc25": [
+        "E-Comm"
+      ],
+      "cc26": []
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1411",
+    "title": "Elementary Putonghua for Non-Ch inese Language Background Students",
+    "credits": 3,
+    "areas": [
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm"
+      ],
+      "cc25": [
+        "C-Comm"
+      ],
+      "cc26": [
+        "C-Comm"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1412",
+    "title": "Intermediate Putonghua for Non-Ch inese Language Background Students",
+    "credits": 3,
+    "areas": [
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm"
+      ],
+      "cc25": [
+        "C-Comm"
+      ],
+      "cc26": [
+        "C-Comm"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1413",
+    "title": "Advanced Putonghua for Non-Chin ese Language Background Students",
+    "credits": 3,
+    "areas": [
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm"
+      ],
+      "cc25": [
+        "C-Comm"
+      ],
+      "cc26": [
+        "C-Comm"
+      ]
+    },
+    "remark": "(30-credit Common Core Program for Students Admitted from 2022-23 Onward)",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1414",
+    "title": "Elementary Reading and Writing for No n-Chinese Language Background Students",
+    "credits": 3,
+    "areas": [
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm"
+      ],
+      "cc25": [
+        "C-Comm"
+      ],
+      "cc26": [
+        "C-Comm"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1415",
+    "title": "Intermediate Reading and Writing for Non-Chinese Language Background Students",
+    "credits": 3,
+    "areas": [
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm"
+      ],
+      "cc25": [
+        "C-Comm"
+      ],
+      "cc26": [
+        "C-Comm"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1416",
+    "title": "Effective Chinese Communication",
+    "credits": 3,
+    "areas": [
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm"
+      ],
+      "cc25": [
+        "C-Comm"
+      ],
+      "cc26": [
+        "C-Comm"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1416C",
+    "title": "Effective Chinese Communication",
+    "credits": 3,
+    "areas": [
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm"
+      ],
+      "cc25": [
+        "C-Comm"
+      ],
+      "cc26": [
+        "C-Comm"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1416C, LANG 1113C",
+    "prev": "CORE 1416C, LANG 1113C"
+  },
+  {
+    "code": "LANG 1416I",
+    "title": "Effective Chinese Communication",
+    "credits": 3,
+    "areas": [
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm"
+      ],
+      "cc25": [
+        "C-Comm"
+      ],
+      "cc26": [
+        "C-Comm"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1416I, LANG 1113I",
+    "prev": "CORE 1416I, LANG 1113I"
+  },
+  {
+    "code": "LANG 1416P",
+    "title": "Effective Chinese Communication",
+    "credits": 3,
+    "areas": [
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm"
+      ],
+      "cc25": [
+        "C-Comm"
+      ],
+      "cc26": [
+        "C-Comm"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1416P, LANG 1113P",
+    "prev": "CORE 1416P, LANG 1113P"
+  },
+  {
+    "code": "LANG 1421",
+    "title": "Chinese Communication in the Digital Era",
+    "credits": 3,
+    "areas": [
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm"
+      ],
+      "cc25": [
+        "C-Comm"
+      ],
+      "cc26": [
+        "C-Comm"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1421",
+    "prev": "CORE 1421"
+  },
+  {
+    "code": "LANG 1422",
+    "title": "Chinese for Workplace Applications",
+    "credits": 3,
+    "areas": [
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm"
+      ],
+      "cc25": [
+        "C-Comm"
+      ],
+      "cc26": [
+        "C-Comm"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1422",
+    "prev": "CORE 1422"
+  },
+  {
+    "code": "LANG 1423",
+    "title": "Chinese Communication in Global Context",
+    "credits": 3,
+    "areas": [
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm"
+      ],
+      "cc25": [
+        "C-Comm"
+      ],
+      "cc26": [
+        "C-Comm"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1423, LANG 1118",
+    "prev": "CORE 1423, LANG 1118"
+  },
+  {
+    "code": "LANG 1424",
+    "title": "Chinese Writ ing in Cultural Contexts",
+    "credits": 3,
+    "areas": [
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm"
+      ],
+      "cc25": [
+        "C-Comm"
+      ],
+      "cc26": [
+        "C-Comm"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1424C",
+    "title": "Chinese Writing in Cultural Contexts",
+    "credits": 3,
+    "areas": [
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm"
+      ],
+      "cc25": [
+        "C-Comm"
+      ],
+      "cc26": [
+        "C-Comm"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1424P",
+    "title": "Chinese Writing in Cultural Contexts",
+    "credits": 3,
+    "areas": [
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm"
+      ],
+      "cc25": [
+        "C-Comm"
+      ],
+      "cc26": [
+        "C-Comm"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1425",
+    "title": "Chinese Communication in Interpersonal Relations",
+    "credits": 3,
+    "areas": [
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm"
+      ],
+      "cc25": [
+        "C-Comm"
+      ],
+      "cc26": [
+        "C-Comm"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1426",
+    "title": "Chinese Communication in Film and Literary Contexts",
+    "credits": 3,
+    "areas": [
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm"
+      ],
+      "cc25": [
+        "C-Comm"
+      ],
+      "cc26": [
+        "C-Comm"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1511",
+    "title": "Chinese for Non-Chinese Language Background Students I",
+    "credits": 3,
+    "areas": [
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm"
+      ],
+      "cc25": [
+        "C-Comm"
+      ],
+      "cc26": [
+        "C-Comm"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1512",
+    "title": "Chinese for Non-Chinese Language Background Students II",
+    "credits": 3,
+    "areas": [
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm"
+      ],
+      "cc25": [
+        "C-Comm"
+      ],
+      "cc26": [
+        "C-Comm"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1513",
+    "title": "Chinese for Non-Chinese Language Background Students III",
+    "credits": 3,
+    "areas": [
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm"
+      ],
+      "cc25": [
+        "C-Comm"
+      ],
+      "cc26": [
+        "C-Comm"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1514",
+    "title": "Chinese for Non-Chinese Language Background Students IV",
+    "credits": 3,
+    "areas": [
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm"
+      ],
+      "cc25": [
+        "C-Comm"
+      ],
+      "cc26": [
+        "C-Comm"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 1515",
+    "title": "Chinese for Non-Chinese Language Background Students V",
+    "credits": 3,
+    "areas": [
+      "C-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "C-Comm"
+      ],
+      "cc25": [
+        "C-Comm"
+      ],
+      "cc26": [
+        "C-Comm"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 2063",
+    "title": "Writing for Workplace Success",
+    "credits": 3,
+    "areas": [
+      "E-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "E-Comm"
+      ],
+      "cc25": [
+        "E-Comm"
+      ],
+      "cc26": [
+        "E-Comm"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 2064",
+    "title": "Speaking for Workplace Success",
+    "credits": 3,
+    "areas": [
+      "E-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "E-Comm"
+      ],
+      "cc25": [
+        "E-Comm"
+      ],
+      "cc26": [
+        "E-Comm"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 2065",
+    "title": "Research Writing",
+    "credits": 3,
+    "areas": [
+      "E-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "E-Comm"
+      ],
+      "cc25": [
+        "E-Comm"
+      ],
+      "cc26": []
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 2066",
+    "title": "Dynamic Communication for STEAM Topics",
+    "credits": 3,
+    "areas": [
+      "E-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "E-Comm"
+      ],
+      "cc25": [
+        "E-Comm"
+      ],
+      "cc26": [
+        "E-Comm"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 2067",
+    "title": "Digital Communication: Expressing Your Perspective in Digital Spaces",
+    "credits": 3,
+    "areas": [
+      "E-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "E-Comm"
+      ],
+      "cc25": [
+        "E-Comm"
+      ],
+      "cc26": []
+    },
+    "remark": "is a common core course with effect fro m",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 2068",
+    "title": "Speaking with Impact",
+    "credits": 3,
+    "areas": [
+      "E-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "E-Comm"
+      ],
+      "cc25": [
+        "E-Comm"
+      ],
+      "cc26": [
+        "E-Comm"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 2069",
+    "title": "Supercommunication Offline and On: The Art of Connecting",
+    "credits": 3,
+    "areas": [
+      "E-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "E-Comm"
+      ],
+      "cc25": [
+        "E-Comm"
+      ],
+      "cc26": [
+        "E-Comm"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 2071",
+    "title": "From Proposal to Applause: Navigating the Academic Conference Journey",
+    "credits": 3,
+    "areas": [
+      "E-Comm"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "E-Comm"
+      ],
+      "cc25": [
+        "E-Comm"
+      ],
+      "cc26": [
+        "E-Comm"
+      ]
+    },
+    "remark": "is a co mmon core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 2090",
+    "title": "Exploring Language and Communication with Big Data",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LANG 2091",
+    "title": "Phonetics and Speech Technology",
+    "credits": 3,
+    "areas": [
+      "H"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "H"
+      ],
+      "cc25": [
+        "H"
+      ],
+      "cc26": [
+        "H"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LIFS 1010",
+    "title": "Introduction to Biological Sciences",
+    "credits": 3,
+    "areas": [
+      "S"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S"
+      ],
+      "cc25": [
+        "S"
+      ],
+      "cc26": [
+        "S"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "LIFS 1020",
+    "title": "Biology of Human Health",
+    "credits": 3,
+    "areas": [
+      "S"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S"
+      ],
+      "cc25": [
+        "S"
+      ],
+      "cc26": []
+    },
+    "remark": "CORE 1130",
+    "coreCode": "CORE 1130",
+    "prev": "CORE 1130"
+  },
+  {
+    "code": "LIFS 1088",
+    "title": "Global Perspectives in Heal th and Disease --",
+    "credits": 3,
+    "areas": [
+      "S",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S",
+        "T"
+      ],
+      "cc25": [
+        "S",
+        "T"
+      ],
+      "cc26": [
+        "S",
+        "T"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "MARK 1220",
+    "title": "Marketing and Society",
+    "credits": 3,
+    "areas": [
+      "SA",
+      "SUS"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA",
+        "SUS"
+      ],
+      "cc26": [
+        "SA",
+        "SUS"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1360",
+    "prev": null
+  },
+  {
+    "code": "MECH 1905",
+    "title": "Buildings for Contemporary Living",
+    "credits": 3,
+    "areas": [
+      "S",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S",
+        "T"
+      ],
+      "cc25": [
+        "S",
+        "T"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": "CORE 1270",
+    "prev": "CORE 1270"
+  },
+  {
+    "code": "MECH 1908",
+    "title": "Exploration of Mechanical Design and Engineering",
+    "credits": 3,
+    "areas": [
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [
+        "T"
+      ],
+      "cc26": []
+    },
+    "remark": "is is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "MGMT 1110",
+    "title": "Introduction to Management",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "MGMT 1120",
+    "title": "Developing the Leader in You",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "MGMT 1130",
+    "title": "Traps and Pitfalls in Judgment and Decision Making",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "OCES 1030",
+    "title": "Environmental Science",
+    "credits": 3,
+    "areas": [
+      "S",
+      "SUS"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S"
+      ],
+      "cc25": [
+        "S",
+        "SUS"
+      ],
+      "cc26": [
+        "S",
+        "SUS"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1140",
+    "prev": "CORE 1140"
+  },
+  {
+    "code": "PHYS 1001",
+    "title": "Physics and the Modern Society",
+    "credits": 3,
+    "areas": [
+      "S"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S"
+      ],
+      "cc25": [
+        "S"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": "CORE 1110",
+    "prev": "CORE 1110"
+  },
+  {
+    "code": "PHYS 1002",
+    "title": "Introduction to Astrophysics and Astronomy",
+    "credits": 3,
+    "areas": [
+      "S"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S"
+      ],
+      "cc25": [
+        "S"
+      ],
+      "cc26": [
+        "S"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "PHYS 1003",
+    "title": "Energy and Related Environmental Issues",
+    "credits": 3,
+    "areas": [
+      "S"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S"
+      ],
+      "cc25": [
+        "S"
+      ],
+      "cc26": [
+        "S"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1111",
+    "prev": "CORE 1111"
+  },
+  {
+    "code": "PHYS 1007",
+    "title": "Quantum Information for Everyone",
+    "credits": 3,
+    "areas": [
+      "S"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S"
+      ],
+      "cc25": [
+        "S"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": "CORE 1112",
+    "prev": "CORE 1112"
+  },
+  {
+    "code": "PHYS 1101",
+    "title": "Introductory Physics",
+    "credits": 4,
+    "areas": [
+      "S"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S"
+      ],
+      "cc25": [
+        "S"
+      ],
+      "cc26": [
+        "S"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "PHYS 1111",
+    "title": "General Physics I",
+    "credits": 3,
+    "areas": [
+      "S"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S"
+      ],
+      "cc25": [
+        "S"
+      ],
+      "cc26": [
+        "S"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "PPOL 1110",
+    "title": "Public Policy in Cases -- -- CORE 1730",
+    "credits": 3,
+    "areas": [
+      "SA",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA",
+        "T"
+      ],
+      "cc25": [
+        "SA",
+        "T"
+      ],
+      "cc26": [
+        "SA",
+        "T"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "PPOL 1120",
+    "title": "Public Policy for a Healthy Society",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": []
+    },
+    "remark": "is a common core course with effect from SOSC 1420 Poverty 3S A",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "PPOL 1130",
+    "title": "Introduction to Global Public Policy Through Film",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": []
+    },
+    "remark": "is a common core course with effect from SOSC 1470 The Economic and Political Development of Modern Japan 3 SA",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "PPOL 2110",
+    "title": "Science, Technology and Society in China",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "1700 What Is Democracy? 3S A",
+    "coreCode": "CORE 2940",
+    "prev": "CORE 2940"
+  },
+  {
+    "code": "PPOL 2320",
+    "title": "Experiments in Power: Why We Make the Rules We Make",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "RMBI 1010",
+    "title": "Risk Management in Financial Institutions",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "RMBI 1020",
+    "title": "Business Intelligence for Data-Driven Decisions",
+    "credits": 3,
+    "areas": [
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "T"
+      ],
+      "cc25": [
+        "T"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SCIE 1120",
+    "title": "Chemistry and Life",
+    "credits": 3,
+    "areas": [
+      "S"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "S"
+      ],
+      "cc25": [
+        "S"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 1190",
+    "title": "China and the World: Chin a’s Development in Historical and Comparative Perspectives --",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 1270",
+    "title": "International Law",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 1300",
+    "title": "The World of Politics",
+    "credits": 3,
+    "areas": [
+      "SA",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA",
+        "T"
+      ],
+      "cc25": [
+        "SA",
+        "T"
+      ],
+      "cc26": [
+        "SA",
+        "T"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 1309",
+    "title": "Making Sense of Government and Politics",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "CORE 1710",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 1350",
+    "title": "Contemporary China: Continuity and Change",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 1359",
+    "title": "China: Development and Transformations",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 1400",
+    "title": "Hong Kong and the Greater Bay Area",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "CORE 1740",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 1420",
+    "title": "Poverty",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 1449",
+    "title": "Understanding Our Economy",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "CORE 1810",
+    "coreCode": "CORE 1810",
+    "prev": "CORE 1810"
+  },
+  {
+    "code": "SOSC 1470",
+    "title": "The Economic and Political Development of Modern Japan",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 1662",
+    "title": "Contemporary Hong Kong Society",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 1700",
+    "title": "What Is Democracy?",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 1780",
+    "title": "Population and Development in China",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "CORE 1780#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 1840",
+    "title": "Government, Law and Society in China",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "CORE 1840#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 1859",
+    "title": "Exploring Society",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "",
+    "coreCode": "CORE 1850",
+    "prev": "CORE 1850"
+  },
+  {
+    "code": "SOSC 1860",
+    "title": "Population and Society",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 1960",
+    "title": "Introduction to Psychology",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 1969",
+    "title": "Discovering Mind and Behavior",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 1980",
+    "title": "Psychology of Personal Growth --",
+    "credits": 3,
+    "areas": [
+      "SA",
+      "T"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA",
+        "T"
+      ],
+      "cc25": [
+        "SA",
+        "T"
+      ],
+      "cc26": [
+        "SA",
+        "T"
+      ]
+    },
+    "remark": "is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 2130",
+    "title": "Education and Society",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 2299",
+    "title": "The Rise and Fall of Globalization",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 2330",
+    "title": "Environmental Politics and Policy -- CORE 2830#",
+    "credits": 3,
+    "areas": [
+      "A",
+      "S"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "A",
+        "S"
+      ],
+      "cc25": [
+        "A",
+        "S"
+      ],
+      "cc26": [
+        "A",
+        "S"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 2740",
+    "title": "Gender and Society",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 3001",
+    "title": "Understanding China, 1700-2000: A Data Analytic Approach",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": []
+    },
+    "remark": "CORE 3701#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 3130",
+    "title": "Hong Kong Culture",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 3240",
+    "title": "Application of Geographical Information Systems",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "CORE 3740#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 3520",
+    "title": "Understanding Comparative Politics",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 3630",
+    "title": "Democracy and Democratization around the World",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": [
+        "SA"
+      ]
+    },
+    "remark": "CORE 3863#",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SOSC 3880",
+    "title": "Social Inequality and Social Mobility",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [
+        "SA"
+      ],
+      "cc26": []
+    },
+    "remark": "",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SUST 1010",
+    "title": "Introduction to Sustainability",
+    "credits": 3,
+    "areas": [
+      "SUS"
+    ],
+    "areaByCohort": {
+      "cc22": [],
+      "cc25": [
+        "SUS"
+      ],
+      "cc26": [
+        "SUS"
+      ]
+    },
+    "remark": "--",
+    "coreCode": "CORE 1940",
+    "prev": "CORE 1940"
+  },
+  {
+    "code": "SUST 1020",
+    "title": "Climate Films and Sustainable Future",
+    "credits": 3,
+    "areas": [
+      "SUS"
+    ],
+    "areaByCohort": {
+      "cc22": [],
+      "cc25": [
+        "SUS"
+      ],
+      "cc26": [
+        "SUS"
+      ]
+    },
+    "remark": "--",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SUST 1030",
+    "title": "Climate Change and Sustainability: An Interdisciplinary Perspective",
+    "credits": 3,
+    "areas": [
+      "SUS"
+    ],
+    "areaByCohort": {
+      "cc22": [],
+      "cc25": [
+        "SUS"
+      ],
+      "cc26": []
+    },
+    "remark": "From 2025-26 Spring for 2025-26 and 2026-27",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "SUST 1101",
+    "title": "Environmental, Social, and Governance Fundamentals",
+    "credits": 3,
+    "areas": [
+      "SA"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "SA"
+      ],
+      "cc25": [],
+      "cc26": []
+    },
+    "remark": "-- SA from 2024-25 Spring to 2024-25 Summer; CC designation expired.",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "UCOP 3200",
+    "title": "Design for Global Health",
+    "credits": 3,
+    "areas": [
+      "UXOP"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "UXOP"
+      ],
+      "cc25": [
+        "UXOP"
+      ],
+      "cc26": []
+    },
+    "remark": "– UCOP This is a common core course with effect from",
+    "coreCode": null,
+    "prev": "ENGG 4930"
+  },
+  {
+    "code": "UPOP 2920",
+    "title": "Undergraduate Practice Opportunities",
+    "credits": 2,
+    "areas": [
+      "UXOP"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "UXOP"
+      ],
+      "cc25": [
+        "UXOP"
+      ],
+      "cc26": []
+    },
+    "remark": "– UPOP This is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "UROP 3200",
+    "title": "Undergraduate Research Opportunities with Mini-conference Experience",
+    "credits": 1,
+    "areas": [
+      "UXOP"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "UXOP"
+      ],
+      "cc25": [
+        "UXOP"
+      ],
+      "cc26": [
+        "UXOP"
+      ]
+    },
+    "remark": "– UROP This is a common core course with effec t from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "UTOP 2401",
+    "title": "Language Teaching Service-Learning Internship",
+    "credits": 3,
+    "areas": [
+      "UXOP"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "UXOP"
+      ],
+      "cc25": [
+        "UXOP"
+      ],
+      "cc26": []
+    },
+    "remark": "– UTOP This is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "UTOP 2910",
+    "title": "Pathways to Teaching for Future Educators",
+    "credits": 3,
+    "areas": [
+      "UXOP"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "UXOP"
+      ],
+      "cc25": [
+        "UXOP"
+      ],
+      "cc26": [
+        "UXOP"
+      ]
+    },
+    "remark": "– UTOP This is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  },
+  {
+    "code": "UTOP 3201",
+    "title": "Practicum in STEAM Education",
+    "credits": 3,
+    "areas": [
+      "UXOP"
+    ],
+    "areaByCohort": {
+      "cc22": [
+        "UXOP"
+      ],
+      "cc25": [
+        "UXOP"
+      ],
+      "cc26": [
+        "UXOP"
+      ]
+    },
+    "remark": "– UTOP This is a common core course with effect from",
+    "coreCode": null,
+    "prev": null
+  }
+]

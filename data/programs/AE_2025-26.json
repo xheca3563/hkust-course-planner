@@ -1,0 +1,566 @@
+{
+  "programCode": "AE",
+  "programName": "BEng in Aerospace Engineering",
+  "intakeYear": "2025-26",
+  "school": "Engineering",
+  "prerequisites": [],
+  "required": [
+    {
+      "subject": "MECH",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 1001",
+          "credits": 0,
+          "title": "Academic and Professional Development I"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 1910",
+          "credits": 3,
+          "title": "Foundations of Mechanical and Aerospace Engineering"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 1990",
+          "credits": 0,
+          "title": "Industrial Training"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 2002",
+          "credits": 0,
+          "title": "Academic and Professional Development II"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 2007",
+          "credits": 3,
+          "title": "Aerospace Engineering: Principles and Systems"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 2020",
+          "credits": 3,
+          "title": "Statics and Dynamics"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 2040",
+          "credits": 3,
+          "title": "Solid Mechanics I"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 2210",
+          "credits": 3,
+          "title": "Fluid Mechanics"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 2300",
+          "credits": 3,
+          "title": "Engineering Computation with Matrices and AI"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 2310",
+          "credits": 3,
+          "title": "Thermodynamics"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 3400",
+          "credits": 3,
+          "title": "Introduction to Engineering Composite Materials"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 3610",
+          "credits": 3,
+          "title": "Control Principles"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 3620",
+          "credits": 3,
+          "title": "Aircraft Design"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 3640",
+          "credits": 3,
+          "title": "Aerodynamics"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 3650",
+          "credits": 3,
+          "title": "Aircraft Structural Analysis"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 3660",
+          "credits": 3,
+          "title": "Aircraft Propulsion"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 3670",
+          "credits": 3,
+          "title": "Aircraft Performance and Stability"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 3680",
+          "credits": 3,
+          "title": "Avionics Systems"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 3690",
+          "credits": 3,
+          "title": "Aerospace Engineering Laboratory"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 6,
+      "maxCredits": 6,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 4980",
+          "credits": 6,
+          "title": "Final Year Aerospace Design Project"
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ELEC 2420",
+          "credits": 3,
+          "title": "Basic Electronics"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 5,
+      "note": "COMP 1023 OR COMP 2011 OR COMP 2012H",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 1023"
+          },
+          {
+            "type": "course",
+            "code": "COMP 2011"
+          },
+          {
+            "type": "course",
+            "code": "COMP 2012H"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 1023",
+          "credits": 3,
+          "title": "Introduction to Python Programming"
+        },
+        {
+          "code": "COMP 2011",
+          "credits": 4,
+          "title": "Programming with C++"
+        },
+        {
+          "code": "COMP 2012H",
+          "credits": 5,
+          "title": "Honors Object-Oriented Programming and Data Structures"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 6,
+      "note": "[(MATH 1013 OR MATH 1023) AND (MATH 1014 OR MATH 1024)] OR [MATH 1020]",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1013"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1023"
+                  }
+                ]
+              },
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1014"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1024"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "course",
+            "code": "MATH 1020"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1014",
+          "credits": 3,
+          "title": "Calculus II"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        },
+        {
+          "code": "MATH 1024",
+          "credits": 3,
+          "title": "Honors Calculus II"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MATH 2011",
+          "credits": 3,
+          "title": "Introduction to Multivariable Calculus"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MATH 2351",
+          "credits": 3,
+          "title": "Introduction to Differential Equations"
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "PHYS 1112 OR PHYS 1312",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "PHYS 1112"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 1312"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "PHYS 1112",
+          "credits": 3,
+          "title": "General Physics I with Calculus"
+        },
+        {
+          "code": "PHYS 1312",
+          "credits": 3,
+          "title": "Honors General Physics I"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 1008",
+          "credits": 3,
+          "title": "Introductory Chemistry"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 1012",
+          "credits": 3,
+          "title": "General Chemistry B: Atomic Structure, Molecules, and Bonding"
+        }
+      ]
+    },
+    {
+      "subject": "LIFS",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "LIFS 1901",
+          "credits": 3,
+          "title": "General Biology I"
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "PHYS 1101",
+          "credits": 4,
+          "title": "Introductory Physics"
+        }
+      ]
+    }
+  ],
+  "electives": [
+    {
+      "subject": "MECH",
+      "minCredits": 6,
+      "maxCredits": null,
+      "freeForm": "MECH Electives in Aerospace (2 courses from the specified elective list) MECH 2520 3 Design and Manufacturing I MECH 3310 3 Heat Transfer MECH 3740 3 Introduction to Aerospace Computational Fluid Dynamics (CFD) MECH 4100 3 Experiential Projects in Aerospace Engineering MECH 4740 3 Numerical Methods in Engineering MECH 4810 3 Unmanned Aviation Vehicle MECH 4890 3 Introduction to Nanosatellite Engineering MECH 5961 3 Acoustics and Aeroacoustics",
+      "areas": []
+    }
+  ],
+  "notes": "",
+  "tracks": [
+    {
+      "name": "Research Option",
+      "note": "",
+      "groups": [
+        {
+          "subject": "MECH",
+          "minCredits": 6,
+          "maxCredits": 6,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "MECH 4990",
+              "credits": 6,
+              "title": "Aerospace Research Project"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "trackRequired": false
+}

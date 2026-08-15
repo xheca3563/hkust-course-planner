@@ -1,0 +1,738 @@
+{
+  "programCode": "DSCT",
+  "programName": "BSc in Data Science and Technology",
+  "intakeYear": "2023-24",
+  "school": "Science",
+  "prerequisites": [
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 7,
+      "note": "[(MATH 1012 OR MATH 1013 OR MATH 1023) AND (MATH 1014 OR MATH 1024)] OR [MATH 1020]",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1012"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1013"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1023"
+                  }
+                ]
+              },
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1014"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1024"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "course",
+            "code": "MATH 1020"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 1012",
+          "credits": 4,
+          "title": "Calculus IA"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1014",
+          "credits": 3,
+          "title": "Calculus II"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        },
+        {
+          "code": "MATH 1024",
+          "credits": 3,
+          "title": "Honors Calculus II"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "COMP 1021 OR COMP 1022P",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 1021"
+          },
+          {
+            "type": "course",
+            "code": "COMP 1022P"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 1021",
+          "credits": 3,
+          "title": "Introduction to Computer Science"
+        },
+        {
+          "code": "COMP 1022P",
+          "credits": 3,
+          "title": "Introduction to Computing with Java"
+        }
+      ]
+    }
+  ],
+  "required": [
+    {
+      "subject": "DSCT",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "DSCT 4900",
+          "credits": 0,
+          "title": "Academic and Professional Development"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MATH 2023",
+          "credits": 4,
+          "title": "Multivariable Calculus"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "MATH 2121 OR MATH 2131",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 2121"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2131"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 2121",
+          "credits": 4,
+          "title": "Linear Algebra"
+        },
+        {
+          "code": "MATH 2131",
+          "credits": 4,
+          "title": "Honors in Linear and Abstract Algebra I"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MATH 2411",
+          "credits": 4,
+          "title": "Applied Statistics"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "MATH 2421 OR MATH 2431",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 2421"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2431"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 2421",
+          "credits": 4,
+          "title": "Probability"
+        },
+        {
+          "code": "MATH 2431",
+          "credits": 4,
+          "title": "Honors Probability"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MATH 3322",
+          "credits": 3,
+          "title": "Matrix Computation"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MATH 3332",
+          "credits": 3,
+          "title": "Data Analytic Tools"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MATH 3423",
+          "credits": 3,
+          "title": "Statistical Inference"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MATH 3424",
+          "credits": 3,
+          "title": "Regression Analysis"
+        }
+      ]
+    },
+    {
+      "subject": "MATH/COMP",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "MATH 4432 OR COMP 4211",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 4432"
+          },
+          {
+            "type": "course",
+            "code": "COMP 4211"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 4432",
+          "credits": 3,
+          "title": "Statistical Machine Learning"
+        },
+        {
+          "code": "COMP 4211",
+          "credits": 3,
+          "title": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "subject": "MATH/COMP",
+      "minCredits": 3,
+      "maxCredits": 6,
+      "note": "MATH 4995 OR COMP 4910 OR COMP 4981 OR COMP 4981H",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 4995"
+          },
+          {
+            "type": "course",
+            "code": "COMP 4910"
+          },
+          {
+            "type": "course",
+            "code": "COMP 4981"
+          },
+          {
+            "type": "course",
+            "code": "COMP 4981H"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 4995",
+          "credits": 3,
+          "title": "Capstone Project for Data Science"
+        },
+        {
+          "code": "COMP 4910",
+          "credits": 6,
+          "title": "Co-op Program"
+        },
+        {
+          "code": "COMP 4981",
+          "credits": 6,
+          "title": "Final Year Project"
+        },
+        {
+          "code": "COMP 4981H",
+          "credits": 6,
+          "title": "Final Year Thesis"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 5,
+      "maxCredits": 8,
+      "note": "(COMP 2011 AND COMP 2012) OR COMP 2012H",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "course",
+                "code": "COMP 2011"
+              },
+              {
+                "type": "course",
+                "code": "COMP 2012"
+              }
+            ]
+          },
+          {
+            "type": "course",
+            "code": "COMP 2012H"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 2011",
+          "credits": 4,
+          "title": "Programming with C++"
+        },
+        {
+          "code": "COMP 2012",
+          "credits": 4,
+          "title": "Object-Oriented Programming and Data Structures"
+        },
+        {
+          "code": "COMP 2012H",
+          "credits": 5,
+          "title": "Honors Object-Oriented Programming and Data Structures"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "COMP 2711 OR COMP 2711H",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 2711"
+          },
+          {
+            "type": "course",
+            "code": "COMP 2711H"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 2711",
+          "credits": 4,
+          "title": "Discrete Mathematical Tools for Computer Science"
+        },
+        {
+          "code": "COMP 2711H",
+          "credits": 4,
+          "title": "Honors Discrete Mathematical Tools for Computer Science"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "COMP 3711 OR COMP 3711H",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 3711"
+          },
+          {
+            "type": "course",
+            "code": "COMP 3711H"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 3711",
+          "credits": 3,
+          "title": "Design and Analysis of Algorithms"
+        },
+        {
+          "code": "COMP 3711H",
+          "credits": 4,
+          "title": "Honors Design and Analysis of Algorithms"
+        }
+      ]
+    },
+    {
+      "subject": "LANG",
+      "minCredits": 6,
+      "maxCredits": 6,
+      "note": "(LANG 2010 OR LANG 2010H OR LANG 2030 OR LANG 2030H) AND (LANG 3021 OR LANG 4030) LANG 3021 3 Science Communication in English (Mathematics)",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "LANG 2010"
+                  },
+                  {
+                    "type": "course",
+                    "code": "LANG 2010H"
+                  },
+                  {
+                    "type": "course",
+                    "code": "LANG 2030"
+                  },
+                  {
+                    "type": "course",
+                    "code": "LANG 2030H"
+                  }
+                ]
+              },
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "LANG 3021"
+                  },
+                  {
+                    "type": "course",
+                    "code": "LANG 4030"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "course",
+            "code": "LANG 3021"
+          },
+          {
+            "type": "or",
+            "children": []
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "LANG 2010",
+          "credits": 3,
+          "title": "English for Science I"
+        },
+        {
+          "code": "LANG 2010H",
+          "credits": 3,
+          "title": "English for Science I"
+        },
+        {
+          "code": "LANG 2030",
+          "credits": 3,
+          "title": "Technical Communication I"
+        },
+        {
+          "code": "LANG 2030H",
+          "credits": 3,
+          "title": "Technical Communication I"
+        },
+        {
+          "code": "LANG 4030",
+          "credits": 3,
+          "title": "Technical Communication II for CSE, CPEG & DSCT"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [],
+  "electives": [
+    {
+      "subject": "MATH/COMP/ELEC",
+      "minCredits": 9,
+      "maxCredits": 12,
+      "freeForm": "Data Science Electives [Students opting for MATH 4995 should take a minimum of 4 courses (12 credits) from the specified elective list, of which at least 2 courses should be taken from COMP/ELEC; those opting for COMP 4910 or COMP 4981 or COMP 4981H should take a minimum of 3 courses (9 credits), of which at least 1 course should be taken from COMP/ELEC. Out of the total 4 (or 3) elective courses taken, at least 1 course but no more than 2 courses should be from MATH.] MATH 4343 4 Introduction to Graph Theory MATH 4423 3 Nonparametric Statistics MATH 4424 3 Multivariate Analysis MATH 4425 3 Introductory Time Series MATH 4433 3 Spatial Data Analysis MATH 4434 3 Deep Learning",
+      "areas": [
+        {
+          "label": "COMP/ELEC courses",
+          "courses": [
+            {
+              "code": "COMP 2211",
+              "credits": 3,
+              "title": "Introduction to Artificial Intelligence"
+            },
+            {
+              "code": "COMP 3211",
+              "credits": 3,
+              "title": "Learning, Reasoning, and Decision Making in AI"
+            },
+            {
+              "code": "COMP 3311",
+              "credits": 3,
+              "title": "Database Management Systems"
+            },
+            {
+              "code": "COMP 3631",
+              "credits": 3,
+              "title": "Cryptography"
+            },
+            {
+              "code": "COMP 4021",
+              "credits": 3,
+              "title": "Internet Computing"
+            },
+            {
+              "code": "COMP 4221",
+              "credits": 3,
+              "title": "Introduction to Natural Language Processing"
+            },
+            {
+              "code": "COMP 4222",
+              "credits": 3,
+              "title": "Machine Learning with Structured Data"
+            },
+            {
+              "code": "COMP 4331",
+              "credits": 3,
+              "title": "Data Mining"
+            },
+            {
+              "code": "COMP 4332",
+              "credits": 3,
+              "title": "Big Data Mining and Management"
+            },
+            {
+              "code": "COMP 4421",
+              "credits": 3,
+              "title": "Image Processing"
+            },
+            {
+              "code": "COMP 4462",
+              "credits": 3,
+              "title": "Data Visualization"
+            },
+            {
+              "code": "COMP 4471",
+              "credits": 3,
+              "title": "Deep Learning in Computer Vision"
+            },
+            {
+              "code": "COMP 4541",
+              "credits": 3,
+              "title": "Blockchain, Cryptocurrencies and Smart Contracts"
+            },
+            {
+              "code": "COMP 4634",
+              "credits": 3,
+              "title": "Cybersecurity"
+            },
+            {
+              "code": "COMP 4641",
+              "credits": 3,
+              "title": "Social Information Network Analysis and Engineering"
+            },
+            {
+              "code": "COMP 4651",
+              "credits": 3,
+              "title": "Cloud Computing and Big Data Systems"
+            },
+            {
+              "code": "ELEC 4240",
+              "credits": 3,
+              "title": "Deep Learning in Computer Vision"
+            }
+          ]
+        },
+        {
+          "label": "MATH courses",
+          "courses": [
+            {
+              "code": "MATH 2033",
+              "credits": 4,
+              "title": "Mathematical Analysis"
+            },
+            {
+              "code": "MATH 2043",
+              "credits": 4,
+              "title": "Honors Mathematical Analysis"
+            },
+            {
+              "code": "MATH 2351",
+              "credits": 3,
+              "title": "Introduction to Differential Equations"
+            },
+            {
+              "code": "MATH 2352",
+              "credits": 4,
+              "title": "Differential Equations"
+            },
+            {
+              "code": "MATH 3033",
+              "credits": 4,
+              "title": "Real Analysis"
+            },
+            {
+              "code": "MATH 3043",
+              "credits": 4,
+              "title": "Honors Real Analysis"
+            },
+            {
+              "code": "MATH 3312",
+              "credits": 3,
+              "title": "Numerical Analysis"
+            },
+            {
+              "code": "MATH 3425",
+              "credits": 3,
+              "title": "Stochastic Modeling"
+            },
+            {
+              "code": "MATH 3427",
+              "credits": 3,
+              "title": "Bayesian Statistics"
+            },
+            {
+              "code": "MATH 3428",
+              "credits": 3,
+              "title": "Statistical Computing"
+            },
+            {
+              "code": "MATH 4023",
+              "credits": 3,
+              "title": "Complex Analysis"
+            },
+            {
+              "code": "MATH 4052",
+              "credits": 3,
+              "title": "Partial Differential Equations"
+            },
+            {
+              "code": "MATH 4335",
+              "credits": 3,
+              "title": "Introduction to Optimization"
+            },
+            {
+              "code": "MATH 4336",
+              "credits": 3,
+              "title": "Introduction to Mathematics of Image Processing"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": "- COMP 1022P: The course was last offered in 2024-25 and was deleted subsequently.\n- MATH 1012: The course was last offered in 2024-25 and was deleted subsequently.\n2026-27 DSCT (4Y) (2023-24 intake) Page 4",
+  "tracks": [],
+  "schools": [
+    "Science",
+    "Engineering"
+  ],
+  "schoolRequirementsExempt": true
+}

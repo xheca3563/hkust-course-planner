@@ -1,0 +1,958 @@
+{
+  "programCode": "CHEM",
+  "programName": "BSc in Chemistry",
+  "intakeYear": "2024-25",
+  "school": "Science",
+  "prerequisites": [
+    {
+      "subject": "CHEM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 1011",
+          "credits": 3,
+          "title": "General Chemistry A: Reactions, Thermodynamics, and"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 1012",
+          "credits": 3,
+          "title": "General Chemistry B: Atomic Structure, Molecules, and"
+        }
+      ]
+    }
+  ],
+  "required": [
+    {
+      "subject": "CHEM",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 1051",
+          "credits": 1,
+          "title": "Laboratory for General Chemistry A"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 1052",
+          "credits": 1,
+          "title": "Laboratory for General Chemistry B"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 2110",
+          "credits": 3,
+          "title": "Organic Chemistry I"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 2210",
+          "credits": 3,
+          "title": "Inorganic Chemistry I"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 2310",
+          "credits": 3,
+          "title": "Fundamentals of Analytical Chemistry"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 2409",
+          "credits": 4,
+          "title": "Mathematical Methods for Physical Chemistry"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 2,
+      "maxCredits": 2,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 2550",
+          "credits": 2,
+          "title": "Synthetic Chemistry Laboratory I"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 2,
+      "maxCredits": 2,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 2555",
+          "credits": 2,
+          "title": "Molecular Characterization Chemistry Laboratory l"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 3120",
+          "credits": 3,
+          "title": "Organic Chemistry II"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 3220",
+          "credits": 3,
+          "title": "Inorganic Chemistry II"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 3320",
+          "credits": 3,
+          "title": "Instrumental Analysis"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 2,
+      "maxCredits": 2,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 3550",
+          "credits": 2,
+          "title": "Synthetic Chemistry Laboratory II"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 2,
+      "maxCredits": 2,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 3555",
+          "credits": 2,
+          "title": "Molecular Characterization Chemistry Laboratory II"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM/SCIE",
+      "minCredits": 3,
+      "maxCredits": 6,
+      "note": "CHEM 4689 OR CHEM 4691 OR (SCIE 3500 AND SCIE 4500) (Students following IRE Track can only use (SCIE 3500 AND SCIE 4500) to fulfill the requirement)",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "CHEM 4689"
+          },
+          {
+            "type": "course",
+            "code": "CHEM 4691"
+          },
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "course",
+                "code": "SCIE 3500"
+              },
+              {
+                "type": "course",
+                "code": "SCIE 4500"
+              }
+            ]
+          },
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "course",
+                "code": "SCIE 3500"
+              },
+              {
+                "type": "course",
+                "code": "SCIE 4500"
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "CHEM 4689",
+          "credits": 3,
+          "title": "Capstone Project"
+        },
+        {
+          "code": "CHEM 4691",
+          "credits": 3,
+          "title": "Capstone Research I"
+        },
+        {
+          "code": "SCIE 3500",
+          "credits": 3,
+          "title": "IRE Research Project I"
+        },
+        {
+          "code": "SCIE 4500",
+          "credits": 3,
+          "title": "IRE Research Project II"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 1012"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1013"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1020"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1023"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 1012",
+          "credits": 4,
+          "title": "Calculus IA"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "COMP 1021 OR COMP 1022P OR COMP 1023",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 1021"
+          },
+          {
+            "type": "course",
+            "code": "COMP 1022P"
+          },
+          {
+            "type": "course",
+            "code": "COMP 1023"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 1021",
+          "credits": 3,
+          "title": "Introduction to Computer Science"
+        },
+        {
+          "code": "COMP 1022P",
+          "credits": 3,
+          "title": "Introduction to Computing with Java"
+        },
+        {
+          "code": "COMP 1023",
+          "credits": 3,
+          "title": "Introduction to Python Programming"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "SSCI",
+      "minCredits": 24,
+      "maxCredits": 24,
+      "note": "SSCI Science Foundation courses [8 courses from the specified",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 1008",
+          "credits": 3,
+          "title": "Introductory Chemistry"
+        },
+        {
+          "code": "CHEM 1011",
+          "credits": 3,
+          "title": "General Chemistry A: Reactions, Thermodynamics, and Reaction"
+        },
+        {
+          "code": "CHEM 1012",
+          "credits": 3,
+          "title": "General Chemistry B: Atomic Structure, Molecules, and Bonding"
+        },
+        {
+          "code": "CHEM 1051",
+          "credits": 1,
+          "title": "Laboratory for General Chemistry A"
+        },
+        {
+          "code": "CHEM 1052",
+          "credits": 1,
+          "title": "Laboratory for General Chemistry B"
+        },
+        {
+          "code": "DASC 2010",
+          "credits": 3,
+          "title": "Calculus for Data Analytics in Science"
+        },
+        {
+          "code": "LIFS 1030",
+          "credits": 3,
+          "title": "Environmental Science"
+        },
+        {
+          "code": "LIFS 1901",
+          "credits": 3,
+          "title": "General Biology I"
+        },
+        {
+          "code": "LIFS 1902",
+          "credits": 3,
+          "title": "General Biology II"
+        },
+        {
+          "code": "LIFS 1903",
+          "credits": 1,
+          "title": "Laboratory for General Biology I"
+        },
+        {
+          "code": "LIFS 1904",
+          "credits": 1,
+          "title": "Laboratory for General Biology II"
+        },
+        {
+          "code": "LIFS 1930",
+          "credits": 3,
+          "title": "Nature of Life Sciences"
+        },
+        {
+          "code": "LIFS 2210",
+          "credits": 3,
+          "title": "Biochemistry I"
+        },
+        {
+          "code": "MATH 1012",
+          "credits": 4,
+          "title": "Calculus IA"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1014",
+          "credits": 3,
+          "title": "Calculus II"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        },
+        {
+          "code": "MATH 1024",
+          "credits": 3,
+          "title": "Honors Calculus II"
+        },
+        {
+          "code": "MATH 2011",
+          "credits": 3,
+          "title": "Introduction to Multivariable Calculus"
+        },
+        {
+          "code": "MATH 2023",
+          "credits": 4,
+          "title": "Multivariable Calculus"
+        },
+        {
+          "code": "MATH 2111",
+          "credits": 3,
+          "title": "Matrix Algebra and Applications"
+        },
+        {
+          "code": "MATH 2121",
+          "credits": 4,
+          "title": "Linear Algebra"
+        },
+        {
+          "code": "MATH 2131",
+          "credits": 4,
+          "title": "Honors in Linear and Abstract Algebra I"
+        },
+        {
+          "code": "OCES 1001",
+          "credits": 3,
+          "title": "The Earth as a Blue Planet"
+        },
+        {
+          "code": "OCES 1010",
+          "credits": 3,
+          "title": "Principles and Applications of Environmental Science"
+        },
+        {
+          "code": "PHYS 1101",
+          "credits": 4,
+          "title": "Introductory Physics"
+        },
+        {
+          "code": "PHYS 1111",
+          "credits": 3,
+          "title": "General Physics I"
+        },
+        {
+          "code": "PHYS 1112",
+          "credits": 3,
+          "title": "General Physics I with Calculus"
+        },
+        {
+          "code": "PHYS 1113",
+          "credits": 1,
+          "title": "Laboratory for General Physics I"
+        },
+        {
+          "code": "PHYS 1114",
+          "credits": 3,
+          "title": "General Physics II"
+        },
+        {
+          "code": "PHYS 1115",
+          "credits": 1,
+          "title": "Laboratory for General Physics II"
+        },
+        {
+          "code": "PHYS 1312",
+          "credits": 3,
+          "title": "Honors General Physics I"
+        },
+        {
+          "code": "PHYS 1314",
+          "credits": 3,
+          "title": "Honors General Physics II"
+        }
+      ],
+      "noProse": true
+    },
+    {
+      "subject": "SSCI（仅 IRE 方向）",
+      "minCredits": 8,
+      "maxCredits": 9,
+      "note": "Additional Required Courses for IRE Track [SCIE 1500 AND SCIE 2500 AND SCIE 3900 AND LANG 3027 AND (UROP 1000 OR UROP 1100)]",
+      "logic": {
+        "type": "and",
+        "children": [
+          {
+            "type": "course",
+            "code": "SCIE 1500"
+          },
+          {
+            "type": "course",
+            "code": "SCIE 2500"
+          },
+          {
+            "type": "course",
+            "code": "SCIE 3900"
+          },
+          {
+            "type": "course",
+            "code": "LANG 3027"
+          },
+          {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "UROP 1000"
+              },
+              {
+                "type": "course",
+                "code": "UROP 1100"
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "SCIE 1500",
+          "credits": 1,
+          "title": "Guided Study on Research I"
+        },
+        {
+          "code": "SCIE 2500",
+          "credits": 1,
+          "title": "Guided Study on Research II"
+        },
+        {
+          "code": "SCIE 3900",
+          "credits": 3,
+          "title": "International Research Experience"
+        },
+        {
+          "code": "LANG 3027",
+          "credits": 3,
+          "title": "Science Communication in English for Research Students"
+        },
+        {
+          "code": "UROP 1000",
+          "credits": 0,
+          "title": "Undergraduate Research Opportunities"
+        },
+        {
+          "code": "UROP 1100",
+          "credits": 1,
+          "title": "1 Undergraduate Research Opportunities Series"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "SSCI（仅 IRE 方向）",
+      "minCredits": 6,
+      "maxCredits": 6,
+      "note": "Additional Science 2000-level or above Electives for IRE Track (Any 2 courses of the subject and level as specified and approved by advisor)",
+      "logic": null,
+      "options": [],
+      "noProse": false
+    }
+  ],
+  "electives": [
+    {
+      "subject": "CHEM",
+      "minCredits": 0,
+      "maxCredits": 3,
+      "freeForm": "CHEM 3000-level or above Elective (Any 1 course (3 credits) of the subject and level specified.  Students to graduate with a Chemistry Option or IRE Track are exempted from this requirement.)",
+      "areas": []
+    },
+    {
+      "subject": "SSCI",
+      "minCredits": 2,
+      "maxCredits": null,
+      "freeForm": "Science 2000-level or above Elective (Any science course offered under the School of Science of the level as specified)",
+      "areas": []
+    }
+  ],
+  "notes": "- CHEM 2410: The credit value will be changed to 4 starting from Fall, 2027-28.\n- CHEM 3420: The credit value will be changed to 4 starting from Fall, 2027-28.\n- MATH 1012: The course was last offered in 2024-25 and was deleted subsequently.\n2026-27 CHEM (4Y) (2024-25 intake) Page 7",
+  "tracks": [
+    {
+      "name": "International Research Enrichment Track",
+      "note": "Students in the IRE Track should also take SCIE 3500 and SCIE 4500 as specified in the major requirements.  Subject to approval of the program office, students may reuse CHEM 4430 to count towards the requirements of Chemistry Options.",
+      "groups": [
+        {
+          "subject": "CHEM",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "CHEM 4430",
+              "credits": 3,
+              "title": "Symmetry in Chemistry and Spectroscopy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Biomolecular Chemistry Option",
+      "note": "",
+      "groups": [
+        {
+          "subject": "CHEM",
+          "minCredits": 1,
+          "maxCredits": 1,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "CHEM 4150",
+              "credits": 1,
+              "title": "Biomolecular Synthesis Laboratory"
+            }
+          ]
+        },
+        {
+          "subject": "CHEM",
+          "minCredits": 1,
+          "maxCredits": 1,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "CHEM 4155",
+              "credits": 1,
+              "title": "Biomolecular Characterization Laboratory"
+            }
+          ]
+        },
+        {
+          "subject": "CHEM",
+          "minCredits": 12,
+          "maxCredits": null,
+          "note": "Chemistry Electives [Course(s) from the specified elective list, of which at least 2 courses must be taken from the Core Area. Courses taken as Required/Elective Courses of another Chemistry Option may not be counted towards this elective requirement.] Others CHEM 3010 3 Great Ideas in Chemistry CHEM 3020 3 Chemistry in the Mass Media CHEM 3030 4 Introduction to AI for Chemistry CHEM 3610 2-3 Chemistry Internship CHEM 4210 3 Solid State Chemistry CHEM 4220 3 Materials Chemistry CHEM 4230 3 Materials Characterization Method CHEM 4240 3 Intermediate Inorganic Chemistry CHEM 4310 3 Environmental Chemistry CHEM 4320 3 Environmental Analytical Chemistry CHEM 4330 3 Separation Science CHEM 4420 3 Statistical Machine Learning Methods for Chemical Data Analysis CHEM 4430 3 Symmetry in Chemistry and Spectroscopy CHEM 4620 3 Organometallic Chemistry CHEM 4640 3 Chemistry for Advanced Solar Cell Technologies CHEM 4680 3 Undergraduate Research CHEM 4692 3 Capstone Research II",
+          "logic": null,
+          "options": [
+            {
+              "code": "CHEM 4110",
+              "credits": 3,
+              "title": "Structural Elucidation in Organic Chemistry"
+            },
+            {
+              "code": "CHEM 4120",
+              "credits": 3,
+              "title": "Biomolecular Chemistry"
+            },
+            {
+              "code": "CHEM 4130",
+              "credits": 3,
+              "title": "Medicinal Chemistry"
+            },
+            {
+              "code": "CHEM 4140",
+              "credits": 3,
+              "title": "Intermediate Organic Chemistry"
+            },
+            {
+              "code": "CHEM 4340",
+              "credits": 3,
+              "title": "Bioanalytical Techniques"
+            },
+            {
+              "code": "CHEM 4410",
+              "credits": 3,
+              "title": "Physical Chemistry in Biological Applications"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Environmental and Analytical Chemistry Option",
+      "note": "",
+      "groups": [
+        {
+          "subject": "CHEM",
+          "minCredits": 1,
+          "maxCredits": 1,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "CHEM 4350",
+              "credits": 1,
+              "title": "Environmental Chemistry Laboratory"
+            }
+          ]
+        },
+        {
+          "subject": "CHEM",
+          "minCredits": 1,
+          "maxCredits": 1,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "CHEM 4355",
+              "credits": 1,
+              "title": "Instrumental Analytical Chemistry Laboratory"
+            }
+          ]
+        },
+        {
+          "subject": "CHEM",
+          "minCredits": 12,
+          "maxCredits": null,
+          "note": "Chemistry Electives [Course(s) from the specified elective list, of which at least 2 courses must be taken from the Core Area. Courses taken as Required/Elective Courses of another Chemistry Option may not be counted towards this elective requirement.] Others CHEM 3010 3 Great Ideas in Chemistry CHEM 3020 3 Chemistry in the Mass Media CHEM 3030 4 Introduction to AI for Chemistry CHEM 3610 2-3 Chemistry Internship CHEM 4120 3 Biomolecular Chemistry CHEM 4130 3 Medicinal Chemistry CHEM 4140 3 Intermediate Organic Chemistry CHEM 4210 3 Solid State Chemistry CHEM 4220 3 Materials Chemistry CHEM 4230 3 Materials Characterization Method CHEM 4240 3 Intermediate Inorganic Chemistry CHEM 4410 3 Physical Chemistry in Biological Applications CHEM 4430 3 Symmetry in Chemistry and Spectroscopy CHEM 4620 3 Organometallic Chemistry CHEM 4640 3 Chemistry for Advanced Solar Cell Technologies CHEM 4680 3 Undergraduate Research CHEM 4692 3 Capstone Research II",
+          "logic": null,
+          "options": [
+            {
+              "code": "CHEM 4110",
+              "credits": 3,
+              "title": "Structural Elucidation in Organic Chemistry"
+            },
+            {
+              "code": "CHEM 4310",
+              "credits": 3,
+              "title": "Environmental Chemistry"
+            },
+            {
+              "code": "CHEM 4320",
+              "credits": 3,
+              "title": "Environmental Analytical Chemistry"
+            },
+            {
+              "code": "CHEM 4330",
+              "credits": 3,
+              "title": "Separation Science"
+            },
+            {
+              "code": "CHEM 4340",
+              "credits": 3,
+              "title": "Bioanalytical Techniques"
+            },
+            {
+              "code": "CHEM 4420",
+              "credits": 3,
+              "title": "Statistical Machine Learning Methods for Chemical Data Analysis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Materials Chemistry Option",
+      "note": "",
+      "groups": [
+        {
+          "subject": "CHEM",
+          "minCredits": 1,
+          "maxCredits": 1,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "CHEM 4250",
+              "credits": 1,
+              "title": "Materials Preparation Laboratory"
+            }
+          ]
+        },
+        {
+          "subject": "CHEM",
+          "minCredits": 1,
+          "maxCredits": 1,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "CHEM 4255",
+              "credits": 1,
+              "title": "Materials Characterization Laboratory"
+            }
+          ]
+        },
+        {
+          "subject": "CHEM",
+          "minCredits": 12,
+          "maxCredits": null,
+          "note": "Chemistry Electives [Course(s) from the specified elective list, of which at least 2 courses must be taken from the Core Area. Courses taken as Required/Elective Courses of another Chemistry Option may not be counted towards this elective requirement.] Others CHEM 3010 3 Great Ideas in Chemistry CHEM 3020 3 Chemistry in the Mass Media CHEM 3030 4 Introduction to AI for Chemistry CHEM 3610 2-3 Chemistry Internship CHEM 4120 3 Biomolecular Chemistry CHEM 4130 3 Medicinal Chemistry CHEM 4140 3 Intermediate Organic Chemistry CHEM 4310 3 Environmental Chemistry CHEM 4320 3 Environmental Analytical Chemistry CHEM 4330 3 Separation Science CHEM 4340 3 Bioanalytical Techniques CHEM 4410 3 Physical Chemistry in Biological Applications CHEM 4420 3 Statistical Machine Learning Methods for Chemical Data Analysis CHEM 4430 3 Symmetry in Chemistry and Spectroscopy CHEM 4620 3 Organometallic Chemistry CHEM 4680 3 Undergraduate Research CHEM 4692 3 Capstone Research II",
+          "logic": null,
+          "options": [
+            {
+              "code": "CHEM 4110",
+              "credits": 3,
+              "title": "Structural Elucidation in Organic Chemistry"
+            },
+            {
+              "code": "CHEM 4210",
+              "credits": 3,
+              "title": "Solid State Chemistry"
+            },
+            {
+              "code": "CHEM 4220",
+              "credits": 3,
+              "title": "Materials Chemistry"
+            },
+            {
+              "code": "CHEM 4230",
+              "credits": 3,
+              "title": "Materials Characterization Method"
+            },
+            {
+              "code": "CHEM 4240",
+              "credits": 3,
+              "title": "Intermediate Inorganic Chemistry"
+            },
+            {
+              "code": "CHEM 4640",
+              "credits": 3,
+              "title": "Chemistry for Advanced Solar Cell Technologies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pure Chemistry Option",
+      "note": "",
+      "groups": [
+        {
+          "subject": "CHEM",
+          "minCredits": 1,
+          "maxCredits": 1,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "CHEM 4550",
+              "credits": 1,
+              "title": "Advanced Synthetic Laboratory"
+            }
+          ]
+        },
+        {
+          "subject": "CHEM",
+          "minCredits": 1,
+          "maxCredits": 1,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "CHEM 4555",
+              "credits": 1,
+              "title": "Advanced Molecular Characterization Laboratory"
+            }
+          ]
+        },
+        {
+          "subject": "CHEM",
+          "minCredits": 12,
+          "maxCredits": null,
+          "note": "Chemistry Electives [Course(s) from the specified elective list, of which at least 1 course must be taken from the Core Area. Courses taken as Required/Elective Courses of another Chemistry Option may not be counted towards this elective requirement.] Others CHEM 3010 3 Great Ideas in Chemistry CHEM 3020 3 Chemistry in the Mass Media CHEM 3030 4 Introduction to AI for Chemistry CHEM 3610 2-3 Chemistry Internship CHEM 4110 3 Structural Elucidation in Organic Chemistry CHEM 4120 3 Biomolecular Chemistry CHEM 4130 3 Medicinal Chemistry CHEM 4210 3 Solid State Chemistry CHEM 4220 3 Materials Chemistry CHEM 4230 3 Materials Characterization Method CHEM 4310 3 Environmental Chemistry CHEM 4320 3 Environmental Analytical Chemistry CHEM 4330 3 Separation Science CHEM 4340 3 Bioanalytical Techniques CHEM 4410 3 Physical Chemistry in Biological Applications CHEM 4420 3 Statistical Machine Learning Methods for Chemical Data Analysis CHEM 4620 3 Organometallic Chemistry CHEM 4640 3 Chemistry for Advanced Solar Cell Technologies CHEM 4680 3 Undergraduate Research CHEM 4692 3 Capstone Research II",
+          "logic": null,
+          "options": [
+            {
+              "code": "CHEM 4140",
+              "credits": 3,
+              "title": "Intermediate Organic Chemistry"
+            },
+            {
+              "code": "CHEM 4240",
+              "credits": 3,
+              "title": "Intermediate Inorganic Chemistry"
+            },
+            {
+              "code": "CHEM 4430",
+              "credits": 3,
+              "title": "Symmetry in Chemistry and Spectroscopy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "trackRequired": false
+}

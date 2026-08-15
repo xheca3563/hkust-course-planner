@@ -1,0 +1,430 @@
+{
+  "programCode": "MAEC",
+  "programName": "BSc in Mathematics and Economics",
+  "intakeYear": "2025-26",
+  "school": "Science",
+  "prerequisites": [],
+  "required": [
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 6,
+      "note": "[(MATH 1013 OR MATH 1023) AND (MATH 1014 OR MATH 1024)] OR [MATH 1020]",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1013"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1023"
+                  }
+                ]
+              },
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1014"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1024"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "course",
+            "code": "MATH 1020"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1014",
+          "credits": 3,
+          "title": "Calculus II"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        },
+        {
+          "code": "MATH 1024",
+          "credits": 3,
+          "title": "Honors Calculus II"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "MATH 2023 OR MATH 2024",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 2023"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2024"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 2023",
+          "credits": 4,
+          "title": "Multivariable Calculus"
+        },
+        {
+          "code": "MATH 2024",
+          "credits": 4,
+          "title": "Honors Multivariable Calculus"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "MATH 2033 OR MATH 2043",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 2033"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2043"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 2033",
+          "credits": 4,
+          "title": "Mathematical Analysis"
+        },
+        {
+          "code": "MATH 2043",
+          "credits": 4,
+          "title": "Honors Mathematical Analysis"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "MATH 2121 OR MATH 2131",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 2121"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2131"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 2121",
+          "credits": 4,
+          "title": "Linear Algebra"
+        },
+        {
+          "code": "MATH 2131",
+          "credits": 4,
+          "title": "Honors in Linear and Abstract Algebra I"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MATH 2411",
+          "credits": 4,
+          "title": "Applied Statistics"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "MATH 3033 OR MATH 3043",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 3033"
+          },
+          {
+            "type": "course",
+            "code": "MATH 3043"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 3033",
+          "credits": 4,
+          "title": "Real Analysis"
+        },
+        {
+          "code": "MATH 3043",
+          "credits": 4,
+          "title": "Honors Real Analysis"
+        }
+      ]
+    },
+    {
+      "subject": "MATH/ECON",
+      "minCredits": 0,
+      "maxCredits": 3,
+      "note": "MATH 4994 OR MATH 4999 OR ECON 4670",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 4994"
+          },
+          {
+            "type": "course",
+            "code": "MATH 4999"
+          },
+          {
+            "type": "course",
+            "code": "ECON 4670"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 4994",
+          "credits": 3,
+          "title": "Capstone Project in Mathematics and Economics"
+        },
+        {
+          "code": "MATH 4999",
+          "credits": 3,
+          "title": "Independent Capstone Project"
+        },
+        {
+          "code": "ECON 4670",
+          "credits": 0,
+          "title": "Economics Research and Communication"
+        }
+      ]
+    },
+    {
+      "subject": "ECON",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "ECON 2103 OR ECON 2113",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "ECON 2103"
+          },
+          {
+            "type": "course",
+            "code": "ECON 2113"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "ECON 2103",
+          "credits": 3,
+          "title": "Principles of Microeconomics"
+        },
+        {
+          "code": "ECON 2113",
+          "credits": 3,
+          "title": "Microeconomics"
+        }
+      ]
+    },
+    {
+      "subject": "ECON",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ECON 3113",
+          "credits": 4,
+          "title": "Microeconomic Theory I"
+        }
+      ]
+    },
+    {
+      "subject": "ECON",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ECON 3123",
+          "credits": 3,
+          "title": "Macroeconomic Theory I"
+        }
+      ]
+    },
+    {
+      "subject": "ECON",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ECON 3133",
+          "credits": 4,
+          "title": "Microeconomic Theory II"
+        }
+      ]
+    },
+    {
+      "subject": "ECON",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ECON 3143",
+          "credits": 4,
+          "title": "Macroeconomic Theory II"
+        }
+      ]
+    },
+    {
+      "subject": "ECON",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ECON 3334",
+          "credits": 4,
+          "title": "Introduction to Econometrics"
+        }
+      ]
+    },
+    {
+      "subject": "ACCT",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ACCT 2010",
+          "credits": 3,
+          "title": "Principles of Accounting I"
+        }
+      ]
+    },
+    {
+      "subject": "FINA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "FINA 2203",
+          "credits": 3,
+          "title": "Fundamentals of Business Finance"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "COMP 1023",
+          "credits": 3,
+          "title": "Introduction to Python Programming"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [],
+  "electives": [
+    {
+      "subject": "MATH",
+      "minCredits": 6,
+      "maxCredits": null,
+      "freeForm": "MATH Depth Electives (2 courses from the specified elective list.  Courses taken as Major Required Courses may not be counted towards this elective requirement.) MATH Mathematics courses at 4000-level or above MATH 3423 3 Statistical Inference MATH 3425 3 Stochastic Modeling MATH 3426 3 Sampling",
+      "areas": []
+    },
+    {
+      "subject": "ECON",
+      "minCredits": 8,
+      "maxCredits": null,
+      "freeForm": "ECON 4000-level or above Electives (At least 2 courses of the subject and level as specified)",
+      "areas": []
+    },
+    {
+      "subject": "SSCI",
+      "minCredits": 6,
+      "maxCredits": null,
+      "freeForm": "Science Foundation course (2 courses from the specified elective list) CHEM 1008 3 Introductory Chemistry CHEM 1011 3 General Chemistry A: Reactions, Thermodynamics, and Reaction Kinetics CHEM 1012 3 General Chemistry B: Atomic Structure, Molecules, and Bonding Theories LIFS 1030** 3 Environmental Science LIFS 1901 3 General Biology I LIFS 1902 3 General Biology II LIFS 1930 3 Nature of Life Sciences LIFS 2210 3 Biochemistry I OCES 1010 3 Principles and Applications of Environmental Science PHYS 1101 4 Introductory Physics PHYS 1111 3 General Physics I PHYS 1112 3 General Physics I with Calculus PHYS 1114 3 General Physics II PHYS 1312 3 Honors General Physics I PHYS 1314 3 Honors General Physics II",
+      "areas": []
+    }
+  ],
+  "notes": "- LIFS 1030: The course was last offered in 2020-21 and was deleted subsequently.\n2026-27 MAEC (4Y) (2025-26 intake) Page 3",
+  "tracks": [],
+  "schoolRequirementsExempt": true
+}

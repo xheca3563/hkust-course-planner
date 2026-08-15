@@ -1,0 +1,450 @@
+{
+  "programCode": "COSC",
+  "programName": "BSc in Computer Science",
+  "intakeYear": "2023-24",
+  "school": "Engineering",
+  "prerequisites": [],
+  "required": [
+    {
+      "subject": "COMP",
+      "minCredits": 5,
+      "maxCredits": 8,
+      "note": "(COMP 2011 AND COMP 2012) OR COMP 2012H",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "course",
+                "code": "COMP 2011"
+              },
+              {
+                "type": "course",
+                "code": "COMP 2012"
+              }
+            ]
+          },
+          {
+            "type": "course",
+            "code": "COMP 2012H"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 2011",
+          "credits": 4,
+          "title": "Programming with C++"
+        },
+        {
+          "code": "COMP 2012",
+          "credits": 4,
+          "title": "Object-Oriented Programming and Data Structures"
+        },
+        {
+          "code": "COMP 2012H",
+          "credits": 5,
+          "title": "Honors Object-Oriented Programming and Data Structures"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "COMP 2611",
+          "credits": 4,
+          "title": "Computer Organization"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "COMP 2711 OR COMP 2711H",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 2711"
+          },
+          {
+            "type": "course",
+            "code": "COMP 2711H"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 2711",
+          "credits": 4,
+          "title": "Discrete Mathematical Tools for Computer Science"
+        },
+        {
+          "code": "COMP 2711H",
+          "credits": 4,
+          "title": "Honors Discrete Mathematical Tools for Computer Science"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "COMP 3111 OR COMP 3111H",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 3111"
+          },
+          {
+            "type": "course",
+            "code": "COMP 3111H"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 3111",
+          "credits": 4,
+          "title": "Software Engineering"
+        },
+        {
+          "code": "COMP 3111H",
+          "credits": 4,
+          "title": "Honors Software Engineering"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "COMP 3511",
+          "credits": 3,
+          "title": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "COMP 3711 OR COMP 3711H",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 3711"
+          },
+          {
+            "type": "course",
+            "code": "COMP 3711H"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 3711",
+          "credits": 3,
+          "title": "Design and Analysis of Algorithms"
+        },
+        {
+          "code": "COMP 3711H",
+          "credits": 4,
+          "title": "Honors Design and Analysis of Algorithms"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "Students are required to take COMP 4900 for every ELEC/IEDA/ 3-4Note: ELEC 2600 OR ELEC 2600H OR IEDA 2520 OR IEDA 2540 OR ISOM 2500 OR MATH 2411 OR MATH 2421 OR",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 4900"
+          },
+          {
+            "type": "course",
+            "code": "ELEC 2600"
+          },
+          {
+            "type": "course",
+            "code": "ELEC 2600H"
+          },
+          {
+            "type": "course",
+            "code": "IEDA 2520"
+          },
+          {
+            "type": "course",
+            "code": "IEDA 2540"
+          },
+          {
+            "type": "course",
+            "code": "ISOM 2500"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2411"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2421"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 4900",
+          "credits": 0,
+          "title": "Academic and Professional Development"
+        },
+        {
+          "code": "ELEC 2600",
+          "credits": 4,
+          "title": "Probability and Random Processes in Engineering"
+        },
+        {
+          "code": "ELEC 2600H",
+          "credits": 4,
+          "title": "Honors Probability and Random Processes in Engineering"
+        },
+        {
+          "code": "IEDA 2520",
+          "credits": 3,
+          "title": "Probability for Engineers"
+        },
+        {
+          "code": "IEDA 2540",
+          "credits": 3,
+          "title": "Statistics for Engineers"
+        },
+        {
+          "code": "ISOM 2500",
+          "credits": 3,
+          "title": "Business Statistics"
+        },
+        {
+          "code": "MATH 2411",
+          "credits": 4,
+          "title": "Applied Statistics"
+        },
+        {
+          "code": "MATH 2421",
+          "credits": 4,
+          "title": "Probability"
+        },
+        {
+          "code": "MATH 2431",
+          "credits": 4,
+          "title": "Honors Probability"
+        },
+        {
+          "code": "LANG 4030",
+          "credits": 3,
+          "title": "Technical Communication II for CSE, CPEG & DSCT"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "COMP 1021 OR COMP 1022P",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 1021"
+          },
+          {
+            "type": "course",
+            "code": "COMP 1022P"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 1021",
+          "credits": 3,
+          "title": "Introduction to Computer Science"
+        },
+        {
+          "code": "COMP 1022P",
+          "credits": 3,
+          "title": "Introduction to Computing with Java"
+        }
+      ]
+    },
+    {
+      "subject": "LANG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "LANG 2030",
+          "credits": 3,
+          "title": "Technical Communication I"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 7,
+      "note": "[(MATH 1012 OR MATH 1013 OR MATH 1023) AND (MATH 1014 OR MATH 1024)] OR [MATH 1020]",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1012"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1013"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1023"
+                  }
+                ]
+              },
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1014"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1024"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "course",
+            "code": "MATH 1020"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 1012",
+          "credits": 4,
+          "title": "Calculus IA"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1014",
+          "credits": 3,
+          "title": "Calculus II"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        },
+        {
+          "code": "MATH 1024",
+          "credits": 3,
+          "title": "Honors Calculus II"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "MATH 2111 OR MATH 2121 OR MATH 2131",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 2111"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2121"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2131"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 2111",
+          "credits": 3,
+          "title": "Matrix Algebra and Applications"
+        },
+        {
+          "code": "MATH 2121",
+          "credits": 4,
+          "title": "Linear Algebra"
+        },
+        {
+          "code": "MATH 2131",
+          "credits": 4,
+          "title": "Honors in Linear and Abstract Algebra I"
+        }
+      ]
+    }
+  ],
+  "electives": [
+    {
+      "subject": "COMP",
+      "minCredits": 18,
+      "maxCredits": null,
+      "freeForm": "COMP 2000-level or above Electives [Any 6 courses of the subject and level as specified.  For students who have taken the 6-credit course COMP 4981 or COMP 4981H to fulfill this elective requirement, the minimum number of courses required to satisfy this requirement may be reduced by one.  With approval by the Dean or the Dean's designate, students may use up to 3 computer science related courses (9 credits) offered by non-CSE department(s) to count towards this requirement.]",
+      "areas": []
+    }
+  ],
+  "notes": "- COMP 1022P: The course was last offered in 2024-25 and was deleted subsequently.\n- ELEC 2600H: The course was last offered in 2021-22 and was deleted subsequently.\n- MATH 1012: The course was last offered in 2024-25 and was deleted subsequently.\n2026-27 COSC (4Y) (2023-24 intake) Page 3",
+  "tracks": []
+}

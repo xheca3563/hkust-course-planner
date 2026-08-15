@@ -1,0 +1,566 @@
+{
+  "programCode": "IEEM",
+  "programName": "BEng in Industrial Engineering and Engineering Management",
+  "intakeYear": "2024-25",
+  "school": "Engineering",
+  "prerequisites": [],
+  "required": [
+    {
+      "subject": "IEDA",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 1010",
+          "credits": 0,
+          "title": "Academic and Professional Development I"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 1020",
+          "credits": 0,
+          "title": "Academic and Professional Development II"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 1901",
+          "credits": 0,
+          "title": "Industrial Training and Experience"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 2520",
+          "credits": 3,
+          "title": "Probability for Engineers"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 2540",
+          "credits": 3,
+          "title": "Statistics for Engineers"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 3010",
+          "credits": 3,
+          "title": "Prescriptive Analytics"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 3230",
+          "credits": 3,
+          "title": "Engineering Economics and Accounting"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 3250",
+          "credits": 3,
+          "title": "Stochastic Models"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 3300",
+          "credits": 3,
+          "title": "Industrial Data Systems"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 4100",
+          "credits": 3,
+          "title": "Integrated Production Systems"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 4130",
+          "credits": 3,
+          "title": "System Simulation"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 6,
+      "maxCredits": 6,
+      "note": "IEDA 4901 OR IEDA 4960 (Students taking the Research Option must take IEDA 4901)",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "IEDA 4901"
+          },
+          {
+            "type": "course",
+            "code": "IEDA 4960"
+          },
+          {
+            "type": "course",
+            "code": "IEDA 4901"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "IEDA 4901",
+          "credits": 6,
+          "title": "Final Year Thesis"
+        },
+        {
+          "code": "IEDA 4960",
+          "credits": 6,
+          "title": "Industrial Engineering and Engineering Management Final Year Project"
+        },
+        {
+          "code": "ENGG 2010",
+          "credits": 0,
+          "title": "Engineering Seminar Series"
+        }
+      ]
+    },
+    {
+      "subject": "ECON",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "ECON 2103 OR ECON 2113",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "ECON 2103"
+          },
+          {
+            "type": "course",
+            "code": "ECON 2113"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "ECON 2103",
+          "credits": 3,
+          "title": "Principles of Microeconomics"
+        },
+        {
+          "code": "ECON 2113",
+          "credits": 3,
+          "title": "Microeconomics"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 5,
+      "note": "COMP 1021 OR COMP 1022P OR COMP 2011 OR",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 1021"
+          },
+          {
+            "type": "course",
+            "code": "COMP 1022P"
+          },
+          {
+            "type": "course",
+            "code": "COMP 2011"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 1021",
+          "credits": 3,
+          "title": "Introduction to Computer Science"
+        },
+        {
+          "code": "COMP 1022P",
+          "credits": 3,
+          "title": "Introduction to Computing with Java"
+        },
+        {
+          "code": "COMP 2011",
+          "credits": 4,
+          "title": "Programming with C++"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 5,
+      "maxCredits": 5,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "COMP 2012H",
+          "credits": 5,
+          "title": "Honors Object-Oriented Programming and Data Structures"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM/PHYS",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "CHEM 1012 OR PHYS 1112 OR PHYS 1312",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "CHEM 1012"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 1112"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 1312"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "CHEM 1012",
+          "credits": 3,
+          "title": "General Chemistry B: Atomic Structure, Molecules, and Bonding"
+        },
+        {
+          "code": "PHYS 1112",
+          "credits": 3,
+          "title": "General Physics I with Calculus"
+        },
+        {
+          "code": "PHYS 1312",
+          "credits": 3,
+          "title": "Honors General Physics I"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 7,
+      "note": "[(MATH 1012 OR MATH 1013 OR MATH 1023) AND (MATH 1014 OR MATH 1024)] OR [MATH 1020]",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1012"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1013"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1023"
+                  }
+                ]
+              },
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1014"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1024"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "course",
+            "code": "MATH 1020"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 1012",
+          "credits": 4,
+          "title": "Calculus IA"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1014",
+          "credits": 3,
+          "title": "Calculus II"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        },
+        {
+          "code": "MATH 1024",
+          "credits": 3,
+          "title": "Honors Calculus II"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MATH 2011",
+          "credits": 3,
+          "title": "Introduction to Multivariable Calculus"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MATH 2111",
+          "credits": 3,
+          "title": "Matrix Algebra and Applications"
+        }
+      ]
+    },
+    {
+      "subject": "SENG",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "Engineering Introduction course (If the students take an",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 2010",
+          "credits": 3,
+          "title": "Introduction of Industrial Engineering and Decision Analytics"
+        },
+        {
+          "code": "BIEN 1010",
+          "credits": 3,
+          "title": "Introduction to Biomedical Engineering"
+        },
+        {
+          "code": "CENG 1000",
+          "credits": 3,
+          "title": "Foundations of Chemical and Biological Engineering"
+        },
+        {
+          "code": "CENG 1500",
+          "credits": 3,
+          "title": "A First Course on Materials Science and Applications"
+        },
+        {
+          "code": "CENG 1700",
+          "credits": 3,
+          "title": "Introduction to Environmental Engineering"
+        },
+        {
+          "code": "CIVL 1100",
+          "credits": 3,
+          "title": "Discovering Civil and Environmental Engineering"
+        },
+        {
+          "code": "CIVL 1210",
+          "credits": 3,
+          "title": "Fundamental of Green Buildings"
+        },
+        {
+          "code": "COMP 1021",
+          "credits": 3,
+          "title": "Introduction to Computer Science"
+        },
+        {
+          "code": "ELEC 1100",
+          "credits": 4,
+          "title": "Introduction to Electro-Robot Design"
+        },
+        {
+          "code": "ELEC 1200",
+          "credits": 4,
+          "title": "A System View of Communications: from Signals to Packets"
+        },
+        {
+          "code": "ENGG 1100",
+          "credits": 3,
+          "title": "First Year Cornerstone Engineering Design Project Course"
+        },
+        {
+          "code": "MECH 1902",
+          "credits": 3,
+          "title": "Energy Systems in a Sustainable World"
+        },
+        {
+          "code": "MECH 1906",
+          "credits": 3,
+          "title": "Mechanical Engineering for Modern Life"
+        },
+        {
+          "code": "MECH 1907",
+          "credits": 3,
+          "title": "Introduction to Aerospace Engineering"
+        }
+      ]
+    }
+  ],
+  "electives": [
+    {
+      "subject": "IEDA",
+      "minCredits": 21,
+      "maxCredits": null,
+      "freeForm": "Industrial Engineering Electives (Courses from the specified elective list) IEDA 2100 3 Computing in Industrial Applications IEDA 2410 3 Introduction to Modern Logistics IEDA 3130 3 Ergonomics and Safety Management IEDA 3270 3 Data-Driven Quality Technology IEDA 3302 3 E-Commerce Technology and Applications IEDA 3410 3 Routing and Fleet Management IEDA 3460 3 Demand and Supply Analytics IEDA 3901** 3 Transportation Systems IEDA 4000 1-3 Special Topics IEDA 4180 3 Service Engineering and Management IEDA 4200 3 Design of Logistics and Manufacturing Systems IEDA 4410 3 Data Driven Supply Chain Management",
+      "areas": []
+    }
+  ],
+  "notes": "- COMP 1022P: The course was last offered in 2024-25 and was deleted subsequently.\n- IEDA 3180: The course was last offered in 2024-25 and was deleted subsequently.\n- IEDA 3901: The course was last offered in 2021-22 and was deleted subsequently.\n- MATH 1012: The course was last offered in 2024-25 and was deleted subsequently.\n- RMBI 4210: The course was last offered in 2021-22 and was deleted subsequently.\n2026-27 IEEM (4Y) (2024-25 intake) Page 4",
+  "tracks": [
+    {
+      "name": "Financial Engineering Option",
+      "note": "Students with CGA of 3.0 or above may apply for enrollment in the Financial Engineering Option.",
+      "groups": [
+        {
+          "subject": "IEDA",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "IEDA 3330",
+              "credits": 3,
+              "title": "Introduction to Financial Engineering"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Research Option",
+      "note": "Students in the Research Option should also take IEDA 4901 as specified in the major requirements.",
+      "groups": [
+        {
+          "subject": "IEDA",
+          "minCredits": 6,
+          "maxCredits": null,
+          "note": "IEEM Advanced Electives (2 courses from the specified elective list.  Students should seek approval of their advisor for the choices of courses.) IEDA 4900 3 Independent Study in Industrial Engineering and Decision Analytics IEDA 5170 3 Advanced Production Planning and Control IEDA 5230 3 Deterministic Models in Operations Research",
+          "logic": null,
+          "options": []
+        }
+      ]
+    }
+  ],
+  "trackRequired": false
+}

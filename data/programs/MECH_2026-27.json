@@ -1,0 +1,383 @@
+{
+  "programCode": "MECH",
+  "programName": "BEng in Mechanical Engineering",
+  "intakeYear": "2026-27",
+  "school": "Engineering",
+  "prerequisites": [],
+  "required": [
+    {
+      "subject": "MECH",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 1001",
+          "credits": 0,
+          "title": "Academic and Professional Development I"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 1910",
+          "credits": 3,
+          "title": "Foundations of Mechanical and Aerospace Engineering"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 1990",
+          "credits": 0,
+          "title": "Industrial Training"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 2002",
+          "credits": 0,
+          "title": "Academic and Professional Development II"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 2020",
+          "credits": 3,
+          "title": "Statics and Dynamics"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 2040",
+          "credits": 3,
+          "title": "Solid Mechanics I"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 2210",
+          "credits": 3,
+          "title": "Fluid Mechanics"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 2300",
+          "credits": 3,
+          "title": "Engineering Computation with Matrices and AI"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 2310",
+          "credits": 3,
+          "title": "Thermodynamics"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 2410",
+          "credits": 3,
+          "title": "Engineering Materials I"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 2520",
+          "credits": 3,
+          "title": "Design and Manufacturing I"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 3030",
+          "credits": 3,
+          "title": "Mechanisms of Machinery"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "MECH 3300 OR MECH 3420 OR MECH 3710",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MECH 3300"
+          },
+          {
+            "type": "course",
+            "code": "MECH 3420"
+          },
+          {
+            "type": "course",
+            "code": "MECH 3710"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MECH 3300",
+          "credits": 3,
+          "title": "Energy Conversion"
+        },
+        {
+          "code": "MECH 3420",
+          "credits": 3,
+          "title": "Engineering Materials II"
+        },
+        {
+          "code": "MECH 3710",
+          "credits": 3,
+          "title": "Manufacturing Processes and Systems"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 3310",
+          "credits": 3,
+          "title": "Heat Transfer"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 3610",
+          "credits": 3,
+          "title": "Control Principles"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 3630",
+          "credits": 3,
+          "title": "Electrical Technology"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 3830",
+          "credits": 3,
+          "title": "Laboratory"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 3907",
+          "credits": 3,
+          "title": "Mechatronic Design and Prototyping"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 6,
+      "maxCredits": 6,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 4900",
+          "credits": 6,
+          "title": "Final Year Design Project"
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ELEC 2420",
+          "credits": 3,
+          "title": "Basic Electronics"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [],
+  "electives": [],
+  "notes": "",
+  "tracks": [
+    {
+      "name": "Energy Option",
+      "note": "",
+      "groups": [
+        {
+          "subject": "MECH",
+          "minCredits": 9,
+          "maxCredits": null,
+          "note": "MECH Electives in Energy (3 courses from the specified elective list.  Courses taken as Major Required Courses or Elective Courses of other MECH Options may not be counted towards this elective requirement.) MECH 1902 3 Energy Systems in a Sustainable World MECH 3110 3 Materials for Energy Technologies MECH 3300 3 Energy Conversion MECH 3420 3 Engineering Materials II MECH 4010 3 Materials Failure in Mechanical Applications MECH 4340 3 Air Conditioning Systems MECH 4350 3 Indoor Air Quality in Buildings MECH 4360 3 Introduction to Intelligent Building Systems MECH 4430 3 Materials Characterization MECH 4912 3 Green Technologies for Buildings, Energy and Water",
+          "logic": null,
+          "options": []
+        }
+      ]
+    },
+    {
+      "name": "Engineering Design Option",
+      "note": "",
+      "groups": [
+        {
+          "subject": "MECH",
+          "minCredits": 9,
+          "maxCredits": null,
+          "note": "MECH Electives in Engineering Design (3 courses from the specified elective list.  Courses taken as Major Required Courses or Elective Courses of other MECH Options may not be counted towards this elective requirement.) MECH 3510 3 Computer-Aided Design and Manufacturing MECH 3710 3 Manufacturing Processes and Systems MECH 4450 3 Introduction to Finite Element Analysis MECH 4710 3 Introduction to Robotics MECH 4720 3 Introduction to Precision Engineering MECH 4740 3 Numerical Methods in Engineering",
+          "logic": null,
+          "options": []
+        }
+      ]
+    },
+    {
+      "name": "Materials Option",
+      "note": "",
+      "groups": [
+        {
+          "subject": "MECH",
+          "minCredits": 9,
+          "maxCredits": null,
+          "note": "MECH Electives in Materials (3 courses from the specified elective list.  Courses taken as Major Required Courses or Elective Courses of other MECH Options may not be counted towards this elective requirement.) MECH 3110 3 Materials for Energy Technologies MECH 3400 3 Introduction to Engineering Composite Materials MECH 3420 3 Engineering Materials II MECH 3750 3 Vibration, Control and Programming MECH 4010 3 Materials Failure in Mechanical Applications MECH 4430 3 Materials Characterization MECH 4450 3 Introduction to Finite Element Analysis",
+          "logic": null,
+          "options": []
+        }
+      ]
+    },
+    {
+      "name": "Research Option",
+      "note": "",
+      "groups": [
+        {
+          "subject": "MECH",
+          "minCredits": 6,
+          "maxCredits": 6,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "MECH 4995",
+              "credits": 6,
+              "title": "Research Project"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "trackRequired": false
+}

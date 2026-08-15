@@ -1,0 +1,597 @@
+{
+  "programCode": "AI",
+  "programName": "BEng in Artificial Intelligence",
+  "intakeYear": "2025-26",
+  "school": "Engineering",
+  "prerequisites": [],
+  "required": [
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "COMP 1944",
+          "credits": 3,
+          "title": "Artificial Intelligence Ethics"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 6,
+      "maxCredits": 6,
+      "note": "[COMP 1991 AND (COMP 4981 OR COMP 4981H)] OR [COMP 4910]",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "course",
+                "code": "COMP 1991"
+              },
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "COMP 4981"
+                  },
+                  {
+                    "type": "course",
+                    "code": "COMP 4981H"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "course",
+            "code": "COMP 4910"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 1991",
+          "credits": 0,
+          "title": "Industrial Experience"
+        },
+        {
+          "code": "COMP 4910",
+          "credits": 6,
+          "title": "Co-op Program"
+        },
+        {
+          "code": "COMP 4981",
+          "credits": 6,
+          "title": "Final Year Project"
+        },
+        {
+          "code": "COMP 4981H",
+          "credits": 6,
+          "title": "Final Year Thesis"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 5,
+      "maxCredits": 8,
+      "note": "(COMP 2011 AND COMP 2012) OR COMP 2012H",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "course",
+                "code": "COMP 2011"
+              },
+              {
+                "type": "course",
+                "code": "COMP 2012"
+              }
+            ]
+          },
+          {
+            "type": "course",
+            "code": "COMP 2012H"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 2011",
+          "credits": 4,
+          "title": "Programming with C++"
+        },
+        {
+          "code": "COMP 2012",
+          "credits": 4,
+          "title": "Object-Oriented Programming and Data Structures"
+        },
+        {
+          "code": "COMP 2012H",
+          "credits": 5,
+          "title": "Honors Object-Oriented Programming and Data Structures"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "COMP 2211",
+          "credits": 3,
+          "title": "Introduction to Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "COMP 2611",
+          "credits": 4,
+          "title": "Computer Organization"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "COMP 2711 OR COMP 2711H",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 2711"
+          },
+          {
+            "type": "course",
+            "code": "COMP 2711H"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 2711",
+          "credits": 4,
+          "title": "Discrete Mathematical Tools for Computer Science"
+        },
+        {
+          "code": "COMP 2711H",
+          "credits": 4,
+          "title": "Honors Discrete Mathematical Tools for Computer Science"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "COMP 3211",
+          "credits": 3,
+          "title": "Learning, Reasoning, and Decision Making in AI"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "COMP 3711 OR COMP 3711H",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 3711"
+          },
+          {
+            "type": "course",
+            "code": "COMP 3711H"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 3711",
+          "credits": 3,
+          "title": "Design and Analysis of Algorithms"
+        },
+        {
+          "code": "COMP 3711H",
+          "credits": 4,
+          "title": "Honors Design and Analysis of Algorithms"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "COMP 4211",
+          "credits": 3,
+          "title": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "COMP 4221 OR COMP 4471",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 4221"
+          },
+          {
+            "type": "course",
+            "code": "COMP 4471"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 4221",
+          "credits": 3,
+          "title": "Introduction to Natural Language Processing"
+        },
+        {
+          "code": "COMP 4471",
+          "credits": 3,
+          "title": "Deep Learning in Computer Vision"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "Students are required to take COMP 4900 for every",
+      "logic": null,
+      "options": [
+        {
+          "code": "COMP 4900",
+          "credits": 0,
+          "title": "Academic and Professional Development"
+        },
+        {
+          "code": "MATH 2411",
+          "credits": 4,
+          "title": "Applied Statistics"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "COMP 1023",
+          "credits": 3,
+          "title": "Introduction to Python Programming"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 6,
+      "note": "[(MATH 1013 OR MATH 1023) AND (MATH 1014 OR MATH 1024)] OR [MATH 1020]",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1013"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1023"
+                  }
+                ]
+              },
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1014"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1024"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "course",
+            "code": "MATH 1020"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1014",
+          "credits": 3,
+          "title": "Calculus II"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        },
+        {
+          "code": "MATH 1024",
+          "credits": 3,
+          "title": "Honors Calculus II"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "MATH 2121 OR MATH 2131",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 2121"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2131"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 2121",
+          "credits": 4,
+          "title": "Linear Algebra"
+        },
+        {
+          "code": "MATH 2131",
+          "credits": 4,
+          "title": "Honors in Linear and Abstract Algebra I"
+        }
+      ]
+    }
+  ],
+  "electives": [
+    {
+      "subject": "COMP",
+      "minCredits": 18,
+      "maxCredits": null,
+      "freeForm": "COMP Electives (6 courses from the specified elective list, of which at least 4 courses should be taken from Artificial Intelligence area and at least 2 courses from Other COMP area.) COMP 4462 3 Data Visualization COMP 4531 3 IoT and Smart Sensing COMP 4551 3 Large-Scale Machine Learning System for Foundation Models COMP 4641 3 Social Information Network Analysis and Engineering COMP 4651 3 Cloud Computing and Big Data Systems COMP 4901B 3 Large Language Models COMP 4901D 3 Embedded AI Systems COMP 5211 3 Advanced Artificial Intelligence COMP 5214 3 Advanced Deep Learning Architectures",
+      "areas": [
+        {
+          "label": "Artificial Intelligence Area",
+          "courses": [
+            {
+              "code": "COMP 3212",
+              "credits": 3,
+              "title": "Intelligent Software Engineering"
+            },
+            {
+              "code": "COMP 3213",
+              "credits": 3,
+              "title": "Introduction to Generative Artificial Intelligence"
+            },
+            {
+              "code": "COMP 3214",
+              "credits": 3,
+              "title": "Introduction to Automated Machine Learning"
+            },
+            {
+              "code": "COMP 3231",
+              "credits": 3,
+              "title": "Artificial Intelligence for Healthcare"
+            },
+            {
+              "code": "COMP 4222",
+              "credits": 3,
+              "title": "Machine Learning with Structured Data"
+            },
+            {
+              "code": "COMP 4321",
+              "credits": 3,
+              "title": "Search Engines for Web and Enterprise Data"
+            },
+            {
+              "code": "COMP 4331",
+              "credits": 3,
+              "title": "Data Mining"
+            },
+            {
+              "code": "COMP 4332",
+              "credits": 3,
+              "title": "Big Data Mining and Management"
+            },
+            {
+              "code": "COMP 4421",
+              "credits": 3,
+              "title": "Image Processing"
+            },
+            {
+              "code": "COMP 4441",
+              "credits": 3,
+              "title": "Music Video Creation"
+            },
+            {
+              "code": "COMP 4451",
+              "credits": 3,
+              "title": "Game Programming"
+            },
+            {
+              "code": "COMP 4461",
+              "credits": 3,
+              "title": "Human-Computer Interaction"
+            }
+          ]
+        },
+        {
+          "label": "Other COMP Area",
+          "courses": [
+            {
+              "code": "COMP 3021",
+              "credits": 3,
+              "title": "Java Programming"
+            },
+            {
+              "code": "COMP 3031",
+              "credits": 3,
+              "title": "Principles of Programming Languages"
+            },
+            {
+              "code": "COMP 3111",
+              "credits": 4,
+              "title": "Software Engineering"
+            },
+            {
+              "code": "COMP 3111H",
+              "credits": 4,
+              "title": "Honors Software Engineering"
+            },
+            {
+              "code": "COMP 3311",
+              "credits": 3,
+              "title": "Database Management Systems"
+            },
+            {
+              "code": "COMP 3511",
+              "credits": 3,
+              "title": "Operating Systems"
+            },
+            {
+              "code": "COMP 3631",
+              "credits": 3,
+              "title": "Cryptography"
+            },
+            {
+              "code": "COMP 3633",
+              "credits": 2,
+              "title": "Competitive Programming in Cybersecurity II"
+            },
+            {
+              "code": "COMP 3721",
+              "credits": 3,
+              "title": "Theory of Computation"
+            },
+            {
+              "code": "COMP 4021",
+              "credits": 3,
+              "title": "Internet Computing"
+            },
+            {
+              "code": "COMP 4411",
+              "credits": 3,
+              "title": "Computer Graphics"
+            },
+            {
+              "code": "COMP 4521",
+              "credits": 3,
+              "title": "Mobile Application Development"
+            },
+            {
+              "code": "COMP 4611",
+              "credits": 3,
+              "title": "Design and Analysis of Computer Architectures"
+            },
+            {
+              "code": "COMP 4621",
+              "credits": 3,
+              "title": "Computer and Communication Networks"
+            },
+            {
+              "code": "COMP 4632",
+              "credits": 3,
+              "title": "Practicing Cybersecurity: Attacks and Counter-measures"
+            },
+            {
+              "code": "COMP 4633",
+              "credits": 2,
+              "title": "Competitive Programming in Cybersecurity III"
+            },
+            {
+              "code": "COMP 4634",
+              "credits": 3,
+              "title": "Cybersecurity"
+            },
+            {
+              "code": "COMP 4911",
+              "credits": 3,
+              "title": "IT Entrepreneurship"
+            },
+            {
+              "code": "COMP 5111",
+              "credits": 3,
+              "title": "Fundamentals of Software Analysis"
+            },
+            {
+              "code": "COMP 5711",
+              "credits": 3,
+              "title": "Introduction to Advanced Algorithmic Techniques"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": "- COMP 3212: This is a new course subject to approval.\n- COMP 3214: This is a new course subject to approval.\n- COMP 3231: This is a new course subject to approval.\n2026-27 AI (4Y) (2025-26 intake) Page 3",
+  "tracks": []
+}

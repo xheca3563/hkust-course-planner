@@ -1,0 +1,3456 @@
+{
+ "LANG 1416C": {
+  "title": "Effective Chinese Communication",
+  "units": 3,
+  "prev": "CORE 1416C, LANG 1113C",
+  "cc22": [
+   "C-Comm"
+  ],
+  "cc25": [
+   "C-Comm"
+  ],
+  "cc26": [
+   "C-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2540",
+   "2610"
+  ]
+ },
+ "LANG 1416I": {
+  "title": "Effective Chinese Communication",
+  "units": 3,
+  "prev": "CORE 1416I, LANG 1113I",
+  "cc22": [
+   "C-Comm"
+  ],
+  "cc25": [
+   "C-Comm"
+  ],
+  "cc26": [
+   "C-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "LANG 1416P": {
+  "title": "Effective Chinese Communication",
+  "units": 3,
+  "prev": "CORE 1416P, LANG 1113P",
+  "cc22": [
+   "C-Comm"
+  ],
+  "cc25": [
+   "C-Comm"
+  ],
+  "cc26": [
+   "C-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "LANG 1421": {
+  "title": "Chinese Communication in the Digital Era",
+  "units": 3,
+  "prev": "CORE 1421",
+  "cc22": [
+   "C-Comm"
+  ],
+  "cc25": [
+   "C-Comm"
+  ],
+  "cc26": [
+   "C-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "LANG 1422": {
+  "title": "Chinese for Workplace Applications",
+  "units": 3,
+  "prev": "CORE 1422",
+  "cc22": [
+   "C-Comm"
+  ],
+  "cc25": [
+   "C-Comm"
+  ],
+  "cc26": [
+   "C-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2540",
+   "2610"
+  ]
+ },
+ "LANG 1423": {
+  "title": "Chinese Communication in Global Context",
+  "units": 3,
+  "prev": "CORE 1423, LANG 1118",
+  "cc22": [
+   "C-Comm"
+  ],
+  "cc25": [
+   "C-Comm"
+  ],
+  "cc26": [
+   "C-Comm"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "LANG 1424C": {
+  "title": "Chinese Writing in Cultural Contexts",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "C-Comm"
+  ],
+  "cc25": [
+   "C-Comm"
+  ],
+  "cc26": [
+   "C-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "LANG 1424P": {
+  "title": "Chinese Writing in Cultural Contexts",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "C-Comm"
+  ],
+  "cc25": [
+   "C-Comm"
+  ],
+  "cc26": [
+   "C-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "LANG 1425": {
+  "title": "Chinese Communication in Interpersonal Relations",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "C-Comm"
+  ],
+  "cc25": [
+   "C-Comm"
+  ],
+  "cc26": [
+   "C-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "LANG 1426": {
+  "title": "Chinese Communication in Film and Literary Contexts",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "C-Comm"
+  ],
+  "cc25": [
+   "C-Comm"
+  ],
+  "cc26": [
+   "C-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "LANG 1511": {
+  "title": "Chinese for Non-Chinese Language Background Students I",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "C-Comm"
+  ],
+  "cc25": [
+   "C-Comm"
+  ],
+  "cc26": [
+   "C-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2540",
+   "2610"
+  ]
+ },
+ "LANG 1512": {
+  "title": "Chinese for Non-Chinese Language Background Students II",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "C-Comm"
+  ],
+  "cc25": [
+   "C-Comm"
+  ],
+  "cc26": [
+   "C-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "LANG 1513": {
+  "title": "Chinese for Non-Chinese Language Background Students III",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "C-Comm"
+  ],
+  "cc25": [
+   "C-Comm"
+  ],
+  "cc26": [
+   "C-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "LANG 1514": {
+  "title": "Chinese for Non-Chinese Language Background Students IV",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "C-Comm"
+  ],
+  "cc25": [
+   "C-Comm"
+  ],
+  "cc26": [
+   "C-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "LANG 1515": {
+  "title": "Chinese for Non-Chinese Language Background Students V",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "C-Comm"
+  ],
+  "cc25": [
+   "C-Comm"
+  ],
+  "cc26": [
+   "C-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "LANG 1402": {
+  "title": "English for University Studies",
+  "units": 3,
+  "prev": "CORE 1402",
+  "cc22": [
+   "E-Comm"
+  ],
+  "cc25": [
+   "E-Comm"
+  ],
+  "cc26": [
+   "E-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "LANG 1402I": {
+  "title": "English for University Studies",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "E-Comm"
+  ],
+  "cc25": [
+   "E-Comm"
+  ],
+  "cc26": [
+   "E-Comm"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "LANG 1406": {
+  "title": "Academic English for Business Studies",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "E-Comm"
+  ],
+  "cc25": [
+   "E-Comm"
+  ],
+  "cc26": [
+   "E-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "LANG 1407": {
+  "title": "Academic English for Engineering Studies",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "E-Comm"
+  ],
+  "cc25": [
+   "E-Comm"
+  ],
+  "cc26": [
+   "E-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "LANG 2063": {
+  "title": "Writing for Workplace Success",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "E-Comm"
+  ],
+  "cc25": [
+   "E-Comm"
+  ],
+  "cc26": [
+   "E-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "LANG 2064": {
+  "title": "Speaking for Workplace Success",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "E-Comm"
+  ],
+  "cc25": [
+   "E-Comm"
+  ],
+  "cc26": [
+   "E-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "LANG 2066": {
+  "title": "Dynamic Communication for STEAM Topics",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "E-Comm"
+  ],
+  "cc25": [
+   "E-Comm"
+  ],
+  "cc26": [
+   "E-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "LANG 2068": {
+  "title": "Speaking with Impact",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "E-Comm"
+  ],
+  "cc25": [
+   "E-Comm"
+  ],
+  "cc26": [
+   "E-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2540",
+   "2610"
+  ]
+ },
+ "LANG 2069": {
+  "title": "Supercommunication Offline and On: The Art of Connecting",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "E-Comm"
+  ],
+  "cc25": [
+   "E-Comm"
+  ],
+  "cc26": [
+   "E-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "LANG 2071": {
+  "title": "From Proposal to Applause: Navigating the Academic Conference Journey",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "E-Comm"
+  ],
+  "cc25": [
+   "E-Comm"
+  ],
+  "cc26": [
+   "E-Comm"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "HUMA 1010": {
+  "title": "Introduction to Language",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [
+   "H"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "HUMA 1210": {
+  "title": "Chinese Women on Screen",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A",
+   "H"
+  ],
+  "cc25": [
+   "A",
+   "H"
+  ],
+  "cc26": [
+   "A",
+   "H"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 1302": {
+  "title": "World Literature in the 20th Century",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [
+   "H"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 1412": {
+  "title": "China Through Time and Space: Chinese Historical Geography",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [
+   "H"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "HUMA 1622": {
+  "title": "Science, Technology and Society: Historical and Cultural Approaches",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H",
+   "SA"
+  ],
+  "cc25": [
+   "H",
+   "SA"
+  ],
+  "cc26": [
+   "H",
+   "SA"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 1650": {
+  "title": "Appreciation of Western Art",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A",
+   "H"
+  ],
+  "cc25": [
+   "A",
+   "H"
+  ],
+  "cc26": [
+   "A",
+   "H"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 1660": {
+  "title": "Introduction to Chinese Art",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A",
+   "H"
+  ],
+  "cc25": [
+   "A",
+   "H"
+  ],
+  "cc26": [
+   "A",
+   "H"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 1676": {
+  "title": "Marco Polo and His Book of Travels",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [
+   "H"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 1710": {
+  "title": "The Art of Thinking in the Hong Kong Context",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [
+   "H"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 1811": {
+  "title": "History of Chinese Philosophy",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [
+   "H"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 1922": {
+  "title": "Introduction to Analytic Philosophy",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [
+   "H"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 2031": {
+  "title": "The Cantonese Language",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [
+   "H"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 2032": {
+  "title": "Language, Power and Identity",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [
+   "H"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "HUMA 2035": {
+  "title": "Language in Action: Doing Discourse Analysis",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [
+   "H"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 2205": {
+  "title": "Asian Cinema, Global Cinema",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A",
+   "H"
+  ],
+  "cc25": [
+   "A",
+   "H"
+  ],
+  "cc26": [
+   "A",
+   "H"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 2401": {
+  "title": "Global Science Fiction: An Interdisciplinary Approach",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [
+   "H"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 2440": {
+  "title": "20th-Century China in Documentary Films",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [
+   "H"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 2470": {
+  "title": "From Fung Shui to Mao's Villages: City Plans, Urban Politics & the Unseen World of Chinese Villages",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [
+   "H"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 2588": {
+  "title": "Nazism and German Society, 1914-1945",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [
+   "H"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 2638": {
+  "title": "Peoples and Cultures in Southeast Asia",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [
+   "H"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 2680": {
+  "title": "Understanding Western Architecture",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A",
+   "H"
+  ],
+  "cc25": [
+   "A",
+   "H"
+  ],
+  "cc26": [
+   "A",
+   "H"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 2921": {
+  "title": "Ethical Theories and Contemporary Issues",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [
+   "H"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "HUMA 3050": {
+  "title": "Psychology of Language",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [
+   "H"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 3900": {
+  "title": "Philosophical Inquiry into the Modern World",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [
+   "H"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "LANG 1405": {
+  "title": "Mediated Me: An Introduction to Digital Literacy",
+  "units": 3,
+  "prev": "CORE 1405, LANG 1004",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [
+   "H"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "LANG 2090": {
+  "title": "Exploring Language and Communication with Big Data",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [
+   "H"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "LANG 2091": {
+  "title": "Phonetics and Speech Technology",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [
+   "H"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "AMCC 2010": {
+  "title": "Digital Audio Workstation Composition",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A"
+  ],
+  "cc25": [
+   "A"
+  ],
+  "cc26": [
+   "A"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "COMP 1943": {
+  "title": "Creative Sound and Video Design",
+  "units": 3,
+  "prev": "CORE 1233",
+  "cc22": [
+   "A",
+   "T"
+  ],
+  "cc25": [
+   "A",
+   "T"
+  ],
+  "cc26": [
+   "A",
+   "T"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 1100": {
+  "title": "Music of the World",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A"
+  ],
+  "cc25": [
+   "A"
+  ],
+  "cc26": [
+   "A"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "HUMA 1102": {
+  "title": "Enjoyment of Classical Music",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A"
+  ],
+  "cc25": [
+   "A"
+  ],
+  "cc26": [
+   "A"
+  ],
+  "terms": [
+   "2530",
+   "2540",
+   "2610"
+  ]
+ },
+ "HUMA 1109": {
+  "title": "Understanding Music in Context",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A"
+  ],
+  "cc25": [
+   "A"
+  ],
+  "cc26": [
+   "A"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 1110": {
+  "title": "Improvisational Artists Lab",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A"
+  ],
+  "cc25": [
+   "A"
+  ],
+  "cc26": [
+   "A"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 1154": {
+  "title": "Photography",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A"
+  ],
+  "cc25": [
+   "A"
+  ],
+  "cc26": [
+   "A"
+  ],
+  "terms": [
+   "2530",
+   "2540",
+   "2610"
+  ]
+ },
+ "HUMA 1156": {
+  "title": "Exploration of Chinese Calligraphy",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A"
+  ],
+  "cc25": [
+   "A"
+  ],
+  "cc26": [
+   "A"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 1157": {
+  "title": "Introduction to Acting and Public Speaking",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A"
+  ],
+  "cc25": [
+   "A"
+  ],
+  "cc26": [
+   "A"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 1160": {
+  "title": "Weiqi and Chinese Culture",
+  "units": 1,
+  "prev": "",
+  "cc22": [
+   "A"
+  ],
+  "cc25": [
+   "A"
+  ],
+  "cc26": [
+   "A"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "HUMA 1301": {
+  "title": "World Literature and Film",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A"
+  ],
+  "cc25": [
+   "A"
+  ],
+  "cc26": [
+   "A"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 1673": {
+  "title": "Art and Digital Culture",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A"
+  ],
+  "cc25": [
+   "A"
+  ],
+  "cc26": [
+   "A"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "HUMA 2104": {
+  "title": "Music Theory I: Introduction to Tonal Music",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A"
+  ],
+  "cc25": [
+   "A"
+  ],
+  "cc26": [
+   "A"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "HUMA 2105": {
+  "title": "Music, Drama, and Theatre",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A"
+  ],
+  "cc25": [
+   "A"
+  ],
+  "cc26": [
+   "A"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 2107": {
+  "title": "Introduction to Electronic Music Composition",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A"
+  ],
+  "cc25": [
+   "A"
+  ],
+  "cc26": [
+   "A"
+  ],
+  "terms": [
+   "2530",
+   "2540",
+   "2610"
+  ]
+ },
+ "BIEN 1610": {
+  "title": "Engineering Life: Synthetic Biology and Innovations for Human Health",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "S",
+   "T"
+  ],
+  "cc25": [
+   "S",
+   "T"
+  ],
+  "cc26": [
+   "S",
+   "T"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "CIVL 1180": {
+  "title": "Monitoring Changing Climate from Space",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "S",
+   "T"
+  ],
+  "cc25": [
+   "S",
+   "T"
+  ],
+  "cc26": [
+   "S",
+   "T"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "CIVL 1190": {
+  "title": "Climate Change, Big History and Sustainability",
+  "units": 3,
+  "prev": "CORE 1223",
+  "cc22": [
+   "S"
+  ],
+  "cc25": [
+   "S",
+   "SUS"
+  ],
+  "cc26": [
+   "S",
+   "SUS"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "ENVR 1150": {
+  "title": "Climate Change Impacts and Extreme Weather Events",
+  "units": 3,
+  "prev": "CORE 1941",
+  "cc22": [
+   "S"
+  ],
+  "cc25": [
+   "S",
+   "SUS"
+  ],
+  "cc26": [
+   "S",
+   "SUS"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "ENVR 2020": {
+  "title": "Urban Air Pollution",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "S"
+  ],
+  "cc25": [
+   "S",
+   "SUS"
+  ],
+  "cc26": [
+   "S",
+   "SUS"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "LIFS 1010": {
+  "title": "Introduction to Biological Sciences",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "S"
+  ],
+  "cc25": [
+   "S"
+  ],
+  "cc26": [
+   "S"
+  ],
+  "terms": [
+   "2540",
+   "2610"
+  ]
+ },
+ "OCES 1030": {
+  "title": "Environmental Science",
+  "units": 3,
+  "prev": "CORE 1140",
+  "cc22": [
+   "S"
+  ],
+  "cc25": [
+   "S",
+   "SUS"
+  ],
+  "cc26": [
+   "S",
+   "SUS"
+  ],
+  "terms": [
+   "2540",
+   "2610"
+  ]
+ },
+ "PHYS 1002": {
+  "title": "Introduction to Astrophysics and Astronomy",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "S"
+  ],
+  "cc25": [
+   "S"
+  ],
+  "cc26": [
+   "S"
+  ],
+  "terms": [
+   "2530",
+   "2540",
+   "2610"
+  ]
+ },
+ "PHYS 1003": {
+  "title": "Energy and Related Environmental Issues",
+  "units": 3,
+  "prev": "CORE 1111",
+  "cc22": [
+   "S"
+  ],
+  "cc25": [
+   "S"
+  ],
+  "cc26": [
+   "S"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "PHYS 1101": {
+  "title": "Introductory Physics",
+  "units": 4,
+  "prev": "",
+  "cc22": [
+   "S"
+  ],
+  "cc25": [
+   "S"
+  ],
+  "cc26": [
+   "S"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "PHYS 1111": {
+  "title": "General Physics I",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "S"
+  ],
+  "cc25": [
+   "S"
+  ],
+  "cc26": [
+   "S"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "UTOP 3201": {
+  "title": "Practicum in STEAM Education",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "UXOP"
+  ],
+  "cc25": [
+   "UXOP"
+  ],
+  "cc26": [
+   "UXOP"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "CIVL 1100": {
+  "title": "Discovering Civil and Environmental Engineering",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "T"
+  ],
+  "cc25": [
+   "T"
+  ],
+  "cc26": [
+   "T"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "CIVL 1140": {
+  "title": "Environment and Society: Sustainable Development Goals and Carbon Neutrality",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "T"
+  ],
+  "cc25": [
+   "SUS",
+   "T"
+  ],
+  "cc26": [
+   "SUS",
+   "T"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "COMP 1945": {
+  "title": "Artificial Intelligence for Everyone: From Data to Applications",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "T"
+  ],
+  "cc25": [
+   "T"
+  ],
+  "cc26": [
+   "T"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "ELEC 1010": {
+  "title": "Electronic and Information Technology",
+  "units": 3,
+  "prev": "CORE 1240",
+  "cc22": [
+   "T"
+  ],
+  "cc25": [
+   "T"
+  ],
+  "cc26": [
+   "T"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "ELEC 1150": {
+  "title": "Information Technology Revolution: Past, Present and Future",
+  "units": 3,
+  "prev": "CORE 1203, ENGG 1150",
+  "cc22": [
+   "T"
+  ],
+  "cc25": [
+   "T"
+  ],
+  "cc26": [
+   "T"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "EMIA 1901": {
+  "title": "Introduction to Smart City Development",
+  "units": 3,
+  "prev": "EMIA 4500A",
+  "cc22": [
+   "T"
+  ],
+  "cc25": [
+   "T"
+  ],
+  "cc26": [
+   "T"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "ENGG 1200": {
+  "title": "Engineering Team Design Experience",
+  "units": 3,
+  "prev": "CORE 1200",
+  "cc22": [
+   "T"
+  ],
+  "cc25": [
+   "T"
+  ],
+  "cc26": [
+   "T"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "ENGG 1300": {
+  "title": "Design Thinking for Health Innovation",
+  "units": 3,
+  "prev": "CORE 1201",
+  "cc22": [
+   "T"
+  ],
+  "cc25": [
+   "T"
+  ],
+  "cc26": [
+   "T"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "ENTR 1001": {
+  "title": "Entrepreneurship 1001: Designing Your Future",
+  "units": 3,
+  "prev": "CORE 1001",
+  "cc22": [
+   "T"
+  ],
+  "cc25": [
+   "T"
+  ],
+  "cc26": [
+   "T"
+  ],
+  "terms": [
+   "2530",
+   "2540",
+   "2610"
+  ]
+ },
+ "ENVR 1030": {
+  "title": "Environment and Health",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "T"
+  ],
+  "cc25": [
+   "SUS",
+   "T"
+  ],
+  "cc26": [
+   "SUS",
+   "T"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "IEDA 1280": {
+  "title": "Decision Analytics for Modern Society",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "T"
+  ],
+  "cc25": [
+   "T"
+  ],
+  "cc26": [
+   "T"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "ISOM 1380": {
+  "title": "Technology and Innovation: Social and Business Perspectives",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA",
+   "T"
+  ],
+  "cc25": [
+   "SA",
+   "T"
+  ],
+  "cc26": [
+   "SA",
+   "T"
+  ],
+  "terms": [
+   "2520",
+   "2530",
+   "2540",
+   "2610"
+  ]
+ },
+ "ISOM 1400": {
+  "title": "Digital Philanthropy: Harnessing Technology for Social Changes and Beyond",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA",
+   "T"
+  ],
+  "cc25": [
+   "SA",
+   "T"
+  ],
+  "cc26": [
+   "SA",
+   "T"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "HMAW 1905A": {
+  "title": "Behavioral Foundations of University Education: Habits, Mindsets, and Wellness",
+  "units": 3,
+  "prev": "CORE 1905A",
+  "cc22": [
+   "HMW"
+  ],
+  "cc25": [
+   "HMW"
+  ],
+  "cc26": [
+   "HMW"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "HMAW 1905B": {
+  "title": "Behavioral Foundations of University Education: Habits, Mindsets, and Wellness",
+  "units": 3,
+  "prev": "CORE 1905B",
+  "cc22": [
+   "HMW"
+  ],
+  "cc25": [
+   "HMW"
+  ],
+  "cc26": [
+   "HMW"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "HMAW 1905C": {
+  "title": "Behavioral Foundations of University Education: Habits, Mindsets, and Wellness",
+  "units": 3,
+  "prev": "CORE 1905C",
+  "cc22": [
+   "HMW"
+  ],
+  "cc25": [
+   "HMW"
+  ],
+  "cc26": [
+   "HMW"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "HMAW 1905D": {
+  "title": "Behavioral Foundations of University Education: Habits, Mindsets, and Wellness",
+  "units": 3,
+  "prev": "CORE 1905D",
+  "cc22": [
+   "HMW"
+  ],
+  "cc25": [
+   "HMW"
+  ],
+  "cc26": [
+   "HMW"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "HMAW 1905E": {
+  "title": "Behavioral Foundations of University Education: Habits, Mindsets, and Wellness",
+  "units": 3,
+  "prev": "CORE 1905E",
+  "cc22": [
+   "HMW"
+  ],
+  "cc25": [
+   "HMW"
+  ],
+  "cc26": [
+   "HMW"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "ECON 1220": {
+  "title": "Thinking like an Economist I: Microeconomics",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [
+   "SA"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "ECON 1221": {
+  "title": "Thinking like an Economist II: Macroeconomics",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [
+   "SA"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "FINA 1303": {
+  "title": "Introduction to Financial Markets and Institutions",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [
+   "SA"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "ISOM 1500": {
+  "title": "Insightful Decisions",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [
+   "SA"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "MARK 1220": {
+  "title": "Marketing and Society",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA",
+   "SUS"
+  ],
+  "cc26": [
+   "SA",
+   "SUS"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "MGMT 1110": {
+  "title": "Introduction to Management",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [
+   "SA"
+  ],
+  "terms": [
+   "2540",
+   "2610"
+  ]
+ },
+ "MGMT 1130": {
+  "title": "Traps and Pitfalls in Judgment and Decision Making",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [
+   "SA"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "PPOL 2110": {
+  "title": "Science, Technology and Society in China",
+  "units": 3,
+  "prev": "CORE 2940",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [
+   "SA"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "PPOL 2320": {
+  "title": "Experiments in Power: Why We Make the Rules We Make",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [
+   "SA"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "RMBI 1010": {
+  "title": "Risk Management in Financial Institutions",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [
+   "SA"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "SOSC 1350": {
+  "title": "Contemporary China: Continuity and Change",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [
+   "SA"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "SOSC 1449": {
+  "title": "Understanding Our Economy",
+  "units": 3,
+  "prev": "CORE 1810",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [
+   "SA"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "SOSC 1470": {
+  "title": "The Economic and Political Development of Modern Japan",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [
+   "SA"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "SOSC 1780": {
+  "title": "Population and Development in China",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [
+   "SA"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "SOSC 1840": {
+  "title": "Government, Law and Society in China",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [
+   "SA"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "SOSC 1859": {
+  "title": "Exploring Society",
+  "units": 3,
+  "prev": "CORE 1850",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [
+   "SA"
+  ],
+  "terms": [
+   "2540",
+   "2610"
+  ]
+ },
+ "SOSC 1960": {
+  "title": "Introduction to Psychology",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [
+   "SA"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "SOSC 2740": {
+  "title": "Gender and Society",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [
+   "SA"
+  ],
+  "terms": [
+   "2540",
+   "2610"
+  ]
+ },
+ "SOSC 3130": {
+  "title": "Hong Kong Culture",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [
+   "SA"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "SOSC 3520": {
+  "title": "Understanding Comparative Politics",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [
+   "SA"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "SOSC 3630": {
+  "title": "Democracy and Democratization around the World",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [
+   "SA"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "UROP 3200": {
+  "title": "Undergraduate Research Opportunities with Mini-conference Experience",
+  "units": 1,
+  "prev": "",
+  "cc22": [
+   "UXOP"
+  ],
+  "cc25": [
+   "UXOP"
+  ],
+  "cc26": [
+   "UXOP"
+  ],
+  "terms": [
+   "2530",
+   "2540",
+   "2610"
+  ]
+ },
+ "ISDN 1130": {
+  "title": "Introduction to Eco-Design",
+  "units": 3,
+  "prev": "",
+  "cc22": [],
+  "cc25": [
+   "SUS"
+  ],
+  "cc26": [
+   "SUS"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "SUST 1010": {
+  "title": "Introduction to Sustainability",
+  "units": 3,
+  "prev": "CORE 1940",
+  "cc22": [],
+  "cc25": [
+   "SUS"
+  ],
+  "cc26": [
+   "SUS"
+  ],
+  "terms": [
+   "2530",
+   "2540",
+   "2610"
+  ]
+ },
+ "SUST 1020": {
+  "title": "Climate Films and Sustainable Future",
+  "units": 3,
+  "prev": "",
+  "cc22": [],
+  "cc25": [
+   "SUS"
+  ],
+  "cc26": [
+   "SUS"
+  ],
+  "terms": [
+   "2530",
+   "2610"
+  ]
+ },
+ "AISC 1000A": {
+  "title": "Foundations of AI Literacy: Human-AI Orchestration",
+  "units": 3,
+  "prev": "",
+  "cc22": [],
+  "cc25": [],
+  "cc26": [
+   "HAIC"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "AISC 1000B": {
+  "title": "Foundations of AI Literacy: Human-AI Orchestration",
+  "units": 3,
+  "prev": "",
+  "cc22": [],
+  "cc25": [],
+  "cc26": [
+   "HAIC"
+  ],
+  "terms": [
+   "2610"
+  ]
+ },
+ "HUMA 2670": {
+  "title": "Understanding Western Painting",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A",
+   "H"
+  ],
+  "cc25": [
+   "A",
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2540"
+  ]
+ },
+ "BIEN 1620": {
+  "title": "Revolutionizing Health: Biomedical Innovations in Everyday Life",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "S",
+   "T"
+  ],
+  "cc25": [
+   "S",
+   "T"
+  ],
+  "cc26": [],
+  "terms": [
+   "2540"
+  ]
+ },
+ "CENG 1800": {
+  "title": "Introduction to Food Science and Technology",
+  "units": 3,
+  "prev": "CORE 1212",
+  "cc22": [
+   "S",
+   "T"
+  ],
+  "cc25": [
+   "S",
+   "T"
+  ],
+  "cc26": [],
+  "terms": [
+   "2540"
+  ]
+ },
+ "CIVL 1210": {
+  "title": "Fundamental of Green Buildings",
+  "units": 3,
+  "prev": "CIVL 2910",
+  "cc22": [
+   "T"
+  ],
+  "cc25": [
+   "SUS",
+   "T"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530",
+   "2540"
+  ]
+ },
+ "IEDA 1250": {
+  "title": "Optimizing Decisions for Personal and Business Development",
+  "units": 3,
+  "prev": "CORE 1251",
+  "cc22": [
+   "S",
+   "T"
+  ],
+  "cc25": [
+   "S",
+   "T"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530",
+   "2540"
+  ]
+ },
+ "ISOM 2310": {
+  "title": "Fundamentals of E-Commerce: Business, Technology, and the Society",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA",
+   "T"
+  ],
+  "cc25": [
+   "SA",
+   "T"
+  ],
+  "cc26": [],
+  "terms": [
+   "2540"
+  ]
+ },
+ "MECH 1905": {
+  "title": "Buildings for Contemporary Living",
+  "units": 3,
+  "prev": "CORE 1270",
+  "cc22": [
+   "S",
+   "T"
+  ],
+  "cc25": [
+   "S",
+   "T"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530",
+   "2540"
+  ]
+ },
+ "UTOP 2401": {
+  "title": "Language Teaching Service-Learning Internship",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "UXOP"
+  ],
+  "cc25": [
+   "UXOP"
+  ],
+  "cc26": [],
+  "terms": [
+   "2540"
+  ]
+ },
+ "ACCT 1010": {
+  "title": "Accounting, Business and Society",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [],
+  "terms": [
+   "2540"
+  ]
+ },
+ "ECON 1222": {
+  "title": "What Economics Tells Us About Our Life and Social Policy",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [],
+  "terms": [
+   "2540"
+  ]
+ },
+ "ENVR 1080": {
+  "title": "The Smart Consumer - Uncovering the Hidden Story behind the Product Label",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA",
+   "SUS"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530",
+   "2540"
+  ]
+ },
+ "SOSC 1662": {
+  "title": "Contemporary Hong Kong Society",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530",
+   "2540"
+  ]
+ },
+ "SOSC 1969": {
+  "title": "Discovering Mind and Behavior",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530",
+   "2540"
+  ]
+ },
+ "CHEM 1002": {
+  "title": "Introduction to Chemistry of Cosmetics",
+  "units": 3,
+  "prev": "CORE 1121",
+  "cc22": [
+   "S"
+  ],
+  "cc25": [
+   "S"
+  ],
+  "cc26": [],
+  "terms": [
+   "2540"
+  ]
+ },
+ "CHEM 1004": {
+  "title": "Chemistry in Everyday Life",
+  "units": 3,
+  "prev": "CORE 1120",
+  "cc22": [
+   "S"
+  ],
+  "cc25": [
+   "S",
+   "SUS"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530",
+   "2540"
+  ]
+ },
+ "LIFS 1020": {
+  "title": "Biology of Human Health",
+  "units": 3,
+  "prev": "CORE 1130",
+  "cc22": [
+   "S"
+  ],
+  "cc25": [
+   "S"
+  ],
+  "cc26": [],
+  "terms": [
+   "2540"
+  ]
+ },
+ "HUMA 1675": {
+  "title": "Global History of Explorations",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2540"
+  ]
+ },
+ "UPOP 2920": {
+  "title": "Undergraduate Practice Opportunities",
+  "units": 2,
+  "prev": "",
+  "cc22": [
+   "UXOP"
+  ],
+  "cc25": [
+   "UXOP"
+  ],
+  "cc26": [],
+  "terms": [
+   "2540"
+  ]
+ },
+ "CTDL 1902": {
+  "title": "AI and Society: Ethics, Cognition, and Critical Analysis",
+  "units": 3,
+  "prev": "IDPO 2500B",
+  "cc22": [
+   "CTDL"
+  ],
+  "cc25": [
+   "CTDL"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "LANG 1408": {
+  "title": "Academic English for Humanities and Social Science Studies",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "E-Comm"
+  ],
+  "cc25": [
+   "E-Comm"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "LANG 1409": {
+  "title": "Academic English for Science Studies",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "E-Comm"
+  ],
+  "cc25": [
+   "E-Comm"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "LANG 2065": {
+  "title": "Research Writing",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "E-Comm"
+  ],
+  "cc25": [
+   "E-Comm"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "LANG 2067": {
+  "title": "Digital Communication: Expressing Your Perspective in Digital Spaces",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "E-Comm"
+  ],
+  "cc25": [
+   "E-Comm"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "AMCC 2020": {
+  "title": "Coding for Artistic Expression and Creation",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A"
+  ],
+  "cc25": [
+   "A"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 1155": {
+  "title": "Video Art",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A"
+  ],
+  "cc25": [
+   "A"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 2101": {
+  "title": "Enjoyment of Western Opera",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A"
+  ],
+  "cc25": [
+   "A"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 2240": {
+  "title": "Reading Chinese Literature: Dreams of the Red Chamber",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A"
+  ],
+  "cc25": [
+   "A"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 2331": {
+  "title": "Japanese Animation: Technology, Gender, and History",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A",
+   "H"
+  ],
+  "cc25": [
+   "A",
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 2661": {
+  "title": "Chinese Oil Painting",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A",
+   "H"
+  ],
+  "cc25": [
+   "A",
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 3220": {
+  "title": "Modern Chinese Poetry",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A"
+  ],
+  "cc25": [
+   "A"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 3680": {
+  "title": "Contemporary Architecture: The Pritzker Prize Winners",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "A",
+   "H"
+  ],
+  "cc25": [
+   "A",
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "ISDN 2110": {
+  "title": "From Ideas to Assets: Practice of the Creative Economy System",
+  "units": 3,
+  "prev": "ISDN 3000A",
+  "cc22": [
+   "A"
+  ],
+  "cc25": [
+   "A"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "MGMT 1120": {
+  "title": "Developing the Leader in You",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "PPOL 1120": {
+  "title": "Public Policy for a Healthy Society",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "PPOL 1130": {
+  "title": "Introduction to Global Public Policy Through Film",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "SOSC 1270": {
+  "title": "International Law",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "SOSC 1420": {
+  "title": "Poverty",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "SOSC 1700": {
+  "title": "What Is Democracy?",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "SOSC 1860": {
+  "title": "Population and Society",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "SOSC 2130": {
+  "title": "Education and Society",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "SOSC 2299": {
+  "title": "The Rise and Fall of Globalization",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "SOSC 3001": {
+  "title": "Understanding China, 1700-2000: A Data Analytic Approach",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "SOSC 3880": {
+  "title": "Social Inequality and Social Mobility",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 1030": {
+  "title": "Structure of the Chinese Language",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 1060": {
+  "title": "Introduction to Mandarin Chinese Grammar",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 1221": {
+  "title": "Introduction to Game Studies",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 1411": {
+  "title": "Inside Chinese Documents and Archives: Methods and Perspectives",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 1520": {
+  "title": "Modern East Asia",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 1674": {
+  "title": "China in Historical Maps",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 1677": {
+  "title": "East Asia and the West: From the Silk Road to The Belt and Road",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 1678": {
+  "title": "Introduction to Digital Humanities & AI",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H",
+   "T"
+  ],
+  "cc25": [
+   "H",
+   "T"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 1679": {
+  "title": "Central and Eastern Europe from 1917 to the Present",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 1681": {
+  "title": "Cold War in Europe 1945-1989",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 1920": {
+  "title": "Introduction to Moral Philosophy",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 1921": {
+  "title": "Philosophy of Science",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 2034": {
+  "title": "Language Planning and Policy in Asian Contexts",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 2635": {
+  "title": "Cultural Diversity in China",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 2636": {
+  "title": "Medical Anthropology",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 2831": {
+  "title": "Metaphysics: Study of Reality and Existence",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 2930": {
+  "title": "What am I? Personal Identity and the Self from a Philosophical Perspective",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 3030": {
+  "title": "Language, Communication and Culture",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 3630": {
+  "title": "Community and Cultural Identity",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 3800": {
+  "title": "Guided Studies in Chinese Philosophical Classics",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "H"
+  ],
+  "cc25": [
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "HUMA 3810": {
+  "title": "Taoism and the Chinese Tradition",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "C-Comm",
+   "H"
+  ],
+  "cc25": [
+   "C-Comm",
+   "H"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "UCOP 3200": {
+  "title": "Design for Global Health",
+  "units": 3,
+  "prev": "ENGG 4930",
+  "cc22": [
+   "UXOP"
+  ],
+  "cc25": [
+   "UXOP"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "PHYS 1001": {
+  "title": "Physics and the Modern Society",
+  "units": 3,
+  "prev": "CORE 1110",
+  "cc22": [
+   "S"
+  ],
+  "cc25": [
+   "S"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "PHYS 1007": {
+  "title": "Quantum Information for Everyone",
+  "units": 3,
+  "prev": "CORE 1112",
+  "cc22": [
+   "S"
+  ],
+  "cc25": [
+   "S"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "SCIE 1120": {
+  "title": "Chemistry and Life",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "S"
+  ],
+  "cc25": [
+   "S"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "CIVL 1161": {
+  "title": "Building the Future: Civil Engineering Challenges & Solutions",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "T"
+  ],
+  "cc25": [
+   "T"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "COMP 1001": {
+  "title": "Exploring Multimedia and Internet Computing",
+  "units": 3,
+  "prev": "CORE 1231",
+  "cc22": [
+   "T"
+  ],
+  "cc25": [
+   "T"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "COMP 1942": {
+  "title": "Exploring and Visualizing Data",
+  "units": 3,
+  "prev": "CORE 1232",
+  "cc22": [
+   "T"
+  ],
+  "cc25": [
+   "T"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "ENGG 1110": {
+  "title": "Engineering Solutions to Grand Challenges of the 21st Century",
+  "units": 3,
+  "prev": "CORE 1202",
+  "cc22": [
+   "T"
+  ],
+  "cc25": [
+   "T"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "ISDN 1200": {
+  "title": "Design Thinking for Technological Innovations",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "T"
+  ],
+  "cc25": [
+   "T"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "ISDN 2000": {
+  "title": "What is Design and Why Design?",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "T"
+  ],
+  "cc25": [
+   "SUS",
+   "T"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "MECH 1908": {
+  "title": "Exploration of Mechanical Design and Engineering",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "T"
+  ],
+  "cc25": [
+   "T"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "RMBI 1020": {
+  "title": "Business Intelligence for Data-Driven Decisions",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "T"
+  ],
+  "cc25": [
+   "T"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "SUST 1030": {
+  "title": "Climate Change and Sustainability: An Interdisciplinary Perspective",
+  "units": 3,
+  "prev": "",
+  "cc22": [],
+  "cc25": [
+   "SUS"
+  ],
+  "cc26": [],
+  "terms": [
+   "2530"
+  ]
+ },
+ "ISOM 2400": {
+  "title": "Global Information Infrastructure and Policy",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA",
+   "T"
+  ],
+  "cc25": [
+   "SA",
+   "T"
+  ],
+  "cc26": [],
+  "terms": [
+   "2520"
+  ]
+ },
+ "ISOM 1090": {
+  "title": "Social Media: Collective Intelligence & Creativity",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA"
+  ],
+  "cc26": [],
+  "terms": [
+   "2520"
+  ]
+ },
+ "ISOM 1700": {
+  "title": "Critical Issues in Business Operations",
+  "units": 3,
+  "prev": "",
+  "cc22": [
+   "SA"
+  ],
+  "cc25": [
+   "SA",
+   "SUS"
+  ],
+  "cc26": [],
+  "terms": [
+   "2520"
+  ]
+ }
+}

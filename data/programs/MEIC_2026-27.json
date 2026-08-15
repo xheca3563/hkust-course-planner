@@ -1,0 +1,301 @@
+{
+  "programCode": "MEIC",
+  "programName": "BEng in Microelectronics and Integrated Circuits",
+  "intakeYear": "2026-27",
+  "school": "Engineering",
+  "prerequisites": [],
+  "required": [
+    {
+      "subject": "ELEC",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ELEC 1100",
+          "credits": 4,
+          "title": "Introduction to Electro-Robot Design"
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ELEC 1300",
+          "credits": 4,
+          "title": "Introduction to Microelectronics and Integrated Circuits"
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ELEC 1910",
+          "credits": 0,
+          "title": "Academic and Professional Development I"
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ELEC 2100",
+          "credits": 4,
+          "title": "Signals and Systems"
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ELEC 2350",
+          "credits": 4,
+          "title": "Introduction to Computer Organization and Design"
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ELEC 2400",
+          "credits": 4,
+          "title": "Electronic Circuits"
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ELEC 2910",
+          "credits": 0,
+          "title": "Academic and Professional Development II"
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ELEC 2992",
+          "credits": 0,
+          "title": "Industrial Experience (Microelectronics and Integrated Circuits)"
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ELEC 3400",
+          "credits": 4,
+          "title": "Introduction to Integrated Circuits and Systems"
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ELEC 3500",
+          "credits": 4,
+          "title": "Integrated Circuit Devices"
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ELEC 3910",
+          "credits": 0,
+          "title": "Academic and Professional Development III"
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 9,
+      "maxCredits": 9,
+      "note": "[(ELEC 4920 OR ELEC 4930) AND (ELEC 4900 OR ELEC 4901 OR ELEC 4910)] OR [(ELEC 4930 AND ELEC 4931 AND ELEC 4932)] (Students taking the Research Option must take ELEC 4901)",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "ELEC 4920"
+                  },
+                  {
+                    "type": "course",
+                    "code": "ELEC 4930"
+                  }
+                ]
+              },
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "ELEC 4900"
+                  },
+                  {
+                    "type": "course",
+                    "code": "ELEC 4901"
+                  },
+                  {
+                    "type": "course",
+                    "code": "ELEC 4910"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "course",
+                "code": "ELEC 4930"
+              },
+              {
+                "type": "course",
+                "code": "ELEC 4931"
+              },
+              {
+                "type": "course",
+                "code": "ELEC 4932"
+              }
+            ]
+          },
+          {
+            "type": "course",
+            "code": "ELEC 4901"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "ELEC 4900",
+          "credits": 6,
+          "title": "Final Year Design Project"
+        },
+        {
+          "code": "ELEC 4901",
+          "credits": 6,
+          "title": "Final Year Thesis"
+        },
+        {
+          "code": "ELEC 4910",
+          "credits": 6,
+          "title": "Co-op Program"
+        },
+        {
+          "code": "ELEC 4920",
+          "credits": 3,
+          "title": "Microelectronics Project"
+        },
+        {
+          "code": "ELEC 4930",
+          "credits": 3,
+          "title": "Integrated Circuit Design Project I"
+        },
+        {
+          "code": "ELEC 4931",
+          "credits": 3,
+          "title": "Integrated Circuit Design Project II"
+        },
+        {
+          "code": "ELEC 4932",
+          "credits": 3,
+          "title": "Integrated Circuit Design Project III"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [],
+  "electives": [
+    {
+      "subject": "ELEC",
+      "minCredits": 13,
+      "maxCredits": null,
+      "freeForm": "ELEC Electives (Courses from the specified elective list, of which at least 2 courses must be at 4000-level.) ELEC 3300 4 Introduction to Embedded Systems ELEC 3310 4 Digital Fundamentals and System Design ELEC 3410 3 CMOS VLSI Design ELEC 3600 4 Electromagnetics: From Wireless to Photonic Applications ELEC 3610 3 Quantum Mechanics for Electronic Engineers ELEC 4010R 3 Compound Semiconductor Device Physics and Technologies ELEC 4010S 4 Microwave Theory and Applications ELEC 4320 3 FPGA-based Design: From Theory to Practice ELEC 4420 4 Analogue Integrated Circuits Design and Analysis ELEC 4430 3 Integrated Power Electronics ELEC 4510 3 Semiconductor Physics for Solid-State Electronics ELEC 4520 3 Integrated Circuit Fabrication Technology ELEC 4530 3 Fundamentals of Photovoltaic and Renewable Energy ELEC 4610 4 Engineering Optics ELEC 4620 4 Photonics and Optical Communications ELEC 4810 4 Introduction to Biosensors and Bioinstrumentation",
+      "areas": []
+    }
+  ],
+  "notes": "",
+  "tracks": [
+    {
+      "name": "Research Option",
+      "note": "Students in the Research Option should also take ELEC 4901 as specified in the major requirements.",
+      "groups": [
+        {
+          "subject": "ELEC",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "ELEC 5900",
+              "credits": 3,
+              "title": "Modern Engineering Research Methodologies"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "trackRequired": false
+}

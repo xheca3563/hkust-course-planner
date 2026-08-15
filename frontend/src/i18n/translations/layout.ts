@@ -1,0 +1,17 @@
+export const layout = {
+  'layout.timetableName': { en: 'Timetable {n}', zh: '时间表 {n}' },
+  'layout.loadingCourses': { en: 'Loading courses...', zh: '加载课程数据...' },
+  'layout.loadCoursesFailed': { en: 'Failed to load course data', zh: '加载课程数据失败' },
+  'layout.checkBackend': { en: 'Please make sure the backend service is running', zh: '请确认后端服务已启动' },
+  'layout.courseCount': { en: '{n} courses', zh: '{n} 门课程' },
+  'layout.totalCourseCount': { en: ' / {n} in total', zh: ' / 共 {n} 门' },
+  'layout.searchPlaceholder': { en: 'Search by course code or name...', zh: '搜索课程代码或名称...' },
+  'layout.selectedCourses': { en: 'Selected courses ({n})', zh: '已选课程 ({n})' },
+  'layout.selected': { en: 'Selected:', zh: '已选:' },
+  'layout.selectedUnit': { en: ' courses', zh: '门' },
+  'layout.credits': { en: 'Credits:', zh: '学分:' },
+  'layout.schedules': { en: 'Plans:', zh: '方案:' },
+  'layout.schedulesUnit': { en: '', zh: '个' },
+  'layout.modeManual': { en: 'Basic Mode', zh: '基础模式' },
+  'layout.modeSmart': { en: 'Smart Mode', zh: '智能模式' },
+} as const

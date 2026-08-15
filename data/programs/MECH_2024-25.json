@@ -1,0 +1,642 @@
+{
+  "programCode": "MECH",
+  "programName": "BEng in Mechanical Engineering",
+  "intakeYear": "2024-25",
+  "school": "Engineering",
+  "prerequisites": [],
+  "required": [
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 1906",
+          "credits": 3,
+          "title": "Mechanical Engineering for Modern Life"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 1990",
+          "credits": 0,
+          "title": "Industrial Training"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 2020",
+          "credits": 3,
+          "title": "Statics and Dynamics"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 2040",
+          "credits": 3,
+          "title": "Solid Mechanics I"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 2210",
+          "credits": 3,
+          "title": "Fluid Mechanics"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 2310",
+          "credits": 3,
+          "title": "Thermodynamics"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 2410",
+          "credits": 3,
+          "title": "Engineering Materials I"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 2520",
+          "credits": 3,
+          "title": "Design and Manufacturing I"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 3030",
+          "credits": 3,
+          "title": "Mechanisms of Machinery"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "MECH 3300 OR MECH 3420 OR MECH 3520 OR MECH 3710",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MECH 3300"
+          },
+          {
+            "type": "course",
+            "code": "MECH 3420"
+          },
+          {
+            "type": "course",
+            "code": "MECH 3520"
+          },
+          {
+            "type": "course",
+            "code": "MECH 3710"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MECH 3300",
+          "credits": 3,
+          "title": "Energy Conversion"
+        },
+        {
+          "code": "MECH 3420",
+          "credits": 3,
+          "title": "Engineering Materials II"
+        },
+        {
+          "code": "MECH 3520",
+          "credits": 3,
+          "title": "Design and Manufacturing II"
+        },
+        {
+          "code": "MECH 3710",
+          "credits": 3,
+          "title": "Manufacturing Processes and Systems"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 3310",
+          "credits": 3,
+          "title": "Heat Transfer"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 3610",
+          "credits": 3,
+          "title": "Control Principles"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 3630",
+          "credits": 3,
+          "title": "Electrical Technology"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 3830",
+          "credits": 3,
+          "title": "Laboratory"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 3907",
+          "credits": 3,
+          "title": "Mechatronic Design and Prototyping"
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "minCredits": 6,
+      "maxCredits": 6,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MECH 4900",
+          "credits": 6,
+          "title": "Final Year Design Project"
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ELEC 2420",
+          "credits": 3,
+          "title": "Basic Electronics"
+        }
+      ]
+    },
+    {
+      "subject": "ENGG",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ENGG 2010",
+          "credits": 0,
+          "title": "Engineering Seminar Series"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 5,
+      "note": "COMP 1021 OR COMP 1022P OR COMP 2011 OR",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 1021"
+          },
+          {
+            "type": "course",
+            "code": "COMP 1022P"
+          },
+          {
+            "type": "course",
+            "code": "COMP 2011"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 1021",
+          "credits": 3,
+          "title": "Introduction to Computer Science"
+        },
+        {
+          "code": "COMP 1022P",
+          "credits": 3,
+          "title": "Introduction to Computing with Java"
+        },
+        {
+          "code": "COMP 2011",
+          "credits": 4,
+          "title": "Programming with C++"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 5,
+      "maxCredits": 5,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "COMP 2012H",
+          "credits": 5,
+          "title": "Honors Object-Oriented Programming and Data Structures"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 7,
+      "note": "[(MATH 1012 OR MATH 1013 OR MATH 1023) AND (MATH 1014 OR MATH 1024)] OR [MATH 1020]",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1012"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1013"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1023"
+                  }
+                ]
+              },
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1014"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1024"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "course",
+            "code": "MATH 1020"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 1012",
+          "credits": 4,
+          "title": "Calculus IA"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1014",
+          "credits": 3,
+          "title": "Calculus II"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        },
+        {
+          "code": "MATH 1024",
+          "credits": 3,
+          "title": "Honors Calculus II"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MATH 2011",
+          "credits": 3,
+          "title": "Introduction to Multivariable Calculus"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "MATH 2111 OR MATH 2350 OR MATH 2351",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 2111"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2350"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2351"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 2111",
+          "credits": 3,
+          "title": "Matrix Algebra and Applications"
+        },
+        {
+          "code": "MATH 2350",
+          "credits": 3,
+          "title": "Applied Linear Algebra and Differential Equations"
+        },
+        {
+          "code": "MATH 2351",
+          "credits": 3,
+          "title": "Introduction to Differential Equations"
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "PHYS 1112 OR PHYS 1312",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "PHYS 1112"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 1312"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "PHYS 1112",
+          "credits": 3,
+          "title": "General Physics I with Calculus"
+        },
+        {
+          "code": "PHYS 1312",
+          "credits": 3,
+          "title": "Honors General Physics I"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 1008",
+          "credits": 3,
+          "title": "Introductory Chemistry"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 1012",
+          "credits": 3,
+          "title": "General Chemistry B: Atomic Structure, Molecules, and Bonding"
+        }
+      ]
+    },
+    {
+      "subject": "LIFS",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "LIFS 1901",
+          "credits": 3,
+          "title": "General Biology I"
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "PHYS 1101",
+          "credits": 4,
+          "title": "Introductory Physics"
+        }
+      ]
+    }
+  ],
+  "electives": [],
+  "notes": "- COMP 1022P: The course was last offered in 2024-25 and was deleted subsequently.\n- MATH 1012: The course was last offered in 2024-25 and was deleted subsequently.\n- MECH 3520: The course was last offered in 2019-20 and was deleted subsequently.\n2026-27 MECH (4Y) (2024-25 intake) Page 4",
+  "tracks": [
+    {
+      "name": "Energy Option",
+      "note": "",
+      "groups": [
+        {
+          "subject": "MECH",
+          "minCredits": 9,
+          "maxCredits": null,
+          "note": "MECH Electives in Energy (3 courses from the specified elective list.  Courses taken as Major Required Courses or Elective Courses of other MECH Options may not be counted towards this elective requirement.) MECH 1902 3 Energy Systems in a Sustainable World MECH 3110 3 Materials for Energy Technologies MECH 3300 3 Energy Conversion MECH 3420 3 Engineering Materials II MECH 4010 3 Materials Failure in Mechanical Applications MECH 4340 3 Air Conditioning Systems MECH 4350 3 Indoor Air Quality in Buildings MECH 4360 3 Introduction to Intelligent Building Systems MECH 4430 3 Materials Characterization MECH 4912 3 Green Technologies for Buildings, Energy and Water",
+          "logic": null,
+          "options": []
+        }
+      ]
+    },
+    {
+      "name": "Engineering Design Option",
+      "note": "",
+      "groups": [
+        {
+          "subject": "MECH",
+          "minCredits": 9,
+          "maxCredits": null,
+          "note": "MECH Electives in Engineering Design (3 courses from the specified elective list.  Courses taken as Major Required Courses or Elective Courses of other MECH Options may not be counted towards this elective requirement.) MECH 3510 3 Computer-Aided Design and Manufacturing MECH 3520** 3 Design and Manufacturing II MECH 3710 3 Manufacturing Processes and Systems MECH 4450 3 Introduction to Finite Element Analysis MECH 4710 3 Introduction to Robotics MECH 4720 3 Introduction to Precision Engineering MECH 4740 3 Numerical Methods in Engineering",
+          "logic": null,
+          "options": []
+        }
+      ]
+    },
+    {
+      "name": "Materials Option",
+      "note": "",
+      "groups": [
+        {
+          "subject": "MECH",
+          "minCredits": 9,
+          "maxCredits": null,
+          "note": "MECH Electives in Materials (3 courses from the specified elective list.  Courses taken as Major Required Courses or Elective Courses of other MECH Options may not be counted towards this elective requirement.) MECH 3110 3 Materials for Energy Technologies MECH 3400 3 Introduction to Engineering Composite Materials MECH 3420 3 Engineering Materials II MECH 3750 3 Vibration, Control and Programming MECH 4010 3 Materials Failure in Mechanical Applications MECH 4430 3 Materials Characterization MECH 4450 3 Introduction to Finite Element Analysis",
+          "logic": null,
+          "options": []
+        }
+      ]
+    },
+    {
+      "name": "Research Option",
+      "note": "",
+      "groups": [
+        {
+          "subject": "MECH",
+          "minCredits": 6,
+          "maxCredits": 6,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "MECH 4995",
+              "credits": 6,
+              "title": "Research Project"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "trackRequired": false
+}

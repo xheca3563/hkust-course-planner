@@ -1,0 +1,731 @@
+{
+  "programCode": "BIOT",
+  "programName": "BSc in Biotechnology",
+  "intakeYear": "2025-26",
+  "school": "Science",
+  "prerequisites": [
+    {
+      "subject": "LIFS",
+      "minCredits": 0,
+      "maxCredits": 3,
+      "note": "Students with level 3 or above in HKDSE 1x Biology are",
+      "logic": null,
+      "options": [
+        {
+          "code": "LIFS 1901",
+          "credits": 3,
+          "title": "General Biology I"
+        },
+        {
+          "code": "LIFS 1902",
+          "credits": 3,
+          "title": "General Biology II"
+        }
+      ]
+    }
+  ],
+  "required": [
+    {
+      "subject": "LIFS",
+      "minCredits": 0,
+      "maxCredits": 1,
+      "note": "Students with level 3 or above in HKDSE 1x Biology are",
+      "logic": null,
+      "options": [
+        {
+          "code": "LIFS 1903",
+          "credits": 1,
+          "title": "Laboratory for General Biology I"
+        },
+        {
+          "code": "LIFS 1904",
+          "credits": 1,
+          "title": "Laboratory for General Biology II"
+        },
+        {
+          "code": "LIFS 2040",
+          "credits": 3,
+          "title": "Cell Biology"
+        },
+        {
+          "code": "LIFS 2070",
+          "credits": 3,
+          "title": "Introduction to Biotechnology"
+        },
+        {
+          "code": "LIFS 2080",
+          "credits": 3,
+          "title": "Plant Biology"
+        },
+        {
+          "code": "LIFS 2210",
+          "credits": 3,
+          "title": "Biochemistry I"
+        },
+        {
+          "code": "LIFS 2220",
+          "credits": 3,
+          "title": "Biochemistry II"
+        },
+        {
+          "code": "LIFS 3150",
+          "credits": 3,
+          "title": "Biostatistics"
+        }
+      ]
+    },
+    {
+      "subject": "LIFS/SCIE",
+      "minCredits": 3,
+      "maxCredits": 7,
+      "note": "LIFS 4963 OR (LIFS 4973 AND LIFS 4983) OR (SCIE 4500 AND LIFS 4983) (Students following IRE Track can only use (SCIE 4500 AND LIFS 4983) to fulfill the requirement.)",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "LIFS 4963"
+          },
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "course",
+                "code": "LIFS 4973"
+              },
+              {
+                "type": "course",
+                "code": "LIFS 4983"
+              }
+            ]
+          },
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "course",
+                "code": "SCIE 4500"
+              },
+              {
+                "type": "course",
+                "code": "LIFS 4983"
+              }
+            ]
+          },
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "course",
+                "code": "SCIE 4500"
+              },
+              {
+                "type": "course",
+                "code": "LIFS 4983"
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "LIFS 4963",
+          "credits": 3,
+          "title": "Biotechnology Capstone Project"
+        },
+        {
+          "code": "LIFS 4973",
+          "credits": 3,
+          "title": "Biotechnology Project Research I"
+        },
+        {
+          "code": "LIFS 4983",
+          "credits": 4,
+          "title": "Biotechnology Project Research II"
+        },
+        {
+          "code": "SCIE 4500",
+          "credits": 3,
+          "title": "IRE Research Project II"
+        },
+        {
+          "code": "CHEM 1011",
+          "credits": 3,
+          "title": "General Chemistry A: Reactions, Thermodynamics, and"
+        },
+        {
+          "code": "CHEM 1012",
+          "credits": 3,
+          "title": "General Chemistry B: Atomic Structure, Molecules, and Bonding"
+        },
+        {
+          "code": "CHEM 1051",
+          "credits": 1,
+          "title": "Laboratory for General Chemistry A"
+        },
+        {
+          "code": "CHEM 1052",
+          "credits": 1,
+          "title": "Laboratory for General Chemistry B"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "CHEM 2111 OR CHEM 2311",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "CHEM 2111"
+          },
+          {
+            "type": "course",
+            "code": "CHEM 2311"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "CHEM 2111",
+          "credits": 3,
+          "title": "Fundamentals of Organic Chemistry"
+        },
+        {
+          "code": "CHEM 2311",
+          "credits": 3,
+          "title": "Analytical Chemistry"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "CHEM 2155 OR CHEM 2355",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "CHEM 2155"
+          },
+          {
+            "type": "course",
+            "code": "CHEM 2355"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "CHEM 2155",
+          "credits": 1,
+          "title": "Fundamental Organic Chemistry Laboratory"
+        },
+        {
+          "code": "CHEM 2355",
+          "credits": 1,
+          "title": "Fundamental Analytical Chemistry Laboratory"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "COMP 1021 OR COMP 1022P OR COMP 1023",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 1021"
+          },
+          {
+            "type": "course",
+            "code": "COMP 1022P"
+          },
+          {
+            "type": "course",
+            "code": "COMP 1023"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 1021",
+          "credits": 3,
+          "title": "Introduction to Computer Science"
+        },
+        {
+          "code": "COMP 1022P",
+          "credits": 3,
+          "title": "Introduction to Computing with Java"
+        },
+        {
+          "code": "COMP 1023",
+          "credits": 3,
+          "title": "Introduction to Python Programming"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "SSCI",
+      "minCredits": 18,
+      "maxCredits": 18,
+      "note": "SSCI Science Foundation courses [6 courses from the specified",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 1008",
+          "credits": 3,
+          "title": "Introductory Chemistry"
+        },
+        {
+          "code": "CHEM 1011",
+          "credits": 3,
+          "title": "General Chemistry A: Reactions, Thermodynamics, and Reaction"
+        },
+        {
+          "code": "CHEM 1012",
+          "credits": 3,
+          "title": "General Chemistry B: Atomic Structure, Molecules, and Bonding"
+        },
+        {
+          "code": "CHEM 1051",
+          "credits": 1,
+          "title": "Laboratory for General Chemistry A"
+        },
+        {
+          "code": "CHEM 1052",
+          "credits": 1,
+          "title": "Laboratory for General Chemistry B"
+        },
+        {
+          "code": "DASC 2010",
+          "credits": 3,
+          "title": "Calculus for Data Analytics in Science"
+        },
+        {
+          "code": "LIFS 1030",
+          "credits": 3,
+          "title": "Environmental Science"
+        },
+        {
+          "code": "LIFS 1901",
+          "credits": 3,
+          "title": "General Biology I"
+        },
+        {
+          "code": "LIFS 1902",
+          "credits": 3,
+          "title": "General Biology II"
+        },
+        {
+          "code": "LIFS 1903",
+          "credits": 1,
+          "title": "Laboratory for General Biology I"
+        },
+        {
+          "code": "LIFS 1904",
+          "credits": 1,
+          "title": "Laboratory for General Biology II"
+        },
+        {
+          "code": "LIFS 1930",
+          "credits": 3,
+          "title": "Nature of Life Sciences"
+        },
+        {
+          "code": "LIFS 2210",
+          "credits": 3,
+          "title": "Biochemistry I"
+        },
+        {
+          "code": "MATH 1005",
+          "credits": 4,
+          "title": "Calculus and Statistics"
+        },
+        {
+          "code": "MATH 1006",
+          "credits": 4,
+          "title": "Calculus, Vectors, and Matrices"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1014",
+          "credits": 3,
+          "title": "Calculus II"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        },
+        {
+          "code": "MATH 1024",
+          "credits": 3,
+          "title": "Honors Calculus II"
+        },
+        {
+          "code": "MATH 2011",
+          "credits": 3,
+          "title": "Introduction to Multivariable Calculus"
+        },
+        {
+          "code": "MATH 2023",
+          "credits": 4,
+          "title": "Multivariable Calculus"
+        },
+        {
+          "code": "MATH 2111",
+          "credits": 3,
+          "title": "Matrix Algebra and Applications"
+        },
+        {
+          "code": "MATH 2121",
+          "credits": 4,
+          "title": "Linear Algebra"
+        },
+        {
+          "code": "MATH 2131",
+          "credits": 4,
+          "title": "Honors in Linear and Abstract Algebra I"
+        },
+        {
+          "code": "OCES 1001",
+          "credits": 3,
+          "title": "The Earth as a Blue Planet"
+        },
+        {
+          "code": "OCES 1010",
+          "credits": 3,
+          "title": "Principles and Applications of Environmental Science"
+        },
+        {
+          "code": "PHYS 1101",
+          "credits": 4,
+          "title": "Introductory Physics"
+        },
+        {
+          "code": "PHYS 1111",
+          "credits": 3,
+          "title": "General Physics I"
+        },
+        {
+          "code": "PHYS 1112",
+          "credits": 3,
+          "title": "General Physics I with Calculus"
+        },
+        {
+          "code": "PHYS 1113",
+          "credits": 1,
+          "title": "Laboratory for General Physics I"
+        },
+        {
+          "code": "PHYS 1114",
+          "credits": 3,
+          "title": "General Physics II"
+        },
+        {
+          "code": "PHYS 1115",
+          "credits": 1,
+          "title": "Laboratory for General Physics II"
+        },
+        {
+          "code": "PHYS 1312",
+          "credits": 3,
+          "title": "Honors General Physics I"
+        },
+        {
+          "code": "PHYS 1314",
+          "credits": 3,
+          "title": "Honors General Physics II"
+        }
+      ],
+      "noProse": true
+    },
+    {
+      "subject": "SSCI（仅 IRE 方向）",
+      "minCredits": 8,
+      "maxCredits": 9,
+      "note": "Additional Required Courses for IRE Track [SCIE 1500 AND SCIE 2500 AND SCIE 3900 AND LANG 3027 AND (UROP 1000 OR UROP 1100)]",
+      "logic": {
+        "type": "and",
+        "children": [
+          {
+            "type": "course",
+            "code": "SCIE 1500"
+          },
+          {
+            "type": "course",
+            "code": "SCIE 2500"
+          },
+          {
+            "type": "course",
+            "code": "SCIE 3900"
+          },
+          {
+            "type": "course",
+            "code": "LANG 3027"
+          },
+          {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "UROP 1000"
+              },
+              {
+                "type": "course",
+                "code": "UROP 1100"
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "SCIE 1500",
+          "credits": 1,
+          "title": "Guided Study on Research I"
+        },
+        {
+          "code": "SCIE 2500",
+          "credits": 1,
+          "title": "Guided Study on Research II"
+        },
+        {
+          "code": "SCIE 3900",
+          "credits": 3,
+          "title": "International Research Experience"
+        },
+        {
+          "code": "LANG 3027",
+          "credits": 3,
+          "title": "Science Communication in English for Research Students"
+        },
+        {
+          "code": "UROP 1000",
+          "credits": 0,
+          "title": "Undergraduate Research Opportunities"
+        },
+        {
+          "code": "UROP 1100",
+          "credits": 1,
+          "title": "1 Undergraduate Research Opportunities Series"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "SSCI（仅 IRE 方向）",
+      "minCredits": 6,
+      "maxCredits": 6,
+      "note": "Additional Science 2000-level or above Electives for IRE Track (Any 2 courses of the subject and level as specified and approved by advisor)",
+      "logic": null,
+      "options": [],
+      "noProse": false
+    }
+  ],
+  "electives": [],
+  "notes": "",
+  "tracks": [
+    {
+      "name": "Applied Bioscience Track",
+      "note": "",
+      "groups": [
+        {
+          "subject": "LIFS",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "LIFS 3040",
+              "credits": 3,
+              "title": "Animal Physiology"
+            }
+          ]
+        },
+        {
+          "subject": "LIFS",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "LIFS 3060",
+              "credits": 3,
+              "title": "Microbiology"
+            }
+          ]
+        },
+        {
+          "subject": "LIFS",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "LIFS 4370",
+              "credits": 3,
+              "title": "Human Genetics and Personalized Medicine"
+            }
+          ]
+        },
+        {
+          "subject": "LIFS",
+          "minCredits": 9,
+          "maxCredits": null,
+          "note": "Applied Bioscience Elective (3 courses from the specified list) LIFS 2011 3 A Practicum on Wetland Conservation LIFS 3220 3 Animal Physiology Laboratory LIFS 3260 3 Microbiology Laboratory LIFS 3370 3 Human Genetics in Practice LIFS 4882 3 Investigative Pharmacology LIFS 4884 3 Application of RNA Technology to Human Diseases",
+          "logic": null,
+          "options": []
+        }
+      ]
+    },
+    {
+      "name": "Entrepreneurship Track",
+      "note": "",
+      "groups": [
+        {
+          "subject": "LIFS",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "LIFS 2888",
+              "credits": 3,
+              "title": "Introduction to Bioindustries"
+            }
+          ]
+        },
+        {
+          "subject": "LIFS",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "LIFS 3110",
+              "credits": 3,
+              "title": "Biotechnological Application of Recombinant DNA Techniques"
+            }
+          ]
+        },
+        {
+          "subject": "LIFS",
+          "minCredits": 4,
+          "maxCredits": 4,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "LIFS 3140",
+              "credits": 4,
+              "title": "General Genetics"
+            }
+          ]
+        },
+        {
+          "subject": "LIFS",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "LIFS 4200",
+              "credits": 3,
+              "title": "Concepts and Issues in Contemporary Biotechnology"
+            }
+          ]
+        },
+        {
+          "subject": "LIFS",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "LIFS 4630",
+              "credits": 3,
+              "title": "Advanced Topics in Biotechnology"
+            }
+          ]
+        },
+        {
+          "subject": "BIBU",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "BIBU 4820",
+              "credits": 3,
+              "title": "Biotechnology Entrepreneurship and Business Operations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "International Research Enrichment Track",
+      "note": "Students in the IRE Track should also take SCIE 4500 and LIFS 4983 as specified in the major requirements.",
+      "groups": [
+        {
+          "subject": "LIFS",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "LIFS 3070",
+              "credits": 3,
+              "title": "Introduction to Biophysical Instrumentation"
+            }
+          ]
+        },
+        {
+          "subject": "SCIE",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "SCIE 3500",
+              "credits": 3,
+              "title": "IRE Research Project I"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "trackRequired": true
+}

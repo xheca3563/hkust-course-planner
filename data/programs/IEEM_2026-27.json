@@ -1,0 +1,291 @@
+{
+  "programCode": "IEEM",
+  "programName": "BEng in Industrial Engineering and Engineering Management",
+  "intakeYear": "2026-27",
+  "school": "Engineering",
+  "prerequisites": [],
+  "required": [
+    {
+      "subject": "IEDA",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 1010",
+          "credits": 0,
+          "title": "Academic and Professional Development I"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 1020",
+          "credits": 0,
+          "title": "Academic and Professional Development II"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 1901",
+          "credits": 0,
+          "title": "Industrial Training and Experience"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 2010",
+          "credits": 3,
+          "title": "Introduction of Industrial Engineering and Decision Analytics"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 2520",
+          "credits": 3,
+          "title": "Probability for Engineers"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 2540",
+          "credits": 3,
+          "title": "Statistics for Engineers"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 3010",
+          "credits": 3,
+          "title": "Prescriptive Analytics"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 3230",
+          "credits": 3,
+          "title": "Engineering Economics and Accounting"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 3250",
+          "credits": 3,
+          "title": "Stochastic Models"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 3300",
+          "credits": 3,
+          "title": "Industrial Data Systems"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 4100",
+          "credits": 3,
+          "title": "Integrated Production Systems"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "IEDA 4130",
+          "credits": 3,
+          "title": "System Simulation"
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "minCredits": 6,
+      "maxCredits": 6,
+      "note": "IEDA 4901 OR IEDA 4960 (Students taking the Research Option must take IEDA 4901)",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "IEDA 4901"
+          },
+          {
+            "type": "course",
+            "code": "IEDA 4960"
+          },
+          {
+            "type": "course",
+            "code": "IEDA 4901"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "IEDA 4901",
+          "credits": 6,
+          "title": "Final Year Thesis"
+        },
+        {
+          "code": "IEDA 4960",
+          "credits": 6,
+          "title": "Industrial Engineering and Engineering Management Final Year Project"
+        }
+      ]
+    },
+    {
+      "subject": "ECON",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "ECON 2103 OR ECON 2113",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "ECON 2103"
+          },
+          {
+            "type": "course",
+            "code": "ECON 2113"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "ECON 2103",
+          "credits": 3,
+          "title": "Principles of Microeconomics"
+        },
+        {
+          "code": "ECON 2113",
+          "credits": 3,
+          "title": "Microeconomics"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [],
+  "electives": [
+    {
+      "subject": "IEDA",
+      "minCredits": 21,
+      "maxCredits": null,
+      "freeForm": "Industrial Engineering Electives (Courses from the specified elective list) IEDA 2100 3 Computing in Industrial Applications IEDA 2410 3 Introduction to Modern Logistics IEDA 3130 3 Ergonomics and Safety Management IEDA 3270 3 Data-Driven Quality Technology IEDA 3302 3 E-Commerce Technology and Applications IEDA 3410 3 Routing and Fleet Management IEDA 3460 3 Demand and Supply Analytics IEDA 3901** 3 Transportation Systems IEDA 4000 1-3 Special Topics IEDA 4180 3 Service Engineering and Management IEDA 4200 3 Design of Logistics and Manufacturing Systems IEDA 4410 3 Data Driven Supply Chain Management",
+      "areas": []
+    }
+  ],
+  "notes": "- IEDA 3180: The course was last offered in 2024-25 and was deleted subsequently.\n- IEDA 3901: The course was last offered in 2021-22 and was deleted subsequently.\n- RMBI 4210: The course was last offered in 2021-22 and was deleted subsequently.\n2026-27 IEEM (4Y) (2026-27 intake) Page 3",
+  "tracks": [
+    {
+      "name": "Financial Engineering Option",
+      "note": "Students with CGA of 3.0 or above may apply for enrollment in the Financial Engineering Option.",
+      "groups": [
+        {
+          "subject": "IEDA",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "IEDA 3330",
+              "credits": 3,
+              "title": "Introduction to Financial Engineering"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Research Option",
+      "note": "Students in the Research Option should also take IEDA 4901 as specified in the major requirements.",
+      "groups": [
+        {
+          "subject": "IEDA",
+          "minCredits": 6,
+          "maxCredits": null,
+          "note": "IEEM Advanced Electives (2 courses from the specified elective list.  Students should seek approval of their advisor for the choices of courses.) IEDA 4900 3 Independent Study in Industrial Engineering and Decision Analytics IEDA 5170 3 Advanced Production Planning and Control IEDA 5230 3 Deterministic Models in Operations Research",
+          "logic": null,
+          "options": []
+        }
+      ]
+    }
+  ],
+  "trackRequired": false
+}

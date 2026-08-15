@@ -1,0 +1,310 @@
+{
+  "programCode": "RMBI",
+  "programName": "BSc in Risk Management and Business Intelligence",
+  "intakeYear": "2026-27",
+  "school": "Business and Management",
+  "prerequisites": [],
+  "required": [
+    {
+      "subject": "ISOM/MATH",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "ISOM 3540 OR MATH 2421",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "ISOM 3540"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2421"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "ISOM 3540",
+          "credits": 3,
+          "title": "Introduction to Probability Models"
+        },
+        {
+          "code": "MATH 2421",
+          "credits": 4,
+          "title": "Probability"
+        }
+      ]
+    },
+    {
+      "subject": "ISOM",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISOM 3710",
+          "credits": 4,
+          "title": "Business Modeling and Optimization"
+        }
+      ]
+    },
+    {
+      "subject": "ISOM",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISOM 4520",
+          "credits": 4,
+          "title": "Statistics for Financial Risk Management"
+        }
+      ]
+    },
+    {
+      "subject": "MGMT",
+      "minCredits": 2,
+      "maxCredits": 2,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MGMT 2130",
+          "credits": 2,
+          "title": "Business Ethics and Social Responsibility"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "COMP 1023",
+          "credits": 3,
+          "title": "Introduction to Python Programming"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 6,
+      "note": "[(MATH 1003 OR MATH 1013 OR MATH 1023) AND (MATH 1014 OR MATH 1024)] OR [MATH 1020]",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1003"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1013"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1023"
+                  }
+                ]
+              },
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1014"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1024"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "course",
+            "code": "MATH 1020"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 1003",
+          "credits": 3,
+          "title": "Calculus and Linear Algebra"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1014",
+          "credits": 3,
+          "title": "Calculus II"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        },
+        {
+          "code": "MATH 1024",
+          "credits": 3,
+          "title": "Honors Calculus II"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "MATH 2011 OR MATH 2023",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 2011"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2023"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 2011",
+          "credits": 3,
+          "title": "Introduction to Multivariable Calculus"
+        },
+        {
+          "code": "MATH 2023",
+          "credits": 4,
+          "title": "Multivariable Calculus"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "MATH 2111 OR MATH 2121",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 2111"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2121"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 2111",
+          "credits": 3,
+          "title": "Matrix Algebra and Applications"
+        },
+        {
+          "code": "MATH 2121",
+          "credits": 4,
+          "title": "Linear Algebra"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MATH 2411",
+          "credits": 4,
+          "title": "Applied Statistics"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [],
+  "electives": [],
+  "notes": "",
+  "tracks": [
+    {
+      "name": "Financial Technology Option",
+      "note": "",
+      "groups": [
+        {
+          "subject": "ISOM/IEDA",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "ISOM 3350 OR IEDA 4500",
+          "logic": {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "ISOM 3350"
+              },
+              {
+                "type": "course",
+                "code": "IEDA 4500"
+              }
+            ]
+          },
+          "options": [
+            {
+              "code": "ISOM 3350",
+              "credits": 3,
+              "title": "FinTech and Cryptoventures"
+            },
+            {
+              "code": "IEDA 4500",
+              "credits": 3,
+              "title": "Engineering Foundations of FinTech"
+            }
+          ]
+        },
+        {
+          "subject": "RMBI/FINA/ISOM/COMP/MATH",
+          "minCredits": 6,
+          "maxCredits": null,
+          "note": "Financial Technology Electives (Courses from the specified elective list.  Courses taken as Major Electives may not be counted toward this requirement) RMBI 4220 3 Life Contingencies Models and Insurance Risk FINA 4713 3 Introduction to Artificial Intelligence and Big Data in Finance ISOM 3000B 3 Blockchain Entrepreneurship for Social Impact ISOM 3270 3 Blockchain Programming in Business Applications ISOM 3350 3 FinTech and Cryptoventures ISOM 4020 3 Innovation Management and Technology Entrepreneurship ISOM 4200 3 Information and Cyber Security Management ISOM 4530 4 Statistical Analysis of Financial Data in R/S-plus ISOM 4860 3 Decision and Data Analytics in Financial Markets COMP 2711 4 Discrete Mathematical Tools for Computer Science COMP 3211 3 Learning, Reasoning, and Decision Making in AI COMP 3631 3 Cryptography COMP 4221 3 Introduction to Natural Language Processing COMP 4632 3 Practicing Cybersecurity: Attacks and Counter-measures COMP 4634 3 Cybersecurity COMP 4911 3 IT Entrepreneurship MATH 4514 3 Financial Economics in Actuarial Science",
+          "logic": null,
+          "options": []
+        }
+      ]
+    }
+  ],
+  "trackRequired": false,
+  "schools": [
+    "Business and Management",
+    "Science"
+  ],
+  "schoolRequirementsExempt": true
+}

@@ -1,0 +1,1297 @@
+{
+  "programCode": "PHYS",
+  "programName": "BSc in Physics",
+  "intakeYear": "2024-25",
+  "school": "Science",
+  "prerequisites": [
+    {
+      "subject": "PHYS",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "PHYS 1111 OR PHYS 1112 OR PHYS 1312 (Students",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "PHYS 1111"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 1112"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 1312"
+          },
+          {
+            "type": "or",
+            "children": []
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "PHYS 1111",
+          "credits": 3,
+          "title": "General Physics I"
+        },
+        {
+          "code": "PHYS 1112",
+          "credits": 3,
+          "title": "General Physics I with Calculus"
+        },
+        {
+          "code": "PHYS 1312",
+          "credits": 3,
+          "title": "Honors General Physics I"
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "PHYS 1114 OR PHYS 1314 (Students taking IRE Track can only use PHYS 1314 to fulfill the requirement.)",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "PHYS 1114"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 1314"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 1314"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "PHYS 1114",
+          "credits": 3,
+          "title": "General Physics II"
+        },
+        {
+          "code": "PHYS 1314",
+          "credits": 3,
+          "title": "Honors General Physics II"
+        }
+      ]
+    }
+  ],
+  "required": [
+    {
+      "subject": "PHYS",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "PHYS 1113",
+          "credits": 1,
+          "title": "Laboratory for General Physics I"
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "PHYS 1115",
+          "credits": 1,
+          "title": "Laboratory for General Physics II"
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "PHYS 2022",
+          "credits": 3,
+          "title": "Modern Physics"
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "PHYS 2023",
+          "credits": 1,
+          "title": "Modern Physics Laboratory"
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "PHYS 2080",
+          "credits": 1,
+          "title": "Physics Seminar and Tutorial I"
+        }
+      ]
+    },
+    {
+      "subject": "PHYS/MATH",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "PHYS 2124 OR MATH 2352 (Students taking the Physics",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "PHYS 2124"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2352"
+          },
+          {
+            "type": "or",
+            "children": []
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "PHYS 2124",
+          "credits": 3,
+          "title": "Mathematical Methods in Physics I"
+        },
+        {
+          "code": "MATH 2352",
+          "credits": 4,
+          "title": "Differential Equations"
+        },
+        {
+          "code": "PHYS 3032",
+          "credits": 3,
+          "title": "Classical Mechanics"
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "PHYS 3033 OR PHYS 3053 (Students taking IRE Track or",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "PHYS 3033"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 3053"
+          },
+          {
+            "type": "or",
+            "children": []
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "PHYS 3033",
+          "credits": 3,
+          "title": "Electricity and Magnetism I"
+        },
+        {
+          "code": "PHYS 3053",
+          "credits": 4,
+          "title": "Honors Electricity and Magnetism I"
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "PHYS 3036 OR PHYS 3037 (Students taking IRE Track or",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "PHYS 3036"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 3037"
+          },
+          {
+            "type": "or",
+            "children": []
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "PHYS 3036",
+          "credits": 3,
+          "title": "Quantum Mechanics I"
+        },
+        {
+          "code": "PHYS 3037",
+          "credits": 4,
+          "title": "Honors Quantum Mechanics I"
+        }
+      ]
+    },
+    {
+      "subject": "PHYS/MATH",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "PHYS 3142 OR MATH 3312 (Students taking the Physics",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "PHYS 3142"
+          },
+          {
+            "type": "course",
+            "code": "MATH 3312"
+          },
+          {
+            "type": "or",
+            "children": []
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "PHYS 3142",
+          "credits": 3,
+          "title": "Computational Methods in Physics"
+        },
+        {
+          "code": "MATH 3312",
+          "credits": 3,
+          "title": "Numerical Analysis"
+        },
+        {
+          "code": "PHYS 3152",
+          "credits": 3,
+          "title": "Methods of Experimental Physics I"
+        },
+        {
+          "code": "PHYS 3153",
+          "credits": 3,
+          "title": "Methods of Experimental Physics II"
+        },
+        {
+          "code": "PHYS 4050",
+          "credits": 3,
+          "title": "Thermodynamics and Statistical Physics"
+        },
+        {
+          "code": "PHYS 4080",
+          "credits": 1,
+          "title": "Physics Seminar and Tutorial II"
+        }
+      ]
+    },
+    {
+      "subject": "PHYS/SCIE",
+      "minCredits": 4,
+      "maxCredits": 6,
+      "note": "PHYS 4191 OR PHYS 4291 OR (SCIE 3500 AND SCIE 4500)  (Students taking IRE Track can only use (SCIE 3500 AND SCIE 4500) to fulfill the requirement; those taking Honors",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "PHYS 4191"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 4291"
+          },
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "course",
+                "code": "SCIE 3500"
+              },
+              {
+                "type": "course",
+                "code": "SCIE 4500"
+              }
+            ]
+          },
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "course",
+                "code": "SCIE 3500"
+              },
+              {
+                "type": "course",
+                "code": "SCIE 4500"
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "PHYS 4191",
+          "credits": 4,
+          "title": "Capstone Project"
+        },
+        {
+          "code": "PHYS 4291",
+          "credits": 6,
+          "title": "Capstone Research"
+        },
+        {
+          "code": "SCIE 3500",
+          "credits": 3,
+          "title": "IRE Research Project I"
+        },
+        {
+          "code": "SCIE 4500",
+          "credits": 3,
+          "title": "IRE Research Project II"
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
+      "minCredits": 2,
+      "maxCredits": 2,
+      "note": "PHYS 4811 OR PHYS 4812 OR PHYS 4813 OR PHYS 4814 OR PHYS 4815 (2 courses out of 5)",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "PHYS 4811"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 4812"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 4813"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 4814"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 4815"
+          },
+          {
+            "type": "or",
+            "children": []
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "PHYS 4811",
+          "credits": 1,
+          "title": "Contemporary Applications of Physics: Machine Learning in Physics"
+        },
+        {
+          "code": "PHYS 4812",
+          "credits": 1,
+          "title": "Contemporary Applications of Physics: Quantum Information"
+        },
+        {
+          "code": "PHYS 4813",
+          "credits": 1,
+          "title": "Contemporary Applications of Physics: Atmospheric Physics - Making"
+        },
+        {
+          "code": "PHYS 4814",
+          "credits": 1,
+          "title": "Contemporary Applications of Physics: Medical Physics"
+        },
+        {
+          "code": "PHYS 4815",
+          "credits": 1,
+          "title": "Contemporary Applications of Physics: Physics of Radiation Therapy"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 7,
+      "note": "[(MATH 1012 OR MATH 1013 OR MATH 1023) AND (MATH 1014 OR MATH 1024)] OR [MATH 1020]",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1012"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1013"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1023"
+                  }
+                ]
+              },
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1014"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1024"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "course",
+            "code": "MATH 1020"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 1012",
+          "credits": 4,
+          "title": "Calculus IA"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1014",
+          "credits": 3,
+          "title": "Calculus II"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        },
+        {
+          "code": "MATH 1024",
+          "credits": 3,
+          "title": "Honors Calculus II"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "MATH 2011 OR MATH 2023 (Students in Honors Physics only use MATH 2023 to fulfill the requirement)",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 2011"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2023"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2023"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 2011",
+          "credits": 3,
+          "title": "Introduction to Multivariable Calculus"
+        },
+        {
+          "code": "MATH 2023",
+          "credits": 4,
+          "title": "Multivariable Calculus"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "MATH 2111 OR MATH 2121 OR MATH 2131 (Students in IRE Track can only use MATH 2121 OR MATH 2131 to fulfill the",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 2111"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2121"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2131"
+          },
+          {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "MATH 2121"
+              },
+              {
+                "type": "course",
+                "code": "MATH 2131"
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 2111",
+          "credits": 3,
+          "title": "Matrix Algebra and Applications"
+        },
+        {
+          "code": "MATH 2121",
+          "credits": 4,
+          "title": "Linear Algebra"
+        },
+        {
+          "code": "MATH 2131",
+          "credits": 4,
+          "title": "Honors in Linear and Abstract Algebra I"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "COMP 1021 OR COMP 1022P OR COMP 1023",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 1021"
+          },
+          {
+            "type": "course",
+            "code": "COMP 1022P"
+          },
+          {
+            "type": "course",
+            "code": "COMP 1023"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 1021",
+          "credits": 3,
+          "title": "Introduction to Computer Science"
+        },
+        {
+          "code": "COMP 1022P",
+          "credits": 3,
+          "title": "Introduction to Computing with Java"
+        },
+        {
+          "code": "COMP 1023",
+          "credits": 3,
+          "title": "Introduction to Python Programming"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "SSCI",
+      "minCredits": 24,
+      "maxCredits": 24,
+      "note": "SSCI Science Foundation courses [8 courses from the specified",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 1008",
+          "credits": 3,
+          "title": "Introductory Chemistry"
+        },
+        {
+          "code": "CHEM 1011",
+          "credits": 3,
+          "title": "General Chemistry A: Reactions, Thermodynamics, and Reaction"
+        },
+        {
+          "code": "CHEM 1012",
+          "credits": 3,
+          "title": "General Chemistry B: Atomic Structure, Molecules, and Bonding"
+        },
+        {
+          "code": "CHEM 1051",
+          "credits": 1,
+          "title": "Laboratory for General Chemistry A"
+        },
+        {
+          "code": "CHEM 1052",
+          "credits": 1,
+          "title": "Laboratory for General Chemistry B"
+        },
+        {
+          "code": "DASC 2010",
+          "credits": 3,
+          "title": "Calculus for Data Analytics in Science"
+        },
+        {
+          "code": "LIFS 1030",
+          "credits": 3,
+          "title": "Environmental Science"
+        },
+        {
+          "code": "LIFS 1901",
+          "credits": 3,
+          "title": "General Biology I"
+        },
+        {
+          "code": "LIFS 1902",
+          "credits": 3,
+          "title": "General Biology II"
+        },
+        {
+          "code": "LIFS 1903",
+          "credits": 1,
+          "title": "Laboratory for General Biology I"
+        },
+        {
+          "code": "LIFS 1904",
+          "credits": 1,
+          "title": "Laboratory for General Biology II"
+        },
+        {
+          "code": "LIFS 1930",
+          "credits": 3,
+          "title": "Nature of Life Sciences"
+        },
+        {
+          "code": "LIFS 2210",
+          "credits": 3,
+          "title": "Biochemistry I"
+        },
+        {
+          "code": "MATH 1012",
+          "credits": 4,
+          "title": "Calculus IA"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1014",
+          "credits": 3,
+          "title": "Calculus II"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        },
+        {
+          "code": "MATH 1024",
+          "credits": 3,
+          "title": "Honors Calculus II"
+        },
+        {
+          "code": "MATH 2011",
+          "credits": 3,
+          "title": "Introduction to Multivariable Calculus"
+        },
+        {
+          "code": "MATH 2023",
+          "credits": 4,
+          "title": "Multivariable Calculus"
+        },
+        {
+          "code": "MATH 2111",
+          "credits": 3,
+          "title": "Matrix Algebra and Applications"
+        },
+        {
+          "code": "MATH 2121",
+          "credits": 4,
+          "title": "Linear Algebra"
+        },
+        {
+          "code": "MATH 2131",
+          "credits": 4,
+          "title": "Honors in Linear and Abstract Algebra I"
+        },
+        {
+          "code": "OCES 1001",
+          "credits": 3,
+          "title": "The Earth as a Blue Planet"
+        },
+        {
+          "code": "OCES 1010",
+          "credits": 3,
+          "title": "Principles and Applications of Environmental Science"
+        },
+        {
+          "code": "PHYS 1101",
+          "credits": 4,
+          "title": "Introductory Physics"
+        },
+        {
+          "code": "PHYS 1111",
+          "credits": 3,
+          "title": "General Physics I"
+        },
+        {
+          "code": "PHYS 1112",
+          "credits": 3,
+          "title": "General Physics I with Calculus"
+        },
+        {
+          "code": "PHYS 1113",
+          "credits": 1,
+          "title": "Laboratory for General Physics I"
+        },
+        {
+          "code": "PHYS 1114",
+          "credits": 3,
+          "title": "General Physics II"
+        },
+        {
+          "code": "PHYS 1115",
+          "credits": 1,
+          "title": "Laboratory for General Physics II"
+        },
+        {
+          "code": "PHYS 1312",
+          "credits": 3,
+          "title": "Honors General Physics I"
+        },
+        {
+          "code": "PHYS 1314",
+          "credits": 3,
+          "title": "Honors General Physics II"
+        }
+      ],
+      "noProse": true
+    },
+    {
+      "subject": "SSCI（仅 IRE 方向）",
+      "minCredits": 8,
+      "maxCredits": 9,
+      "note": "Additional Required Courses for IRE Track [SCIE 1500 AND SCIE 2500 AND SCIE 3900 AND LANG 3027 AND (UROP 1000 OR UROP 1100)]",
+      "logic": {
+        "type": "and",
+        "children": [
+          {
+            "type": "course",
+            "code": "SCIE 1500"
+          },
+          {
+            "type": "course",
+            "code": "SCIE 2500"
+          },
+          {
+            "type": "course",
+            "code": "SCIE 3900"
+          },
+          {
+            "type": "course",
+            "code": "LANG 3027"
+          },
+          {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "UROP 1000"
+              },
+              {
+                "type": "course",
+                "code": "UROP 1100"
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "SCIE 1500",
+          "credits": 1,
+          "title": "Guided Study on Research I"
+        },
+        {
+          "code": "SCIE 2500",
+          "credits": 1,
+          "title": "Guided Study on Research II"
+        },
+        {
+          "code": "SCIE 3900",
+          "credits": 3,
+          "title": "International Research Experience"
+        },
+        {
+          "code": "LANG 3027",
+          "credits": 3,
+          "title": "Science Communication in English for Research Students"
+        },
+        {
+          "code": "UROP 1000",
+          "credits": 0,
+          "title": "Undergraduate Research Opportunities"
+        },
+        {
+          "code": "UROP 1100",
+          "credits": 1,
+          "title": "1 Undergraduate Research Opportunities Series"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "SSCI（仅 IRE 方向）",
+      "minCredits": 6,
+      "maxCredits": 6,
+      "note": "Additional Science 2000-level or above Electives for IRE Track (Any 2 courses of the subject and level as specified and approved by advisor)",
+      "logic": null,
+      "options": [],
+      "noProse": false
+    }
+  ],
+  "electives": [],
+  "notes": "- MATH 1012: The course was last offered in 2024-25 and was deleted subsequently.\n- PHYS 4813: The course was last offered in 2021-22 and was deleted subsequently.\n2026-27 PHYS (4Y) (2024-25 intake) Page 5",
+  "tracks": [
+    {
+      "name": "International Research Enrichment Track",
+      "note": "Students in the IRE Track should also take PHYS 3053, PHYS 3037, SCIE 3500, and SCIE 4500 as specified in the major requirements.  Subject to approval of the program office, students may reuse MATH 4023, MATH 4052, and/or PHYS 3034 to count towards the requirements of Physics and Mathematics Option.",
+      "groups": [
+        {
+          "subject": "PHYS/MATH",
+          "minCredits": 3,
+          "maxCredits": 6,
+          "note": "PHYS 3031 OR (MATH 4023 AND MATH 4052)",
+          "logic": {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "PHYS 3031"
+              },
+              {
+                "type": "and",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 4023"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 4052"
+                  }
+                ]
+              }
+            ]
+          },
+          "options": [
+            {
+              "code": "PHYS 3031",
+              "credits": 3,
+              "title": "Mathematical Methods in Physics II"
+            },
+            {
+              "code": "MATH 4023",
+              "credits": 3,
+              "title": "Complex Analysis"
+            },
+            {
+              "code": "MATH 4052",
+              "credits": 3,
+              "title": "Partial Differential Equations"
+            }
+          ]
+        },
+        {
+          "subject": "PHYS",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "PHYS 3034",
+              "credits": 3,
+              "title": "Electricity and Magnetism II"
+            }
+          ]
+        },
+        {
+          "subject": "PHYS",
+          "minCredits": 1,
+          "maxCredits": 1,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "PHYS 3090",
+              "credits": 1,
+              "title": "Directed Studies in Physics II"
+            }
+          ]
+        },
+        {
+          "subject": "PHYS",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "PHYS 4051",
+              "credits": 3,
+              "title": "Quantum Mechanics II"
+            }
+          ]
+        },
+        {
+          "subject": "PHYS",
+          "minCredits": 3,
+          "maxCredits": null,
+          "note": "Physics Electives [Course(s) from the specified elective list] PHYS Any PHYS courses at 3000-level or above PHYS 2010 3 Introductory Biological Physics PHYS 2021 3 Black Holes and the Early Universe PHYS 2090 1 Directed Studies in Physics I",
+          "logic": null,
+          "options": []
+        }
+      ]
+    },
+    {
+      "name": "Computational Physics with Artificial Intelligence Option",
+      "note": "Students in the Computational Physics with Artificial Intelligence Option should also take COMP 1021 or COMP 1023 as specified in the School Requirements, and PHYS 3142 as specified in the Major Requirements respectively. Students who opt for COMP 1021 should take a bridging course COMP 1028 to meet the course pre-requisite for PHYS 3243 and PHYS 3245.",
+      "groups": [
+        {
+          "subject": "PHYS",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "PHYS 3243",
+              "credits": 3,
+              "title": "Probability and Statistics for Data Analysis in Physics"
+            }
+          ]
+        },
+        {
+          "subject": "PHYS",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "PHYS 3245",
+              "credits": 3,
+              "title": "Foundations of Machine Learning in Physics"
+            }
+          ]
+        },
+        {
+          "subject": "PHYS",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "PHYS 4245",
+              "credits": 3,
+              "title": "Deep Learning for Physics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Honors Physics Option",
+      "note": "Students in the Honors Physics Option should also take PHYS 3053, PHYS 3037, and PHYS 4291 as specified in the major requirements.",
+      "groups": [
+        {
+          "subject": "PHYS/MATH",
+          "minCredits": 3,
+          "maxCredits": 6,
+          "note": "PHYS 3031 OR (MATH 4023 AND MATH 4052)",
+          "logic": {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "PHYS 3031"
+              },
+              {
+                "type": "and",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 4023"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 4052"
+                  }
+                ]
+              }
+            ]
+          },
+          "options": [
+            {
+              "code": "PHYS 3031",
+              "credits": 3,
+              "title": "Mathematical Methods in Physics II"
+            },
+            {
+              "code": "MATH 4023",
+              "credits": 3,
+              "title": "Complex Analysis"
+            },
+            {
+              "code": "MATH 4052",
+              "credits": 3,
+              "title": "Partial Differential Equations"
+            }
+          ]
+        },
+        {
+          "subject": "PHYS",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "PHYS 3034",
+              "credits": 3,
+              "title": "Electricity and Magnetism II"
+            }
+          ]
+        },
+        {
+          "subject": "PHYS",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "PHYS 4051",
+              "credits": 3,
+              "title": "Quantum Mechanics II"
+            }
+          ]
+        },
+        {
+          "subject": "PHYS",
+          "minCredits": 3,
+          "maxCredits": null,
+          "note": "Physics Electives [Course(s) from the specified elective list] PHYS Any PHYS courses at 3000-level or above PHYS 2010 3 Introductory Biological Physics PHYS 2021 3 Black Holes and the Early Universe PHYS 2090 1 Directed Studies in Physics I",
+          "logic": null,
+          "options": []
+        }
+      ]
+    },
+    {
+      "name": "Physics and Mathematics Option",
+      "note": "",
+      "groups": [
+        {
+          "subject": "PHYS",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "PHYS 3034 OR PHYS 4051",
+          "logic": {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "PHYS 3034"
+              },
+              {
+                "type": "course",
+                "code": "PHYS 4051"
+              }
+            ]
+          },
+          "options": [
+            {
+              "code": "PHYS 3034",
+              "credits": 3,
+              "title": "Electricity and Magnetism II"
+            },
+            {
+              "code": "PHYS 4051",
+              "credits": 3,
+              "title": "Quantum Mechanics II"
+            }
+          ]
+        },
+        {
+          "subject": "MATH",
+          "minCredits": 4,
+          "maxCredits": 4,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "MATH 2033",
+              "credits": 4,
+              "title": "Mathematical Analysis"
+            }
+          ]
+        },
+        {
+          "subject": "MATH",
+          "minCredits": 3,
+          "maxCredits": 4,
+          "note": "MATH 3033 OR MATH 3121 OR MATH 3131 OR MATH 4223",
+          "logic": {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "MATH 3033"
+              },
+              {
+                "type": "course",
+                "code": "MATH 3121"
+              },
+              {
+                "type": "course",
+                "code": "MATH 3131"
+              },
+              {
+                "type": "course",
+                "code": "MATH 4223"
+              }
+            ]
+          },
+          "options": [
+            {
+              "code": "MATH 3033",
+              "credits": 4,
+              "title": "Real Analysis"
+            },
+            {
+              "code": "MATH 3121",
+              "credits": 3,
+              "title": "Abstract Algebra"
+            },
+            {
+              "code": "MATH 3131",
+              "credits": 4,
+              "title": "Honors in Linear and Abstract Algebra II"
+            },
+            {
+              "code": "MATH 4223",
+              "credits": 3,
+              "title": "Differential Geometry"
+            }
+          ]
+        },
+        {
+          "subject": "MATH",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "MATH 4023",
+              "credits": 3,
+              "title": "Complex Analysis"
+            }
+          ]
+        },
+        {
+          "subject": "MATH",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "MATH 4052",
+              "credits": 3,
+              "title": "Partial Differential Equations"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "trackRequired": false
+}

@@ -1,0 +1,344 @@
+{
+  "programCode": "GCS",
+  "programName": "BSc in Global China Studies",
+  "intakeYear": "2023-24",
+  "school": "Humanities and Social Science",
+  "prerequisites": [],
+  "required": [
+    {
+      "subject": "HUMA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "HUMA 1440",
+          "credits": 3,
+          "title": "Modern China"
+        }
+      ]
+    },
+    {
+      "subject": "HUMA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "HUMA 2590",
+          "credits": 3,
+          "title": "The Making of the Modern World: Renaissance to the Present"
+        }
+      ]
+    },
+    {
+      "subject": "SOSC",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "SOSC 1350",
+          "credits": 3,
+          "title": "Contemporary China: Continuity and Change"
+        }
+      ]
+    },
+    {
+      "subject": "SOSC",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "SOSC 2290",
+          "credits": 3,
+          "title": "Understanding Globalization"
+        }
+      ]
+    },
+    {
+      "subject": "SHSS",
+      "minCredits": 3,
+      "maxCredits": 6,
+      "note": "SHSS 4991 OR SHSS 4992 OR (SHSS 4991 AND SHSS should take SHSS 4992 OR (SHSS 4991 AND SHSS 4993)]",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "SHSS 4991"
+          },
+          {
+            "type": "course",
+            "code": "SHSS 4992"
+          },
+          {
+            "type": "or",
+            "children": [
+              {
+                "type": "and",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "SHSS 4991"
+                  },
+                  {
+                    "type": "course",
+                    "code": "SHSS 4992"
+                  }
+                ]
+              },
+              {
+                "type": "and",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "SHSS 4991"
+                  },
+                  {
+                    "type": "course",
+                    "code": "SHSS 4993"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "SHSS 4991",
+          "credits": 3,
+          "title": "Capstone Project"
+        },
+        {
+          "code": "SHSS 4992",
+          "credits": 6,
+          "title": "Honors Thesis"
+        },
+        {
+          "code": "SHSS 4993",
+          "credits": 3,
+          "title": "Honors Research"
+        }
+      ]
+    },
+    {
+      "subject": "LANG",
+      "minCredits": 9,
+      "maxCredits": 9,
+      "note": "Language Enhancement Courses.  Students should take",
+      "logic": null,
+      "options": [
+        {
+          "code": "LANG 2070",
+          "credits": 3,
+          "title": "English Communication for Humanities and Social Science Studies I"
+        },
+        {
+          "code": "LANG 2170",
+          "credits": 3,
+          "title": "Chinese Communication Skills for Humanities & Social Science Studies"
+        },
+        {
+          "code": "LANG 3070",
+          "credits": 3,
+          "title": "English Communication for Humanities and Social Science Studies II"
+        },
+        {
+          "code": "LANG 4070",
+          "credits": 1,
+          "title": "Academic Writing in Context - Global China Studies"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [],
+  "electives": [],
+  "notes": "- HUMA 1020: The course was last offered in 2020-21 and was deleted subsequently.\n- HUMA 1620: The course was last offered in 2018-19 and was deleted subsequently.\n- HUMA 1630: The course was last offered in 2020-21 and was deleted subsequently.\n- SOSC 1130: The course was last offered in 2018-19 and was deleted subsequently.\n- SOSC 1150: The course was last offered in 2020-21 and was deleted subsequently.\n- SOSC 1661: The course was last offered in 2020-21 and was deleted subsequently.\n- SOSC 2170: The course was last offered in 2018-19 and was deleted subsequently.\n- SOSC 2780: The course was last offered in 2018-19 and was deleted subsequently.\n- SOSC 3260: The course was last offered in 2019-20 and was deleted subsequently.\n- SOSC 3410: The course was last offered in 2019-20 and was deleted subsequently.\n- SOSC 3530: The course was last offered in 2020-21 and was deleted subsequently.\n- SOSC 4270: The course was last offered in 2019-20 and was deleted subsequently.\n- SOSC 4290: The course was last offered in 2023-24 and was deleted subsequently.\n2026-27 GCS (4Y) (2023-24 intake) Page 9",
+  "tracks": [
+    {
+      "name": "Integrated Humanities and Social Science Track",
+      "note": "",
+      "groups": [
+        {
+          "subject": "HUMA",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "HUMA 2400",
+              "credits": 3,
+              "title": "Approaches to Humanities in China Studies"
+            }
+          ]
+        },
+        {
+          "subject": "SOSC",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "SOSC 2140",
+              "credits": 3,
+              "title": "Research Methods in the Social Sciences"
+            }
+          ]
+        },
+        {
+          "subject": "HUMA/SOSC",
+          "minCredits": 18,
+          "maxCredits": null,
+          "note": "HUMA/SOSC Restricted Electives (6 courses, which should include three 3000-level courses & three 4000-level courses taken from at least 3 different areas, from the specified elective list.) Area: Environment, Economy & Globalization SOSC 3120 3 Economic Development SOSC 3260** 3 Sustainability Science: Policy Problems and Perspectives SOSC 3410** 3 East Asian Economic Development SOSC 3540 3 Environmental Psychology SOSC 4260 3 China's Economic Transformation SOSC 4280 3 China in the Global Political Economy SOSC 4290** 3 China's Sustainable Development Area: Heritage, Community & Identity HUMA 3630 3 Community and Cultural Identity HUMA 3900 3 Philosophical Inquiry into the Modern World HUMA 4610 3 Heritage in Cross-cultural Perspective HUMA 4700 3 Confucianism in a Global Context HUMA 4801 3 Classical Chinese Philosophy Area: Political & Social Change SOSC 3520 3 Understanding Comparative Politics SOSC 3530** 3 Social Movements and Contentious Politics SOSC 3630 3 Democracy and Democratization around the World SOSC 3880 3 Social Inequality and Social Mobility SOSC 4270** 3 Social Change in Contemporary China SOSC 4310 3 Chinese Capitalism: Historical and Comparative Perspectives SOSC 4600 3 Understanding Chinese Politics Area: Literature, Communication & Media HUMA 3030 3 Language, Communication and Culture HUMA 3201 3 Animation: A Global Perspective HUMA 4020 3 Language and Literature in Modern China HUMA 4220 3 Verbal and Visual Representation of China HUMA 4221 3 Chinese Classics and Their Reworking in Various Media Around the Globe HUMA/SOSC/ SHSS",
+          "logic": null,
+          "options": []
+        },
+        {
+          "subject": "HUMA/SOSC/SHSS",
+          "minCredits": 24,
+          "maxCredits": 27,
+          "note": "HUMA/SOSC/SHSS Electives [Students opting for SHSS 4992 OR (SHSS 4991 AND SHSS 4993) are required to take a minimum total of 8 courses (24 credits), out of which 2 must be at 3000-/4000- level; students opting for SHSS 4991 are required to take a minimum total of 9 courses (27 credits), out of which 3 must be at 3000-/4000- level.] Students in the Integrated Humanities and Social Science Track with CGA of 3.3 or above may apply for enrollment in the Applied Economics Research Option.  In addition, they should take Honors Thesis or Honors Research with a primary focus in applied economics to complete the requirement of SHSS 4992 OR (SHSS 4991 AND SHSS 4993) as specified in the Major Requirements. Students may opt to graduate with or without an option.  Students who take an option MUST complete all requirements specified in addition to the major requirements.",
+          "logic": null,
+          "options": []
+        }
+      ]
+    },
+    {
+      "name": "Applied Economics Research Option",
+      "note": "Elective Course(s) Minimum credit(s) required SOSC/ECON 9 Applied Economics Electives (3 courses, which should include two courses at 3000-level or above, from the specified elective list.  Courses taken as Major Elective Courses may not be counted towards this elective requirement.) SOSC 1420 3 Poverty SOSC 3120 3 Economic Development SOSC 3410** 3 East Asian Economic Development SOSC 4260 3 China's Economic Transformation ECON Any ECON courses Students in the Integrated Humanities and Social Science Track with CGA of 3.3 or above may apply for enrollment in the Environment and Technology Research Option.  In addition, they should take Honors Thesis or Honors Research with a primary focus in environment and technology to complete the requirement of SHSS 4992 OR (SHSS 4991 AND SHSS 4993) as specified in the Major Requirements.",
+      "groups": []
+    },
+    {
+      "name": "Environment and Technology Research Option",
+      "note": "Elective Course(s) Minimum credit(s) required HUMA/SOSC/ ENVR 9Environment and Technology Electives (3 courses, which should include two courses at 3000-level or above, from the specified elective list.  Courses taken as Major Elective Courses may not be counted towards this elective requirement.) HUMA 2621 3 Culture and Environment SOSC 1130** 3 Science, Technology and Business SOSC 1150** 3 Science, Technology and Work SOSC 2170** 3 Environment, Sustainability and Business: A Design Approach SOSC 4290** 3 China's Sustainable Development ENVR 3210 3 Environmental Technology for Impact Assessment ENVR 3310 3 Green Business Strategy ENVR 3410 3 Economics for Environmental Policy and Management Students in the Integrated Humanities and Social Science Track with CGA of 3.3 or above may apply for enrollment in the Heritage and Cultural Sustainability Research Option.  In addition, they should take Honors Thesis or Honors Research with a primary focus in heritage and cultural sustainability to complete the requirement of SHSS 4992 OR (SHSS 4991 AND SHSS 4993) as specified in the major requirements.",
+      "groups": []
+    },
+    {
+      "name": "Heritage and Cultural Sustainability Research Option",
+      "note": "Elective Course(s) Minimum credit(s) required HUMA/SOSC 9 Heritage and Cultural Sustainability Electives (3 courses, which should include two courses at 3000-level or above, from the specified elective list.  Courses taken as Major Elective Courses may not be counted towards this elective requirement.) HUMA 1100 3 Music of the World HUMA 1620** 3 Human Culture and Society HUMA 1630** 3 Popular Religion in South China HUMA 1639 3 Marriage, Family and Kinship in Cross-cultural Perspectives HUMA 1650 3 Appreciation of Western Art HUMA 1660 3 Introduction to Chinese Art HUMA 2240 3 Reading Chinese Literature: Dreams of the Red Chamber HUMA 2320 3 Chinese Drama HUMA 2621 3 Culture and Environment HUMA 2632 3 Chinese Culture and Society in Anthropological Perspectives HUMA 2635 3 Cultural Diversity in China HUMA 2660 3 Introduction to Chinese Painting HUMA 2661 3 Chinese Oil Painting HUMA 2670 3 Understanding Western Painting HUMA 2680 3 Understanding Western Architecture HUMA 2840 3 Buddhism and the Chinese Intellectual Tradition HUMA 3630 3 Community and Cultural Identity HUMA 3660 3 Tradition & Modernity: Chinese Ink Painting in 20th Century HUMA 3680 3 Contemporary Architecture: The Pritzker Prize Winners HUMA 3810 3 Taoism and the Chinese Tradition HUMA 4610 3 Heritage in Cross-cultural Perspective HUMA 4700 3 Confucianism in a Global Context SOSC 3130 3 Hong Kong Culture Students in the Integrated Humanities and Social Science Track with CGA of 3.3 or above may apply for enrollment in the History Research Option.  In addition, they should take Honors Thesis or Honors Research with a primary focus in history to complete the requirement of SHSS 4992 OR (SHSS 4991 AND SHSS 4993) as specified in the major requirements.",
+      "groups": []
+    },
+    {
+      "name": "History Research Option",
+      "note": "Elective Course(s) Minimum credit(s) required HUMA 9 History Electives (3 courses, which should include two courses at 3000-level or above, from the specified elective list.  Courses taken as Major Elective Courses may not be counted towards this elective requirement.) HUMA 1430 3 History of P. R. China's Diplomacy, 1949-1989 HUMA 1520 3 Modern East Asia HUMA 1650 3 Appreciation of Western Art HUMA 1660 3 Introduction to Chinese Art HUMA 2420 3 Late Imperial China HUMA 2470 3 From Fung Shui to Mao's Villages: City Plans, Urban Politics & the Unseen World of Chinese Villages HUMA 2590 3 The Making of the Modern World: Renaissance to the Present HUMA 2640 3 Unofficial China: Social History 1800s-1930s HUMA 2660 3 Introduction to Chinese Painting HUMA 2661 3 Chinese Oil Painting HUMA 2670 3 Understanding Western Painting HUMA 2680 3 Understanding Western Architecture HUMA 3430 3 Reading Modern Chinese History Historically HUMA 3660 3 Tradition & Modernity: Chinese Ink Painting in 20th Century HUMA 3680 3 Contemporary Architecture: The Pritzker Prize Winners HUMA 4520 3 History of US-China Relations Students in the Integrated Humanities and Social Science Track with CGA of 3.3 or above may apply for enrollment in the Language and Literature Research Option.  In addition, they should take Honors Thesis or Honors Research with a primary focus in language and literature to complete the requirement of SHSS 4992 OR (SHSS 4991 AND SHSS 4993) as specified in the major requirements.",
+      "groups": []
+    },
+    {
+      "name": "Language and Literature Research Option",
+      "note": "Elective Course(s) Minimum credit(s) required HUMA 9 Language and Literature Electives (3 courses, which should include two courses at 3000-level or above, from the specified elective list.  Courses taken as Major Elective Courses may not be counted towards this elective requirement.) HUMA 1020** 3 Chinese Writing and Culture HUMA 1030 3 Structure of the Chinese Language HUMA 1060 3 Introduction to Mandarin Chinese Grammar HUMA 2010 3 Metaphors in English and Chinese HUMA 2031 3 The Cantonese Language HUMA 2050 3 Classical Chinese HUMA 2240 3 Reading Chinese Literature: Dreams of the Red Chamber HUMA 2250 3 Modern Chinese Fiction (1917-1949) HUMA 2260 3 Contemporary Chinese Fiction (1949-present) HUMA 2300 3 Traditional Chinese Poetry: Early Chinese Poetry HUMA 2310 3 Traditional Chinese Fiction HUMA 2320 3 Chinese Drama HUMA 3030 3 Language, Communication and Culture HUMA 3201 3 Animation: A Global Perspective HUMA 3210 3 Traditional Chinese Poetry: Tang and Song Poetry HUMA 3220 3 Modern Chinese Poetry HUMA 4020 3 Language and Literature in Modern China HUMA 4220 3 Verbal and Visual Representation of China Students in the Integrated Humanities and Social Science Track with CGA of 3.3 or above may apply for enrollment in the Politics Research Option.  In addition, they should take Honors Thesis or Honors Research with a primary focus in politics to complete the requirement of SHSS 4992 OR (SHSS 4991 AND SHSS 4993) as specified in the major requirements.",
+      "groups": []
+    },
+    {
+      "name": "Politics Research Option",
+      "note": "Elective Course(s) Minimum credit(s) required HUMA/SOSC 9 Politics Electives (3 courses, which should include two courses at 3000-level or above, from the specified elective list.  Courses taken as Major Elective Courses may not be counted towards this elective requirement.) HUMA 4520 3 History of US-China Relations SOSC 1190 3 China and the World:  China's Development in Historical and Comparative Perspectives SOSC 1270 3 International Law SOSC 1300 3 The World of Politics SOSC 1661** 3 Contemporary Hong Kong: Government & Politics SOSC 1840 3 Government, Law and Society in China SOSC 2290 3 Understanding Globalization SOSC 3520 3 Understanding Comparative Politics SOSC 3630 3 Democracy and Democratization around the World SOSC 4280 3 China in the Global Political Economy SOSC 4600 3 Understanding Chinese Politics Students in the Integrated Humanities and Social Science Track with CGA of 3.3 or above may apply for enrollment in the Sociology Research Option.  In addition, they should take Honors Thesis or Honors Research with a primary focus in sociology to complete the requirement of SHSS 4992 OR (SHSS 4991 AND SHSS 4993) as  specified in the major requirements.",
+      "groups": []
+    },
+    {
+      "name": "Sociology Research Option",
+      "note": "Elective Course(s) Minimum credit(s) required SOSC 9 Sociology Electives (3 courses, which should include two courses at 3000-level or above, from the specified elective list. Courses taken as Major Elective Courses may not be counted towards this elective requirement.) SOSC 1662 3 Contemporary Hong Kong Society SOSC 1780 3 Population and Development in China SOSC 1850 3 Understanding Society SOSC 2740 3 Gender and Society SOSC 2780** 3 Modernization and Social Change SOSC 3130 3 Hong Kong Culture SOSC 3880 3 Social Inequality and Social Mobility SOSC 4270** 3 Social Change in Contemporary China",
+      "groups": []
+    },
+    {
+      "name": "Social Science Track",
+      "note": "",
+      "groups": [
+        {
+          "subject": "SOSC",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "SOSC 1100",
+              "credits": 3,
+              "title": "Quantitative Data Analysis for Social Research I"
+            }
+          ]
+        },
+        {
+          "subject": "SOSC",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "SOSC 1300",
+              "credits": 3,
+              "title": "The World of Politics"
+            }
+          ]
+        },
+        {
+          "subject": "SOSC",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "SOSC 1440",
+              "credits": 3,
+              "title": "Introduction to Economics"
+            }
+          ]
+        },
+        {
+          "subject": "SOSC",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "SOSC 1850",
+              "credits": 3,
+              "title": "Understanding Society"
+            }
+          ]
+        },
+        {
+          "subject": "SOSC",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "SOSC 2140",
+              "credits": 3,
+              "title": "Research Methods in the Social Sciences"
+            }
+          ]
+        },
+        {
+          "subject": "SOSC",
+          "minCredits": 6,
+          "maxCredits": null,
+          "note": "Disciplinary Foundation Electives (2 courses from the specified elective list, of which the courses should be taken from different areas.) Introductory Demography SOSC 1780 3 Population and Development in China SOSC 1860 3 Population and Society Introductory Psychology SOSC 1960 3 Introduction to Psychology SOSC 1980 3 Psychology of Personal Growth",
+          "logic": null,
+          "options": []
+        },
+        {
+          "subject": "SOSC",
+          "minCredits": 27,
+          "maxCredits": null,
+          "note": "SOSC Electives (9 courses from the specified elective list, of which at least 4 courses must come from the list under \"Restricted Electives\".) Restricted Electives SOSC 3120 3 Economic Development SOSC 3260** 3 Sustainability Science: Policy Problems and Perspectives SOSC 3410** 3 East Asian Economic Development SOSC 3520 3 Understanding Comparative Politics SOSC 3530** 3 Social Movements and Contentious Politics SOSC 3540 3 Environmental Psychology SOSC 3630 3 Democracy and Democratization around the World SOSC 3880 3 Social Inequality and Social Mobility SOSC 4260 3 China's Economic Transformation SOSC 4270** 3 Social Change in Contemporary China SOSC 4280 3 China in the Global Political Economy SOSC 4290** 3 China's Sustainable Development SOSC 4310 3 Chinese Capitalism: Historical and Comparative Perspectives SOSC 4600 3 Understanding Chinese Politics Others SOSC Any SOSC courses",
+          "logic": null,
+          "options": []
+        }
+      ]
+    }
+  ],
+  "trackRequired": true
+}

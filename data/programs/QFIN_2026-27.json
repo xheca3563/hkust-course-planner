@@ -1,0 +1,273 @@
+{
+  "programCode": "QFIN",
+  "programName": "BSc in Quantitative Finance",
+  "intakeYear": "2026-27",
+  "school": "Business and Management",
+  "prerequisites": [],
+  "required": [],
+  "schoolRequirements": [
+    {
+      "subject": "ACCT",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ACCT 2010",
+          "credits": 3,
+          "title": "Principles of Accounting I"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ECON",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "ECON 2103 OR ECON 2113",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "ECON 2103"
+          },
+          {
+            "type": "course",
+            "code": "ECON 2113"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "ECON 2103",
+          "credits": 3,
+          "title": "Principles of Microeconomics"
+        },
+        {
+          "code": "ECON 2113",
+          "credits": 3,
+          "title": "Microeconomics"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ECON",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "ECON 2123 OR ECON 3123 (BSc ECOF students can only use ECON 3123 to fulfill this requirement; while others should take ECON 2123)",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "ECON 2123"
+          },
+          {
+            "type": "course",
+            "code": "ECON 3123"
+          },
+          {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "ECON 3123"
+              },
+              {
+                "type": "course",
+                "code": "ECON 2123"
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "ECON 2123",
+          "credits": 3,
+          "title": "Macroeconomics"
+        },
+        {
+          "code": "ECON 3123",
+          "credits": 3,
+          "title": "Macroeconomic Theory I"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "FINA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "FINA 2303",
+          "credits": 3,
+          "title": "Financial Management"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ISOM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISOM 2010",
+          "credits": 3,
+          "title": "Introduction to Information Systems"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ISOM",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISOM 2020",
+          "credits": 1,
+          "title": "Coding for Business"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ISOM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISOM 2500",
+          "credits": 3,
+          "title": "Business Statistics"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ISOM",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISOM 2600",
+          "credits": 1,
+          "title": "Introduction to Business Analytics"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "MGMT",
+      "minCredits": 2,
+      "maxCredits": 2,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MGMT 2010",
+          "credits": 2,
+          "title": "Business Ethics and the Individual"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "MGMT",
+      "minCredits": 2,
+      "maxCredits": 2,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MGMT 2130",
+          "credits": 2,
+          "title": "Business Ethics and Social Responsibility"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "MATH 1003 OR MATH 1013 OR MATH 1020 OR MATH 1023",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 1003"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1013"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1020"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1023"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 1003",
+          "credits": 3,
+          "title": "Calculus and Linear Algebra"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        }
+      ],
+      "noProse": false
+    }
+  ],
+  "electives": [
+    {
+      "subject": "QFIN",
+      "minCredits": 18,
+      "maxCredits": null,
+      "freeForm": "Restricted Electives (Courses from the specified elective list, of B, and at least 9 credits from Area C) Area A: Finance FINA Any FINA courses at 3000- or 4000-level Area B: Programming and Data Analysis ISOM 3360 3 Data Mining for Business Analytics ISOM 3370 3 Big Data Technologies COMP 2011 4 Programming with C++ COMP 2012 4 Object-Oriented Programming and Data Structures COMP 2012H 5 Honors Object-Oriented Programming and Data Structures COMP 3211 3 Learning, Reasoning, and Decision Making in AI COMP 4211 3 Machine Learning COMP 4221 3 Introduction to Natural Language Processing COMP 4331 3 Data Mining COMP 4332 3 Big Data Mining and Management COMP 4471 3 Deep Learning in Computer Vision RMBI 4310 3 Advanced Data Mining for Risk Management and Business Intelligence Area C: Quantitative Skills ECON 4304 4 Time Series Econometrics and Business Forecasting ISOM 3540 3 Introduction to Probability Models ISOM 4520 4 Statistics for Financial Risk Management ISOM 4530 4 Statistical Analysis of Financial Data in R/S-plus ISOM 4540 4 Time Series Analysis and Forecasting MATH 2111 3 Matrix Algebra and Applications MATH 2121 4 Linear Algebra MATH 2131 4 Honors in Linear and Abstract Algebra I MATH 2350 3 Applied Linear Algebra and Differential Equations MATH 2351 3 Introduction to Differential Equations MATH 2352 4 Differential Equations MATH 2421 4 Probability MATH 2431 4 Honors Probability MATH 3423 3 Statistical Inference MATH 4511 3 Quantitative Methods for Fixed Income Derivatives MATH 4512 3 Fundamentals of Mathematical Finance",
+      "areas": [
+        {
+          "label": "which at least 3 credits from Area A, at least 6 credits from Area",
+          "courses": []
+        }
+      ]
+    }
+  ],
+  "notes": "",
+  "tracks": []
+}

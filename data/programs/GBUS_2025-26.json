@@ -1,0 +1,429 @@
+{
+  "programCode": "GBUS",
+  "programName": "BBA in Global Business",
+  "intakeYear": "2025-26",
+  "school": "Business and Management",
+  "prerequisites": [],
+  "required": [
+    {
+      "subject": "GBUS",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "GBUS 1000",
+          "credits": 0,
+          "title": "Global Leadership Development"
+        }
+      ]
+    },
+    {
+      "subject": "GBUS",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "GBUS 2010",
+          "credits": 3,
+          "title": "Global Business Analysis"
+        }
+      ]
+    },
+    {
+      "subject": "GBUS/SBMT",
+      "minCredits": 1,
+      "maxCredits": 4,
+      "note": "GBUS 2040 OR SMBT 2100-2110 GBUS 2040 1 Environmental, Social, and Governance (ESG) Corporate Project",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "GBUS 2040"
+          },
+          {
+            "type": "course",
+            "code": "SMBT 2100"
+          },
+          {
+            "type": "course",
+            "code": "GBUS 2040"
+          },
+          {
+            "type": "or",
+            "children": []
+          }
+        ]
+      },
+      "options": []
+    },
+    {
+      "subject": "GBUS/ISOM",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "GBUS 3030 OR ISOM 4780",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "GBUS 3030"
+          },
+          {
+            "type": "course",
+            "code": "ISOM 4780"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "GBUS 3030",
+          "credits": 4,
+          "title": "Global Business Case Studies"
+        },
+        {
+          "code": "ISOM 4780",
+          "credits": 3,
+          "title": "Integrated Planning and Execution"
+        }
+      ]
+    },
+    {
+      "subject": "GBUS",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "GBUS 4910",
+          "credits": 4,
+          "title": "Capstone Project"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [
+    {
+      "subject": "ACCT",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ACCT 2010",
+          "credits": 3,
+          "title": "Principles of Accounting I"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ECON",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "ECON 2103 OR ECON 2113",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "ECON 2103"
+          },
+          {
+            "type": "course",
+            "code": "ECON 2113"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "ECON 2103",
+          "credits": 3,
+          "title": "Principles of Microeconomics"
+        },
+        {
+          "code": "ECON 2113",
+          "credits": 3,
+          "title": "Microeconomics"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ECON",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "ECON 2123 OR ECON 3123 (BSc ECOF students can only use ECON 3123 to fulfill this requirement; while others should take ECON 2123)",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "ECON 2123"
+          },
+          {
+            "type": "course",
+            "code": "ECON 3123"
+          },
+          {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "ECON 3123"
+              },
+              {
+                "type": "course",
+                "code": "ECON 2123"
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "ECON 2123",
+          "credits": 3,
+          "title": "Macroeconomics"
+        },
+        {
+          "code": "ECON 3123",
+          "credits": 3,
+          "title": "Macroeconomic Theory I"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "FINA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "FINA 2303",
+          "credits": 3,
+          "title": "Financial Management"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ISOM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISOM 2010",
+          "credits": 3,
+          "title": "Introduction to Information Systems"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ISOM",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISOM 2020",
+          "credits": 1,
+          "title": "Coding for Business"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ISOM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISOM 2500",
+          "credits": 3,
+          "title": "Business Statistics"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ISOM",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISOM 2600",
+          "credits": 1,
+          "title": "Introduction to Business Analytics"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "MGMT",
+      "minCredits": 2,
+      "maxCredits": 2,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MGMT 2010",
+          "credits": 2,
+          "title": "Business Ethics and the Individual"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "MGMT",
+      "minCredits": 2,
+      "maxCredits": 2,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MGMT 2130",
+          "credits": 2,
+          "title": "Business Ethics and Social Responsibility"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "MATH 1003 OR MATH 1013 OR MATH 1020 OR MATH 1023",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 1003"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1013"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1020"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1023"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 1003",
+          "credits": 3,
+          "title": "Calculus and Linear Algebra"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "SB&M",
+      "minCredits": 12,
+      "maxCredits": 12,
+      "note": "Courses for BBA majors: ACCT 2200 AND ISOM 2700 AND MARK 2120 AND MGMT 2110 (Students who enroll in the BSc majors of SBM are not required to take these courses for graduation)",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "course",
+                "code": "ACCT 2200"
+              },
+              {
+                "type": "course",
+                "code": "ISOM 2700"
+              },
+              {
+                "type": "course",
+                "code": "MARK 2120"
+              },
+              {
+                "type": "course",
+                "code": "MGMT 2110"
+              }
+            ]
+          },
+          {
+            "type": "or",
+            "children": []
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "ACCT 2200",
+          "credits": 3,
+          "title": "Principles of Accounting II"
+        },
+        {
+          "code": "ISOM 2700",
+          "credits": 3,
+          "title": "Operations Management"
+        },
+        {
+          "code": "MARK 2120",
+          "credits": 3,
+          "title": "Marketing Management"
+        },
+        {
+          "code": "MGMT 2110",
+          "credits": 3,
+          "title": "Organizational Behavior"
+        }
+      ],
+      "noProse": false
+    }
+  ],
+  "electives": [
+    {
+      "subject": "GBUS",
+      "minCredits": 15,
+      "maxCredits": 24,
+      "freeForm": "Global Business Electives (Courses from the specified elective list, of which at least 6 credits from Area A, and at least 1 course from Area B and Area C, respectively. With approval of the program office, students may replace the requirement of completing one Additional Major/ Extended Major/ Minor (see “Others” below) by taking additional 9 credits at 3000-level or above from this elective list, with at least 1 course from Area A out of the additional 9 credits.) Area A: Global Business GBUS 2030 2 From Zero to Exit – Journey of A Start-up GBUS 2050 2 Blue Ocean Strategy Innovation and Execution GBUS 3010 3 Global Perspectives on Contemporary Issues GBUS 3040 3 Business and ESG Management for Asia and Emerging Markets GBUS 3050 3 Deal Making in Asia and Emerging Markets GBUS 3060 3 Value Investing in Global Markets Area B: Global and Societal Perspective ACCT 3610 3 Business Law ECON 4364 4 International Trade and Investment ECON 4474 4 Hong Kong's Economy MARK 3430 4 Global Marketing MGMT 3120 4 Managerial Leadership MGMT 3170 3 Managing CSR (Corporate Social Responsibility) MGMT 4230 4 International Management MGMT 4240 4 Strategic Management in China MGMT 4250 3 Management Consulting SOSC 4260 3 China's Economic Transformation Area C: Business Strategy and Innovation ECON 4264 4 Economics of Innovation and Entrepreneurship ISOM 3900 3 Decision Analytics ISOM 4020 3 Innovation Management and Technology Entrepreneurship ISOM 4040 3 Digital Strategy and Transformation ISOM 4750 3 Business Project Management ISOM 4780 3 Integrated Planning and Execution MARK 3220 4 Marketing Research MARK 3480 4 Pricing Strategy MARK 3610 4 Digital Marketing MARK 4450 4 Brand Management MGMT 3140 4 Negotiation MGMT 3160 3 Environmental Business Strategies MGMT 4210 3 Corporate Strategy MGMT 4220 4 Entrepreneurship and Innovation ENTR 3030 3 Social Innovations and Entrepreneurship ENTR 3360 3 From Product Innovations to Successful Technology Startups ENVR 3310 3 Green Business Strategy ISDN 4200 3 Product Management Other(s) Complete one Additional Major, Minor or Extended Major Program (Students pursuing Dual Degree Program in Technology and Management are exempted from this requirement) One regular term of study abroad",
+      "areas": []
+    }
+  ],
+  "notes": "",
+  "tracks": []
+}

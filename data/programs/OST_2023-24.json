@@ -1,0 +1,796 @@
+{
+  "programCode": "OST",
+  "programName": "BSc in Ocean Science and Technology",
+  "intakeYear": "2023-24",
+  "school": "Science",
+  "prerequisites": [
+    {
+      "subject": "OCES",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "OCES 1001",
+          "credits": 3,
+          "title": "The Earth as a Blue Planet"
+        }
+      ]
+    },
+    {
+      "subject": "OCES",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "OCES 1010",
+          "credits": 3,
+          "title": "Principles and Applications of Environmental Science"
+        }
+      ]
+    }
+  ],
+  "required": [
+    {
+      "subject": "OCES",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "OCES 2001",
+          "credits": 3,
+          "title": "Survey of Ocean Science"
+        }
+      ]
+    },
+    {
+      "subject": "OCES",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "OCES 2002",
+          "credits": 3,
+          "title": "Marine Chemistry"
+        }
+      ]
+    },
+    {
+      "subject": "OCES",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "OCES 2003",
+          "credits": 3,
+          "title": "Descriptive Physical Oceanography"
+        }
+      ]
+    },
+    {
+      "subject": "OCES",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "OCES 2130",
+          "credits": 3,
+          "title": "Marine Biology"
+        }
+      ]
+    },
+    {
+      "subject": "OCES",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "OCES 3001",
+          "credits": 3,
+          "title": "Coastal Environmental Monitoring"
+        }
+      ]
+    },
+    {
+      "subject": "OCES",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "OCES 3003",
+          "credits": 4,
+          "title": "Field Methods in Marine Studies"
+        }
+      ]
+    },
+    {
+      "subject": "OCES",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "OCES 3160",
+          "credits": 3,
+          "title": "Ecology"
+        }
+      ]
+    },
+    {
+      "subject": "OCES",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "OCES 4001",
+          "credits": 3,
+          "title": "Ocean and Climate Change"
+        }
+      ]
+    },
+    {
+      "subject": "OCES/SCIE",
+      "minCredits": 3,
+      "maxCredits": 6,
+      "note": "OCES 4964 OR (OCES 4974 AND OCES 4984) OR (SCIE 3500 AND SCIE 4500) (Students following IRE Track can only use (SCIE 3500 AND SCIE 4500) to fulfill the requirement.)",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "OCES 4964"
+          },
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "course",
+                "code": "OCES 4974"
+              },
+              {
+                "type": "course",
+                "code": "OCES 4984"
+              }
+            ]
+          },
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "course",
+                "code": "SCIE 3500"
+              },
+              {
+                "type": "course",
+                "code": "SCIE 4500"
+              }
+            ]
+          },
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "course",
+                "code": "SCIE 3500"
+              },
+              {
+                "type": "course",
+                "code": "SCIE 4500"
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "OCES 4964",
+          "credits": 3,
+          "title": "Ocean Science and Technology Capstone Project Research"
+        },
+        {
+          "code": "OCES 4974",
+          "credits": 3,
+          "title": "Ocean Science and Technology Research Project I"
+        },
+        {
+          "code": "OCES 4984",
+          "credits": 3,
+          "title": "Ocean Science and Technology Research Project II"
+        },
+        {
+          "code": "SCIE 3500",
+          "credits": 3,
+          "title": "IRE Research Project I"
+        },
+        {
+          "code": "SCIE 4500",
+          "credits": 3,
+          "title": "IRE Research Project II"
+        },
+        {
+          "code": "CHEM 1011",
+          "credits": 3,
+          "title": "General Chemistry A: Reactions, Thermodynamics, and"
+        },
+        {
+          "code": "CHEM 1012",
+          "credits": 3,
+          "title": "General Chemistry B: Atomic Structure, Molecules, and Bonding"
+        }
+      ]
+    },
+    {
+      "subject": "LIFS",
+      "minCredits": 0,
+      "maxCredits": 3,
+      "note": "Students with level 3 or above in HKDSE 1x Biology are",
+      "logic": null,
+      "options": [
+        {
+          "code": "LIFS 1901",
+          "credits": 3,
+          "title": "General Biology I"
+        },
+        {
+          "code": "LIFS 1902",
+          "credits": 3,
+          "title": "General Biology II"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 1012"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1013"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1020"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1023"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 1012",
+          "credits": 4,
+          "title": "Calculus IA"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "PHYS 1111 OR PHYS 1112 OR PHYS 1312",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "PHYS 1111"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 1112"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 1312"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "PHYS 1111",
+          "credits": 3,
+          "title": "General Physics I"
+        },
+        {
+          "code": "PHYS 1112",
+          "credits": 3,
+          "title": "General Physics I with Calculus"
+        },
+        {
+          "code": "PHYS 1312",
+          "credits": 3,
+          "title": "Honors General Physics I"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "COMP 1021",
+          "credits": 3,
+          "title": "Introduction to Computer Science"
+        }
+      ]
+    },
+    {
+      "subject": "LANG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "LANG 3025 OR LANG 3027 (Students following IRE Track should take LANG 3027 to fulfill the requirement.) LANG 3025 3 Science Communication in English (Environmental Science)",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "LANG 3025"
+          },
+          {
+            "type": "course",
+            "code": "LANG 3027"
+          },
+          {
+            "type": "course",
+            "code": "LANG 3027"
+          },
+          {
+            "type": "course",
+            "code": "LANG 3025"
+          },
+          {
+            "type": "or",
+            "children": []
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "LANG 3027",
+          "credits": 3,
+          "title": "Science Communication in English for Research Students"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "COMP 1021 OR COMP 1022P OR COMP 2011",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 1021"
+          },
+          {
+            "type": "course",
+            "code": "COMP 1022P"
+          },
+          {
+            "type": "course",
+            "code": "COMP 2011"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 1021",
+          "credits": 3,
+          "title": "Introduction to Computer Science"
+        },
+        {
+          "code": "COMP 1022P",
+          "credits": 3,
+          "title": "Introduction to Computing with Java"
+        },
+        {
+          "code": "COMP 2011",
+          "credits": 4,
+          "title": "Programming with C++"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "LANG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "LANG 2010",
+          "credits": 3,
+          "title": "English for Science I"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "SSCI",
+      "minCredits": 24,
+      "maxCredits": 24,
+      "note": "SSCI Science Foundation courses [8 courses from the specified",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 1008",
+          "credits": 3,
+          "title": "Introductory Chemistry"
+        },
+        {
+          "code": "CHEM 1011",
+          "credits": 3,
+          "title": "General Chemistry A: Reactions, Thermodynamics, and Reaction"
+        },
+        {
+          "code": "CHEM 1012",
+          "credits": 3,
+          "title": "General Chemistry B: Atomic Structure, Molecules, and Bonding"
+        },
+        {
+          "code": "CHEM 1051",
+          "credits": 1,
+          "title": "Laboratory for General Chemistry A"
+        },
+        {
+          "code": "CHEM 1052",
+          "credits": 1,
+          "title": "Laboratory for General Chemistry B"
+        },
+        {
+          "code": "DASC 2010",
+          "credits": 3,
+          "title": "Calculus for Data Analytics in Science"
+        },
+        {
+          "code": "LIFS 1030",
+          "credits": 3,
+          "title": "Environmental Science"
+        },
+        {
+          "code": "LIFS 1901",
+          "credits": 3,
+          "title": "General Biology I"
+        },
+        {
+          "code": "LIFS 1902",
+          "credits": 3,
+          "title": "General Biology II"
+        },
+        {
+          "code": "LIFS 1903",
+          "credits": 1,
+          "title": "Laboratory for General Biology I"
+        },
+        {
+          "code": "LIFS 1904",
+          "credits": 1,
+          "title": "Laboratory for General Biology II"
+        },
+        {
+          "code": "LIFS 1930",
+          "credits": 3,
+          "title": "Nature of Life Sciences"
+        },
+        {
+          "code": "LIFS 2210",
+          "credits": 3,
+          "title": "Biochemistry I"
+        },
+        {
+          "code": "MATH 1012",
+          "credits": 4,
+          "title": "Calculus IA"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1014",
+          "credits": 3,
+          "title": "Calculus II"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        },
+        {
+          "code": "MATH 1024",
+          "credits": 3,
+          "title": "Honors Calculus II"
+        },
+        {
+          "code": "MATH 2011",
+          "credits": 3,
+          "title": "Introduction to Multivariable Calculus"
+        },
+        {
+          "code": "MATH 2023",
+          "credits": 4,
+          "title": "Multivariable Calculus"
+        },
+        {
+          "code": "MATH 2111",
+          "credits": 3,
+          "title": "Matrix Algebra and Applications"
+        },
+        {
+          "code": "MATH 2121",
+          "credits": 4,
+          "title": "Linear Algebra"
+        },
+        {
+          "code": "MATH 2131",
+          "credits": 4,
+          "title": "Honors in Linear and Abstract Algebra I"
+        },
+        {
+          "code": "OCES 1001",
+          "credits": 3,
+          "title": "The Earth as a Blue Planet"
+        },
+        {
+          "code": "OCES 1010",
+          "credits": 3,
+          "title": "Principles and Applications of Environmental Science"
+        },
+        {
+          "code": "PHYS 1101",
+          "credits": 4,
+          "title": "Introductory Physics"
+        },
+        {
+          "code": "PHYS 1111",
+          "credits": 3,
+          "title": "General Physics I"
+        },
+        {
+          "code": "PHYS 1112",
+          "credits": 3,
+          "title": "General Physics I with Calculus"
+        },
+        {
+          "code": "PHYS 1113",
+          "credits": 1,
+          "title": "Laboratory for General Physics I"
+        },
+        {
+          "code": "PHYS 1114",
+          "credits": 3,
+          "title": "General Physics II"
+        },
+        {
+          "code": "PHYS 1115",
+          "credits": 1,
+          "title": "Laboratory for General Physics II"
+        },
+        {
+          "code": "PHYS 1312",
+          "credits": 3,
+          "title": "Honors General Physics I"
+        },
+        {
+          "code": "PHYS 1314",
+          "credits": 3,
+          "title": "Honors General Physics II"
+        }
+      ],
+      "noProse": true
+    },
+    {
+      "subject": "SSCI（仅 IRE 方向）",
+      "minCredits": 5,
+      "maxCredits": 6,
+      "note": "Additional Required Courses for IRE Track [SCIE 1500 AND SCIE 2500 AND SCIE 3900 AND (UROP 1000 OR UROP 1100)]",
+      "logic": {
+        "type": "and",
+        "children": [
+          {
+            "type": "course",
+            "code": "SCIE 1500"
+          },
+          {
+            "type": "course",
+            "code": "SCIE 2500"
+          },
+          {
+            "type": "course",
+            "code": "SCIE 3900"
+          },
+          {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "UROP 1000"
+              },
+              {
+                "type": "course",
+                "code": "UROP 1100"
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "SCIE 1500",
+          "credits": 1,
+          "title": "Guided Study on Research I"
+        },
+        {
+          "code": "SCIE 2500",
+          "credits": 1,
+          "title": "Guided Study on Research II"
+        },
+        {
+          "code": "SCIE 3900",
+          "credits": 3,
+          "title": "International Research Experience"
+        },
+        {
+          "code": "UROP 1000",
+          "credits": 0,
+          "title": "Undergraduate Research Opportunities"
+        },
+        {
+          "code": "UROP 1100",
+          "credits": 1,
+          "title": "1 Undergraduate Research Opportunities Series"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "SSCI（仅 IRE 方向）",
+      "minCredits": 6,
+      "maxCredits": 6,
+      "note": "Additional Science 2000-level or above Electives for IRE Track (Any 2 courses of the subject and level as specified and approved by advisor)",
+      "logic": null,
+      "options": [],
+      "noProse": false
+    }
+  ],
+  "electives": [],
+  "notes": "- MATH 1012: The course was last offered in 2024-25 and was deleted subsequently.\n- OCES 2001: The course was last offered in 2024-25 and was deleted subsequently.\n- OCES 3201: The course was last offered in 2023-24 and was deleted subsequently.\n- OCES 3203: The course was last offered in 2024-25 and was deleted subsequently.\n- OCES 4205: The course was last offered in 2024-25 and was deleted subsequently.\n2026-27 OST (4Y) (2023-24 intake) Page 4",
+  "tracks": [
+    {
+      "name": "International Research Enrichment Track",
+      "note": "Students in the IRE Track should also take SCIE 3500 and SCIE 4500 as specified in the major requirements.",
+      "groups": [
+        {
+          "subject": "OCES",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "OCES 3301",
+              "credits": 3,
+              "title": "Data Analysis in Ocean Science"
+            }
+          ]
+        },
+        {
+          "subject": "LIFS/MATH",
+          "minCredits": 3,
+          "maxCredits": 4,
+          "note": "LIFS 3150 OR MATH 2411",
+          "logic": {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "LIFS 3150"
+              },
+              {
+                "type": "course",
+                "code": "MATH 2411"
+              }
+            ]
+          },
+          "options": [
+            {
+              "code": "LIFS 3150",
+              "credits": 3,
+              "title": "Biostatistics"
+            },
+            {
+              "code": "MATH 2411",
+              "credits": 4,
+              "title": "Applied Statistics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marine Ecology Option",
+      "note": "Students taking Marine Ecology Option should also take OCES 4203 and OCES 4301 as the Major Electives as specified under the Major Requirements.",
+      "groups": [
+        {
+          "subject": "OCES",
+          "minCredits": 6,
+          "maxCredits": null,
+          "note": "Marine Ecology Electives (2 courses from the specified elective list) OCES 3302 3 Marine Pollution Tracking OCES 4201 3 Environmental Microbiology OCES 4204 4 Coral Reef Ecosystem Science OCES 4320 3 Marine Toxicology",
+          "logic": null,
+          "options": []
+        }
+      ]
+    },
+    {
+      "name": "Oceanography Option",
+      "note": "Students taking Oceanography Option should also take MATH 1014 and OCES 3301 as the Major Electives as specified under the Major Requirements.",
+      "groups": [
+        {
+          "subject": "OCES/MATH",
+          "minCredits": 6,
+          "maxCredits": null,
+          "note": "Oceanography Electives (2 courses from the specified elective list) OCES 3201** 3 Biological Oceanography OCES 3203** 3 Physical Oceanography OCES 4205** 3 Chemical Oceanography MATH 2350 3 Applied Linear Algebra and Differential Equations",
+          "logic": null,
+          "options": []
+        }
+      ]
+    }
+  ],
+  "trackRequired": false
+}

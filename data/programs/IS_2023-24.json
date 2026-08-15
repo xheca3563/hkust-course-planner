@@ -1,0 +1,560 @@
+{
+  "programCode": "IS",
+  "programName": "BBA in Information Systems",
+  "intakeYear": "2023-24",
+  "school": "Business and Management",
+  "prerequisites": [],
+  "required": [
+    {
+      "subject": "ISOM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISOM 3210",
+          "credits": 3,
+          "title": "Information Systems Analysis and Design"
+        }
+      ]
+    },
+    {
+      "subject": "ISOM",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISOM 3260",
+          "credits": 4,
+          "title": "Database Design and Administration"
+        }
+      ]
+    },
+    {
+      "subject": "ISOM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "ISOM 3320 OR ISOM 3400 (Students who have taken",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "ISOM 3320"
+          },
+          {
+            "type": "course",
+            "code": "ISOM 3400"
+          },
+          {
+            "type": "or",
+            "children": []
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "ISOM 3320",
+          "credits": 3,
+          "title": "Business Applications Development in Java"
+        },
+        {
+          "code": "ISOM 3400",
+          "credits": 3,
+          "title": "Business Applications Development in Python"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [
+    {
+      "subject": "ACCT",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ACCT 2010",
+          "credits": 3,
+          "title": "Principles of Accounting I"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ECON",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "ECON 2103 OR ECON 2113",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "ECON 2103"
+          },
+          {
+            "type": "course",
+            "code": "ECON 2113"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "ECON 2103",
+          "credits": 3,
+          "title": "Principles of Microeconomics"
+        },
+        {
+          "code": "ECON 2113",
+          "credits": 3,
+          "title": "Microeconomics"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ECON",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "ECON 2123 OR ECON 3123 (BSc ECOF students can only use ECON 3123 to fulfill this requirement; while others should take ECON 2123)",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "ECON 2123"
+          },
+          {
+            "type": "course",
+            "code": "ECON 3123"
+          },
+          {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "ECON 3123"
+              },
+              {
+                "type": "course",
+                "code": "ECON 2123"
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "ECON 2123",
+          "credits": 3,
+          "title": "Macroeconomics"
+        },
+        {
+          "code": "ECON 3123",
+          "credits": 3,
+          "title": "Macroeconomic Theory I"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "FINA",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "FINA 2303",
+          "credits": 3,
+          "title": "Financial Management"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ISOM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISOM 2010",
+          "credits": 3,
+          "title": "Introduction to Information Systems"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ISOM",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISOM 2020",
+          "credits": 1,
+          "title": "Coding for Business"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ISOM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISOM 2500",
+          "credits": 3,
+          "title": "Business Statistics"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "ISOM",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISOM 2600",
+          "credits": 1,
+          "title": "Introduction to Business Analytics"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "MGMT",
+      "minCredits": 2,
+      "maxCredits": 2,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MGMT 2010",
+          "credits": 2,
+          "title": "Business Ethics and the Individual"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "MGMT",
+      "minCredits": 2,
+      "maxCredits": 2,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "MGMT 2130",
+          "credits": 2,
+          "title": "Business Ethics and Social Responsibility"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "LANG/ECON",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "LANG 2061 OR LANG 3060 OR ECON 3700",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "LANG 2061"
+          },
+          {
+            "type": "course",
+            "code": "LANG 3060"
+          },
+          {
+            "type": "course",
+            "code": "ECON 3700"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "LANG 2061",
+          "credits": 3,
+          "title": "Professional Writing for the Workplace"
+        },
+        {
+          "code": "LANG 3060",
+          "credits": 3,
+          "title": "Advanced Academic Writing"
+        },
+        {
+          "code": "ECON 3700",
+          "credits": 3,
+          "title": "Writing as an Economist"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "LANG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "LANG 2062",
+          "credits": 3,
+          "title": "Professional Speaking for the Workplace"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "MATH 1003 OR MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 1003"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1012"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1013"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1020"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1023"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 1003",
+          "credits": 3,
+          "title": "Calculus and Linear Algebra"
+        },
+        {
+          "code": "MATH 1012",
+          "credits": 4,
+          "title": "Calculus IA"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "SB&M",
+      "minCredits": 12,
+      "maxCredits": 12,
+      "note": "Courses for BBA majors: ACCT 2200 AND ISOM 2700 AND MARK 2120 AND MGMT 2110 (Students who enroll in the BSc majors of SBM are not required to take these courses for graduation)",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "course",
+                "code": "ACCT 2200"
+              },
+              {
+                "type": "course",
+                "code": "ISOM 2700"
+              },
+              {
+                "type": "course",
+                "code": "MARK 2120"
+              },
+              {
+                "type": "course",
+                "code": "MGMT 2110"
+              }
+            ]
+          },
+          {
+            "type": "or",
+            "children": []
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "ACCT 2200",
+          "credits": 3,
+          "title": "Principles of Accounting II"
+        },
+        {
+          "code": "ISOM 2700",
+          "credits": 3,
+          "title": "Operations Management"
+        },
+        {
+          "code": "MARK 2120",
+          "credits": 3,
+          "title": "Marketing Management"
+        },
+        {
+          "code": "MGMT 2110",
+          "credits": 3,
+          "title": "Organizational Behavior"
+        }
+      ],
+      "noProse": false
+    }
+  ],
+  "electives": [
+    {
+      "subject": "ISOM",
+      "minCredits": 10,
+      "maxCredits": null,
+      "freeForm": "IS Electives (At least 3 ISOM courses totaling 10 credits coded between 3000 and 3499; 4000 and 4499.  For students who have taken the 6-credit course ISOM 4400 to fulfill the IS elective requirement, the minimum number of courses for this requirement may be reduced by one.  Courses taken as Option Required Courses may not be counted towards this elective requirement.)",
+      "areas": []
+    }
+  ],
+  "notes": "",
+  "tracks": [
+    {
+      "name": "Artificial Intelligence Option",
+      "note": "",
+      "groups": [
+        {
+          "subject": "ISOM",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "ISOM 4030",
+              "credits": 3,
+              "title": "Deep Learning for Business Applications"
+            }
+          ]
+        },
+        {
+          "subject": "ISOM",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "ISOM 4110",
+              "credits": 3,
+              "title": "Large Language Models and AI Agents"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Business Analytics Option",
+      "note": "",
+      "groups": [
+        {
+          "subject": "ISOM",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "ISOM 3360",
+              "credits": 3,
+              "title": "Data Mining for Business Analytics"
+            }
+          ]
+        },
+        {
+          "subject": "ISOM",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "ISOM 3900",
+              "credits": 3,
+              "title": "Decision Analytics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Information Systems Auditing Option",
+      "note": "",
+      "groups": [
+        {
+          "subject": "ISOM",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "ISOM 4100",
+              "credits": 3,
+              "title": "Information Systems Auditing"
+            }
+          ]
+        },
+        {
+          "subject": "ISOM",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "ISOM 4300",
+              "credits": 3,
+              "title": "Information Systems Control and Assurance"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "trackRequired": false
+}

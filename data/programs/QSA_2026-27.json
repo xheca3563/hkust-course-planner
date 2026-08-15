@@ -1,0 +1,27 @@
+{
+  "programCode": "QSA",
+  "programName": "BSc in Quantitative Social Analysis",
+  "intakeYear": "2026-27",
+  "school": "Humanities and Social Science",
+  "prerequisites": [],
+  "required": [],
+  "schoolRequirements": [],
+  "electives": [
+    {
+      "subject": "SOSC",
+      "minCredits": 24,
+      "maxCredits": null,
+      "freeForm": "Social Science Electives (8 courses from the specified elective list.  Students should take at least 2 Foundation courses, EACH of which should be from a different discipline [Foundation 1 to Foundation 5], and out of the 24 credits, at least 6 credits must be at 3000-/4000- level. Courses on the list of QSA Methodological Electives may not be counted towards this elective requirement) Foundation 1: Geography/Demography SOSC 1780 3 Population and Development in China SOSC 1860 3 Population and Society Foundation 2: Economics SOSC 1440 3 Introduction to Economics Foundation 3: Political Science SOSC 1300 3 The World of Politics Foundation 4: Psychology SOSC 1960 3 Introduction to Psychology SOSC 1980 3 Psychology of Personal Growth Foundation 5: Sociology SOSC 1850 3 Understanding Society Others SOSC Any SOSC courses except those listed as Foundation course in this requirement and those listed under QSA Methodological Electives. SOSC/MATH/ COMP/ISOM/ MARK",
+      "areas": []
+    },
+    {
+      "subject": "SOSC/MATH/COMP/ISOM/MARK",
+      "minCredits": 12,
+      "maxCredits": null,
+      "freeForm": "QSA Methodological Electives (4 courses from the specified elective list, of which 6 credits must be taken in SOSC) SOSC 3240 3 Application of Geographical Information Systems SOSC 3720 3 Introduction to Social Network Analysis SOSC 3730 3 Survey Design and Methods SOSC 4250 3 Experiments and Quasi-experiments in the Social Sciences SOSC 4300 3 Computational Social Science MATH 2421 4 Probability MATH 2431 4 Honors Probability MATH 3423 3 Statistical Inference MATH 3424 3 Regression Analysis MATH 3426 3 Sampling MATH 4423 3 Nonparametric Statistics MATH 4424 3 Multivariate Analysis MATH 4425 3 Introductory Time Series COMP 2011 4 Programming with C++ ISOM 3360 3 Data Mining for Business Analytics MARK 3220 4 Marketing Research",
+      "areas": []
+    }
+  ],
+  "notes": "",
+  "tracks": []
+}

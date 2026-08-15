@@ -1,0 +1,456 @@
+{
+  "programCode": "BIEN",
+  "programName": "BEng in Bioengineering",
+  "intakeYear": "2025-26",
+  "school": "Engineering",
+  "prerequisites": [],
+  "required": [
+    {
+      "subject": "BIEN",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "BIEN 1600",
+          "credits": 3,
+          "title": "Introduction to Bioengineering"
+        }
+      ]
+    },
+    {
+      "subject": "BIEN",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "BIEN 2410",
+          "credits": 3,
+          "title": "Cellular and Systems Physiology for Engineers"
+        }
+      ]
+    },
+    {
+      "subject": "BIEN",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "BIEN 2610",
+          "credits": 3,
+          "title": "Chemical Biology for Engineers"
+        }
+      ]
+    },
+    {
+      "subject": "BIEN",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "BIEN 3250",
+          "credits": 3,
+          "title": "Rate and Transport Processes in Biological Systems"
+        }
+      ]
+    },
+    {
+      "subject": "BIEN",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "BIEN 3300",
+          "credits": 3,
+          "title": "Data Science for Molecular Engineering"
+        }
+      ]
+    },
+    {
+      "subject": "BIEN",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "BIEN 3310 OR BIEN 3320",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "BIEN 3310"
+          },
+          {
+            "type": "course",
+            "code": "BIEN 3320"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "BIEN 3310",
+          "credits": 3,
+          "title": "Data Science for Neural Engineering"
+        },
+        {
+          "code": "BIEN 3320",
+          "credits": 3,
+          "title": "Data Science for Biology and Medicine"
+        }
+      ]
+    },
+    {
+      "subject": "BIEN",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "BIEN 3410",
+          "credits": 3,
+          "title": "Bioimaging and Image Analysis"
+        }
+      ]
+    },
+    {
+      "subject": "BIEN",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "BIEN 3420",
+          "credits": 3,
+          "title": "Biosensors and Bioinstrumentation for Healthcare"
+        }
+      ]
+    },
+    {
+      "subject": "BIEN",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "BIEN 3910",
+          "credits": 4,
+          "title": "Bioengineering Laboratory"
+        }
+      ]
+    },
+    {
+      "subject": "BIEN",
+      "minCredits": 6,
+      "maxCredits": 6,
+      "note": "BIEN 4920 OR BIEN 4930 OR BIEN 4940",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "BIEN 4920"
+          },
+          {
+            "type": "course",
+            "code": "BIEN 4930"
+          },
+          {
+            "type": "course",
+            "code": "BIEN 4940"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "BIEN 4920",
+          "credits": 6,
+          "title": "Bioengineering Capstone Design"
+        },
+        {
+          "code": "BIEN 4930",
+          "credits": 6,
+          "title": "Bioengineering Thesis Research"
+        },
+        {
+          "code": "BIEN 4940",
+          "credits": 6,
+          "title": "Bioengineering Industrial Project"
+        }
+      ]
+    },
+    {
+      "subject": "CENG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CENG 1000",
+          "credits": 3,
+          "title": "Foundations of Chemical and Biological Engineering"
+        }
+      ]
+    },
+    {
+      "subject": "CENG",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CENG 1010",
+          "credits": 0,
+          "title": "Academic and Professional Development I"
+        }
+      ]
+    },
+    {
+      "subject": "CENG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CENG 2210",
+          "credits": 3,
+          "title": "Chemical and Biological Engineering Thermodynamics"
+        }
+      ]
+    },
+    {
+      "subject": "CENG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CENG 2310",
+          "credits": 3,
+          "title": "Modeling for Chemical and Biological Engineering I"
+        }
+      ]
+    },
+    {
+      "subject": "CENG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CENG 2320",
+          "credits": 3,
+          "title": "Modeling for Chemical and Biological Engineering II"
+        }
+      ]
+    },
+    {
+      "subject": "CENG",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CENG 4020",
+          "credits": 0,
+          "title": "Academic and Professional Development II"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 5,
+      "note": "COMP 1022P OR COMP 1023 OR COMP 2011 OR",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 1022P"
+          },
+          {
+            "type": "course",
+            "code": "COMP 1023"
+          },
+          {
+            "type": "course",
+            "code": "COMP 2011"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 1022P",
+          "credits": 3,
+          "title": "Introduction to Computing with Java"
+        },
+        {
+          "code": "COMP 1023",
+          "credits": 3,
+          "title": "Introduction to Python Programming"
+        },
+        {
+          "code": "COMP 2011",
+          "credits": 4,
+          "title": "Programming with C++"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 5,
+      "maxCredits": 5,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "COMP 2012H",
+          "credits": 5,
+          "title": "Honors Object-Oriented Programming and Data Structures"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 1012",
+          "credits": 3,
+          "title": "General Chemistry B: Atomic Structure, Molecules, and Bonding"
+        }
+      ]
+    },
+    {
+      "subject": "CHEM",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 1052",
+          "credits": 1,
+          "title": "Laboratory for General Chemistry B"
+        }
+      ]
+    },
+    {
+      "subject": "LIFS",
+      "minCredits": 0,
+      "maxCredits": 3,
+      "note": "Students with level 3 or above in HKDSE 1x Biology are",
+      "logic": null,
+      "options": [
+        {
+          "code": "LIFS 1901",
+          "credits": 3,
+          "title": "General Biology I"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "MATH 1013 OR MATH 1020 OR MATH 1023",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "MATH 1013"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1020"
+          },
+          {
+            "type": "course",
+            "code": "MATH 1023"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "PHYS 1112 OR PHYS 1312",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "PHYS 1112"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 1312"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "PHYS 1112",
+          "credits": 3,
+          "title": "General Physics I with Calculus"
+        },
+        {
+          "code": "PHYS 1312",
+          "credits": 3,
+          "title": "Honors General Physics I"
+        }
+      ]
+    }
+  ],
+  "electives": [
+    {
+      "subject": "SSCI/SENG/AIS",
+      "minCredits": 15,
+      "maxCredits": null,
+      "freeForm": "Bioengineering Electives (5 courses from the specified elective list, of which at least 9 credits should be taken from a single specialty area (Area 1 or Area 2). Out of the 15 credits taken, at least 9 credits should be at 4000-level or above.  Courses taken as Major Required Courses may not be counted towards this elective requirement.) Area 1: Biomedical Data Acquisition and Analytics BIEN 3310 3 Data Science for Neural Engineering BIEN 4310** 3 Statistical Signal Analysis and Applications in Neural Engineering BIEN 5040 3 Introduction to Neural Engineering BIEN 5060 3 Fundamentals and Applications of Sensing Technologies in Healthcare CENG 5240 3 Deep Learning for Chemical and Biological Engineering COMP 2012 4 Object-Oriented Programming and Data Structures COMP 2012H 5 Honors Object-Oriented Programming and Data Structures COMP 2211 3 Introduction to Artificial Intelligence COMP 4211 3 Machine Learning COMP 4331 3 Data Mining COMP 4421 3 Image Processing COMP 5423 3 Deep Learning in Medical Image Analysis ELEC 2100 4 Signals and Systems ELEC 2420 3 Basic Electronics ELEC 4820 3 Medical Imaging EMIA 4110 3 Practical Machine Learning LIFS 3070 3 Introduction to Biophysical Instrumentation Area 2: Bioprocesses, Biomaterials and Bioanalysis BIEN 4110 3 Regulatory Affairs in the Healthcare Industry BIEN 5070 3 Synthetic Biology CENG 3150 5 Integrated Chemical Process and Product Design CENG 4510 3 Nature Engineering and DNA Nanotechnology CENG 4620 3 Bioproducts and Processing CENG 4630 3 Food Processing Technology CENG 4640 3 Biomolecular Engineering CENG 4650 3 Biomaterials and Drug Delivery CENG 4670 3 Pharmaceutical Engineering CENG 5610 3 Protein Engineering CHEM 2111 3 Fundamentals of Organic Chemistry CHEM 2311 3 Analytical Chemistry LIFS 3060 3 Microbiology LIFS 4888 3 Development and Registration of Pharmaceutical Products Other electives BIEN 4000 1-4 Special Topics in Bioengineering CENG 4160** 3 Prototype Development for Chemical Processes and Products UCOP 3200 3 Design for Global Health LIFS 3240 3 Introduction to Neurobiology LIFS 4370 3 Human Genetics and Personalized Medicine LIFS 4760 3 Biochemistry of Diseases",
+      "areas": []
+    }
+  ],
+  "notes": "- BIEN 4310: The course was last offered in 2021-22 and was deleted subsequently.\n- CENG 4160: The course was last offered in 2022-23 and was deleted subsequently.\n- COMP 1022P: The course was last offered in 2024-25 and was deleted subsequently.\n2026-27 BIEN (4Y) (2025-26 intake) Page 3",
+  "tracks": []
+}

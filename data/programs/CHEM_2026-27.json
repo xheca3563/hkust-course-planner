@@ -1,0 +1,343 @@
+{
+  "programCode": "CHEM",
+  "programName": "1011CHEM  General Chemistry A: Reactions, Thermodynamics, and Reaction",
+  "intakeYear": "2026-27",
+  "school": "Science",
+  "prerequisites": [],
+  "required": [],
+  "schoolRequirements": [
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "COMP 1021 OR COMP 1022P OR COMP 1023",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 1021"
+          },
+          {
+            "type": "course",
+            "code": "COMP 1022P"
+          },
+          {
+            "type": "course",
+            "code": "COMP 1023"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 1021",
+          "credits": 3,
+          "title": "Introduction to Computer Science"
+        },
+        {
+          "code": "COMP 1022P",
+          "credits": 3,
+          "title": "Introduction to Computing with Java"
+        },
+        {
+          "code": "COMP 1023",
+          "credits": 3,
+          "title": "Introduction to Python Programming"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "SSCI",
+      "minCredits": 18,
+      "maxCredits": 18,
+      "note": "SSCI Science Foundation courses [6 courses from the specified elective list, including at least 1 lecture course, but no more than",
+      "logic": null,
+      "options": [
+        {
+          "code": "CHEM 1008",
+          "credits": 3,
+          "title": "Introductory Chemistry"
+        },
+        {
+          "code": "CHEM 1011",
+          "credits": 3,
+          "title": "General Chemistry A: Reactions, Thermodynamics, and Reaction "
+        },
+        {
+          "code": "CHEM 1012",
+          "credits": 3,
+          "title": "General Chemistry B: Atomic Structure, Molecules, and Bonding "
+        },
+        {
+          "code": "CHEM 1051",
+          "credits": 1,
+          "title": "Laboratory for General Chemistry A"
+        },
+        {
+          "code": "CHEM 1052",
+          "credits": 1,
+          "title": "Laboratory for General Chemistry B"
+        },
+        {
+          "code": "DASC 2010",
+          "credits": 3,
+          "title": "Calculus for Data Analytics in Science"
+        },
+        {
+          "code": "LIFS 1901",
+          "credits": 3,
+          "title": "General Biology I"
+        },
+        {
+          "code": "LIFS 1902",
+          "credits": 3,
+          "title": "General Biology II"
+        },
+        {
+          "code": "LIFS 1903",
+          "credits": 1,
+          "title": "Laboratory for General Biology I"
+        },
+        {
+          "code": "LIFS 1904",
+          "credits": 1,
+          "title": "Laboratory for General Biology II"
+        },
+        {
+          "code": "LIFS 1930",
+          "credits": 3,
+          "title": "Nature of Life Sciences"
+        },
+        {
+          "code": "LIFS 2210",
+          "credits": 3,
+          "title": "Biochemistry I"
+        },
+        {
+          "code": "MATH 1005",
+          "credits": 4,
+          "title": "Calculus and Statistics"
+        },
+        {
+          "code": "MATH 1006",
+          "credits": 4,
+          "title": "Calculus, Vectors, and Matrices"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1014",
+          "credits": 3,
+          "title": "Calculus II"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        },
+        {
+          "code": "MATH 1024",
+          "credits": 3,
+          "title": "Honors Calculus II"
+        },
+        {
+          "code": "MATH 2011",
+          "credits": 3,
+          "title": "Introduction to Multivariable Calculus"
+        },
+        {
+          "code": "MATH 2023",
+          "credits": 4,
+          "title": "Multivariable Calculus"
+        },
+        {
+          "code": "MATH 2111",
+          "credits": 3,
+          "title": "Matrix Algebra and Applications"
+        },
+        {
+          "code": "MATH 2121",
+          "credits": 4,
+          "title": "Linear Algebra"
+        },
+        {
+          "code": "MATH 2131",
+          "credits": 4,
+          "title": "Honors in Linear and Abstract Algebra I"
+        },
+        {
+          "code": "OCES 1001",
+          "credits": 3,
+          "title": "The Earth as a Blue Planet"
+        },
+        {
+          "code": "OCES 1010",
+          "credits": 3,
+          "title": "Principles and Applications of Environmental Science"
+        },
+        {
+          "code": "PHYS 1101",
+          "credits": 4,
+          "title": "Introductory Physics"
+        },
+        {
+          "code": "PHYS 1111",
+          "credits": 3,
+          "title": "General Physics I"
+        },
+        {
+          "code": "PHYS 1112",
+          "credits": 3,
+          "title": "General Physics I with Calculus"
+        },
+        {
+          "code": "PHYS 1113",
+          "credits": 1,
+          "title": "Laboratory for General Physics I"
+        },
+        {
+          "code": "PHYS 1114",
+          "credits": 3,
+          "title": "General Physics II"
+        },
+        {
+          "code": "PHYS 1115",
+          "credits": 1,
+          "title": "Laboratory for General Physics II"
+        },
+        {
+          "code": "PHYS 1312",
+          "credits": 3,
+          "title": "Honors General Physics I"
+        },
+        {
+          "code": "PHYS 1314",
+          "credits": 3,
+          "title": "Honors General Physics II"
+        }
+      ],
+      "noProse": true
+    },
+    {
+      "subject": "SSCI（仅 IRE 方向）",
+      "minCredits": 8,
+      "maxCredits": 9,
+      "note": "Additional Required Courses for IRE Track [SCIE 1500 AND SCIE 2500 AND SCIE 3900 AND LANG 3027 AND (UROP 1000 OR UROP 1100)]",
+      "logic": {
+        "type": "and",
+        "children": [
+          {
+            "type": "course",
+            "code": "SCIE 1500"
+          },
+          {
+            "type": "course",
+            "code": "SCIE 2500"
+          },
+          {
+            "type": "course",
+            "code": "SCIE 3900"
+          },
+          {
+            "type": "course",
+            "code": "LANG 3027"
+          },
+          {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "UROP 1000"
+              },
+              {
+                "type": "course",
+                "code": "UROP 1100"
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "SCIE 1500",
+          "credits": 1,
+          "title": "Guided Study on Research I"
+        },
+        {
+          "code": "SCIE 2500",
+          "credits": 1,
+          "title": "Guided Study on Research II"
+        },
+        {
+          "code": "SCIE 3900",
+          "credits": 3,
+          "title": "International Research Experience"
+        },
+        {
+          "code": "LANG 3027",
+          "credits": 3,
+          "title": "Science Communication in English for Research Students"
+        },
+        {
+          "code": "UROP 1000",
+          "credits": 0,
+          "title": "Undergraduate Research Opportunities"
+        },
+        {
+          "code": "UROP 1100",
+          "credits": 1,
+          "title": "1 Undergraduate Research Opportunities Series"
+        }
+      ],
+      "noProse": false
+    },
+    {
+      "subject": "SSCI（仅 IRE 方向）",
+      "minCredits": 6,
+      "maxCredits": 6,
+      "note": "Additional Science 2000-level or above Electives for IRE Track (Any 2 courses of the subject and level as specified and approved by advisor)",
+      "logic": null,
+      "options": [],
+      "noProse": false
+    }
+  ],
+  "electives": [],
+  "notes": "-     CHEM 2410: The credit value will be changed to 4 starting from Fall, 2027-28.\n-     CHEM 3420: The credit value will be changed to 4 starting from Fall, 2027-28.\n2026-27  CHEM (4Y) (2026-27 intake) Page 6",
+  "tracks": [
+    {
+      "name": "Biomolecular Chemistry Track",
+      "note": "",
+      "groups": []
+    },
+    {
+      "name": "Environmental and Analytical Chemistry Option",
+      "note": "Students in the Core Chemistry Track, and those in the International Research Enrichment Track with consent of the program office, may enroll in the Environmental and Analytical Chemistry Option. 2026-27  CHEM (4Y) (2026-27 intake) Page 3 CHEM 4640 Chemistry for Advanced Solar Cell Technologies 3 CHEM 4680 Undergraduate Research 3 CHEM 4692 Capstone Research II 3 CHEM 4250 Materials Preparation Laboratory CHEM 4255 Materials Characterization Laboratory CHEM  Chemistry Electives [Course(s) from the specified elective list, of which at least 2 courses must be taken from the Core Area.  Courses taken as Required/Elective Courses of another Chemistry Option may not be counted towards this elective requirement.] CHEM 4110 Structural Elucidation in Organic Chemistry 3 CHEM 4210 Solid State Chemistry 3 CHEM 4220 Materials Chemistry 3 CHEM 4230 Materials Characterization Method 3 CHEM 4240 Intermediate Inorganic Chemistry 3 CHEM 4640 Chemistry for Advanced Solar Cell Technologies 3 CHEM 3010 Great Ideas in Chemistry 3 CHEM 3020 Chemistry in the Mass Media 3 CHEM 3030 Introduction to AI for Chemistry 4 CHEM 3610 Chemistry Internship 2-3 CHEM 4120 Biomolecular Chemistry 3 CHEM 4130 Medicinal Chemistry 3 CHEM 4140 Intermediate Organic Chemistry 3 CHEM 4160 Cheminformatics 3 CHEM 4310 Environmental Chemistry 3 CHEM 4320 Environmental Analytical Chemistry 3 CHEM 4330 Separation Science 3 CHEM 4340 Bioanalytical Techniques 3 CHEM 4410 Physical Chemistry in Biological Applications 3 CHEM 4420  Statistical Machine Learning Methods for Chemical Data Analysis 3 CHEM 4430 Symmetry in Chemistry and Spectroscopy 3 Core Area Others Credit(s) attained 1 1 Elective Course(s) Minimum credit(s) required 12",
+      "groups": []
+    },
+    {
+      "name": "Materials Chemistry Option",
+      "note": "Students in the Core Chemistry Track, and those in the International Research Enrichment Track with consent of the program office, may enroll in the Materials Chemistry Option.",
+      "groups": []
+    },
+    {
+      "name": "Pure Chemistry Option",
+      "note": "Students in the Core Chemistry Track, and those in the International Research Enrichment Track with consent of the program office, may enroll in the Pure Chemistry Option.",
+      "groups": []
+    },
+    {
+      "name": "International Research Enrichment Track",
+      "note": "Students in the IRE Track should also take SCIE 3500 and SCIE 4500 as specified in the major requirement and follow the curriculum of the Core Chemistry Track with additional requirement(s) specified below. Subject to approval of the program office, students may take an option under the Core Chemistry Track and reuse CHEM 4430 to fulfill the requirements, if applicable, of any of these Chemistry Options.",
+      "groups": []
+    }
+  ],
+  "trackRequired": true
+}

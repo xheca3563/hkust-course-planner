@@ -1,0 +1,599 @@
+{
+  "programCode": "ELEC",
+  "programName": "BEng in Electronic Engineering",
+  "intakeYear": "2023-24",
+  "school": "Engineering",
+  "prerequisites": [],
+  "required": [
+    {
+      "subject": "ELEC",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ELEC 1100",
+          "credits": 4,
+          "title": "Introduction to Electro-Robot Design"
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ELEC 1200",
+          "credits": 4,
+          "title": "A System View of Communications: from Signals to Packets"
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ELEC 2100",
+          "credits": 4,
+          "title": "Signals and Systems"
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ELEC 2350",
+          "credits": 4,
+          "title": "Introduction to Computer Organization and Design"
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ELEC 2400",
+          "credits": 4,
+          "title": "Electronic Circuits"
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ELEC 2910",
+          "credits": 0,
+          "title": "Academic and Professional Development II"
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 6,
+      "maxCredits": 6,
+      "note": "[ELEC 2991 AND (ELEC 4900 OR ELEC 4901)] OR [ELEC 4910] (Students taking the Research Option must take ELEC 4901) ELEC 2991 0 Industrial Experience (Electronic Engineering)",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "course",
+                "code": "ELEC 2991"
+              },
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "ELEC 4900"
+                  },
+                  {
+                    "type": "course",
+                    "code": "ELEC 4901"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "course",
+            "code": "ELEC 4910"
+          },
+          {
+            "type": "course",
+            "code": "ELEC 4901"
+          },
+          {
+            "type": "course",
+            "code": "ELEC 2991"
+          },
+          {
+            "type": "or",
+            "children": []
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "ELEC 4900",
+          "credits": 6,
+          "title": "Final Year Design Project"
+        },
+        {
+          "code": "ELEC 4901",
+          "credits": 6,
+          "title": "Final Year Thesis"
+        },
+        {
+          "code": "ELEC 4910",
+          "credits": 6,
+          "title": "Co-op Program"
+        },
+        {
+          "code": "ELEC 3910",
+          "credits": 0,
+          "title": "Academic and Professional Development III"
+        },
+        {
+          "code": "ENGG 2010",
+          "credits": 0,
+          "title": "Engineering Seminar Series"
+        },
+        {
+          "code": "LANG 4031",
+          "credits": 3,
+          "title": "Technical Communication II for ECE & CPEG"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [
+    {
+      "subject": "ELEC/MATH",
+      "minCredits": 9,
+      "maxCredits": 10,
+      "note": "(ELEC 2600 OR ELEC 2600H) OR MATH 2011 OR MATH 2111 OR MATH 2350 OR MATH 2351 (3 courses out of 6)",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "ELEC 2600"
+              },
+              {
+                "type": "course",
+                "code": "ELEC 2600H"
+              }
+            ]
+          },
+          {
+            "type": "course",
+            "code": "MATH 2011"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2111"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2350"
+          },
+          {
+            "type": "course",
+            "code": "MATH 2351"
+          },
+          {
+            "type": "or",
+            "children": []
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "ELEC 2600",
+          "credits": 4,
+          "title": "Probability and Random Processes in Engineering"
+        },
+        {
+          "code": "ELEC 2600H",
+          "credits": 4,
+          "title": "Honors Probability and Random Processes in Engineering"
+        },
+        {
+          "code": "MATH 2011",
+          "credits": 3,
+          "title": "Introduction to Multivariable Calculus"
+        },
+        {
+          "code": "MATH 2111",
+          "credits": 3,
+          "title": "Matrix Algebra and Applications"
+        },
+        {
+          "code": "MATH 2350",
+          "credits": 3,
+          "title": "Applied Linear Algebra and Differential Equations"
+        },
+        {
+          "code": "MATH 2351",
+          "credits": 3,
+          "title": "Introduction to Differential Equations"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "COMP 1021 OR COMP 1022P",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 1021"
+          },
+          {
+            "type": "course",
+            "code": "COMP 1022P"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 1021",
+          "credits": 3,
+          "title": "Introduction to Computer Science"
+        },
+        {
+          "code": "COMP 1022P",
+          "credits": 3,
+          "title": "Introduction to Computing with Java"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 4,
+      "maxCredits": 5,
+      "note": "COMP 2011 OR COMP 2012H",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 2011"
+          },
+          {
+            "type": "course",
+            "code": "COMP 2012H"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 2011",
+          "credits": 4,
+          "title": "Programming with C++"
+        },
+        {
+          "code": "COMP 2012H",
+          "credits": 5,
+          "title": "Honors Object-Oriented Programming and Data Structures"
+        }
+      ]
+    },
+    {
+      "subject": "LANG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "LANG 2030",
+          "credits": 3,
+          "title": "Technical Communication I"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 7,
+      "note": "[(MATH 1012 OR MATH 1013 OR MATH 1023) AND (MATH 1014 OR MATH 1024)] OR [MATH 1020]",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "and",
+            "children": [
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1012"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1013"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1023"
+                  }
+                ]
+              },
+              {
+                "type": "or",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1014"
+                  },
+                  {
+                    "type": "course",
+                    "code": "MATH 1024"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "course",
+            "code": "MATH 1020"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 1012",
+          "credits": 4,
+          "title": "Calculus IA"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1014",
+          "credits": 3,
+          "title": "Calculus II"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        },
+        {
+          "code": "MATH 1024",
+          "credits": 3,
+          "title": "Honors Calculus II"
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "PHYS 1112 OR PHYS 1312",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "PHYS 1112"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 1312"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "PHYS 1112",
+          "credits": 3,
+          "title": "General Physics I with Calculus"
+        },
+        {
+          "code": "PHYS 1312",
+          "credits": 3,
+          "title": "Honors General Physics I"
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "PHYS 1114 OR PHYS 1314",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "PHYS 1114"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 1314"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "PHYS 1114",
+          "credits": 3,
+          "title": "General Physics II"
+        },
+        {
+          "code": "PHYS 1314",
+          "credits": 3,
+          "title": "Honors General Physics II"
+        }
+      ]
+    },
+    {
+      "subject": "SENG",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "Engineering Introduction course (If the students take an",
+      "logic": null,
+      "options": [
+        {
+          "code": "ELEC 1100",
+          "credits": 4,
+          "title": "Introduction to Electro-Robot Design"
+        },
+        {
+          "code": "ELEC 1200",
+          "credits": 4,
+          "title": "A System View of Communications: from Signals to Packets"
+        },
+        {
+          "code": "BIEN 1010",
+          "credits": 3,
+          "title": "Introduction to Biomedical Engineering"
+        },
+        {
+          "code": "CENG 1000",
+          "credits": 3,
+          "title": "Foundations of Chemical and Biological Engineering"
+        },
+        {
+          "code": "CENG 1500",
+          "credits": 3,
+          "title": "A First Course on Materials Science and Applications"
+        },
+        {
+          "code": "CENG 1700",
+          "credits": 3,
+          "title": "Introduction to Environmental Engineering"
+        },
+        {
+          "code": "CIVL 1100",
+          "credits": 3,
+          "title": "Discovering Civil and Environmental Engineering"
+        },
+        {
+          "code": "CIVL 1210",
+          "credits": 3,
+          "title": "Fundamental of Green Buildings"
+        },
+        {
+          "code": "COMP 1021",
+          "credits": 3,
+          "title": "Introduction to Computer Science"
+        },
+        {
+          "code": "ENGG 1100",
+          "credits": 3,
+          "title": "First Year Cornerstone Engineering Design Project Course"
+        },
+        {
+          "code": "IEDA 2010",
+          "credits": 3,
+          "title": "Introduction of Industrial Engineering and Decision Analytics"
+        },
+        {
+          "code": "ISDN 1001",
+          "credits": 3,
+          "title": "Introduction to Integrative Systems and Design"
+        },
+        {
+          "code": "ISDN 1002",
+          "credits": 3,
+          "title": "Redefining Problems for the Real Needs"
+        },
+        {
+          "code": "ISDN 1006",
+          "credits": 3,
+          "title": "Human-centered Innovation"
+        },
+        {
+          "code": "MECH 1902",
+          "credits": 3,
+          "title": "Energy Systems in a Sustainable World"
+        },
+        {
+          "code": "MECH 1906",
+          "credits": 3,
+          "title": "Mechanical Engineering for Modern Life"
+        },
+        {
+          "code": "MECH 1907",
+          "credits": 3,
+          "title": "Introduction to Aerospace Engineering"
+        }
+      ]
+    }
+  ],
+  "electives": [
+    {
+      "subject": "ELEC",
+      "minCredits": 21,
+      "maxCredits": null,
+      "freeForm": "ELEC 3000-level or above Electives (Courses of the subject and level as specified, out of which at least 2 courses must be at 4000-level.  ELEC 4940 cannot be used to count towards this elective requirement)",
+      "areas": []
+    }
+  ],
+  "notes": "- COMP 1022P: The course was last offered in 2024-25 and was deleted subsequently.\n- ELEC 2600H: The course was last offered in 2021-22 and was deleted subsequently.\n- MATH 1012: The course was last offered in 2024-25 and was deleted subsequently.\n2026-27 ELEC (4Y) (2023-24 intake) Page 3",
+  "tracks": [
+    {
+      "name": "Research Option",
+      "note": "Students in the Research Option should also take ELEC 4901 as specified in the major requirements.",
+      "groups": [
+        {
+          "subject": "ELEC",
+          "minCredits": 3,
+          "maxCredits": 3,
+          "note": "",
+          "logic": null,
+          "options": [
+            {
+              "code": "ELEC 5900",
+              "credits": 3,
+              "title": "Modern Engineering Research Methodologies"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "trackRequired": false
+}

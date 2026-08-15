@@ -1,0 +1,611 @@
+{
+  "programCode": "ISDN",
+  "programName": "BSc in Integrative Systems and Design",
+  "intakeYear": "2023-24",
+  "school": "Engineering",
+  "prerequisites": [],
+  "required": [
+    {
+      "subject": "ISDN",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISDN 1001",
+          "credits": 3,
+          "title": "Introduction to Integrative Systems and Design"
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISDN 1002",
+          "credits": 3,
+          "title": "Redefining Problems for the Real Needs"
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISDN 1004",
+          "credits": 1,
+          "title": "Sketching"
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISDN 1006",
+          "credits": 3,
+          "title": "Human-centered Innovation"
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISDN 1010",
+          "credits": 0,
+          "title": "Academic and Professional Development I"
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISDN 1011",
+          "credits": 0,
+          "title": "Industrial Training"
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "minCredits": 1,
+      "maxCredits": 1,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISDN 2001",
+          "credits": 1,
+          "title": "Second Year Design Project I"
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISDN 2002",
+          "credits": 3,
+          "title": "Second Year Design Project II"
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISDN 2010",
+          "credits": 0,
+          "title": "Academic and Professional Development II"
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISDN 2200",
+          "credits": 3,
+          "title": "Systems Thinking and Design"
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISDN 2300",
+          "credits": 3,
+          "title": "Introduction to 3D Design"
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISDN 2400",
+          "credits": 3,
+          "title": "Physical Prototyping"
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISDN 2601",
+          "credits": 3,
+          "title": "Exploring the World through Smart Mechatronics"
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISDN 2602",
+          "credits": 3,
+          "title": "Internet of Things: Integrative System Design"
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISDN 2603",
+          "credits": 3,
+          "title": "Materials, Shape and Design"
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISDN 3001",
+          "credits": 3,
+          "title": "Third Year Design Project I"
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISDN 3002",
+          "credits": 3,
+          "title": "Third Year Design Project II"
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISDN 3010",
+          "credits": 0,
+          "title": "Academic and Professional Development III"
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "minCredits": 2,
+      "maxCredits": 2,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISDN 3200",
+          "credits": 2,
+          "title": "Graphic Communication"
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISDN 4001",
+          "credits": 4,
+          "title": "Final Year Design Project I"
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "minCredits": 4,
+      "maxCredits": 4,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISDN 4002",
+          "credits": 4,
+          "title": "Final Year Design Project II"
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "minCredits": 0,
+      "maxCredits": 0,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "ISDN 4010",
+          "credits": 0,
+          "title": "Academic and Professional Development IV"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 3,
+      "maxCredits": 5,
+      "note": "COMP 1021 OR COMP 1022P OR COMP 2011 OR",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "COMP 1021"
+          },
+          {
+            "type": "course",
+            "code": "COMP 1022P"
+          },
+          {
+            "type": "course",
+            "code": "COMP 2011"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "COMP 1021",
+          "credits": 3,
+          "title": "Introduction to Computer Science"
+        },
+        {
+          "code": "COMP 1022P",
+          "credits": 3,
+          "title": "Introduction to Computing with Java"
+        },
+        {
+          "code": "COMP 2011",
+          "credits": 4,
+          "title": "Programming with C++"
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "minCredits": 5,
+      "maxCredits": 5,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "COMP 2012H",
+          "credits": 5,
+          "title": "Honors Object-Oriented Programming and Data Structures"
+        }
+      ]
+    },
+    {
+      "subject": "LANG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "",
+      "logic": null,
+      "options": [
+        {
+          "code": "LANG 2030",
+          "credits": 3,
+          "title": "Technical Communication I"
+        }
+      ]
+    },
+    {
+      "subject": "LANG",
+      "minCredits": 3,
+      "maxCredits": 3,
+      "note": "LANG 4030 OR LANG 4031 OR LANG 4032 OR LANG 4034 OR LANG 4036",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "LANG 4030"
+          },
+          {
+            "type": "course",
+            "code": "LANG 4031"
+          },
+          {
+            "type": "course",
+            "code": "LANG 4032"
+          },
+          {
+            "type": "course",
+            "code": "LANG 4034"
+          },
+          {
+            "type": "course",
+            "code": "LANG 4036"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "LANG 4030",
+          "credits": 3,
+          "title": "Technical Communication II for CSE, CPEG & DSCT"
+        },
+        {
+          "code": "LANG 4031",
+          "credits": 3,
+          "title": "Technical Communication II for ECE & CPEG"
+        },
+        {
+          "code": "LANG 4032",
+          "credits": 3,
+          "title": "Technical Communication II for IEDA and ISDN"
+        },
+        {
+          "code": "LANG 4034",
+          "credits": 3,
+          "title": "Technical Communication II for Mechanical and Aerospace Engineering"
+        },
+        {
+          "code": "LANG 4036",
+          "credits": 3,
+          "title": "Technical Communication for Technology Projects"
+        }
+      ]
+    },
+    {
+      "subject": "MATH",
+      "minCredits": 4,
+      "maxCredits": 7,
+      "note": "[MATH 1012 OR MATH 1013 OR MATH 1023 AND (MATH 1014 OR MATH 1024)] OR [MATH 1020] (Subject to",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "or",
+            "children": [
+              {
+                "type": "course",
+                "code": "MATH 1012"
+              },
+              {
+                "type": "course",
+                "code": "MATH 1013"
+              },
+              {
+                "type": "and",
+                "children": [
+                  {
+                    "type": "course",
+                    "code": "MATH 1023"
+                  },
+                  {
+                    "type": "or",
+                    "children": [
+                      {
+                        "type": "course",
+                        "code": "MATH 1014"
+                      },
+                      {
+                        "type": "course",
+                        "code": "MATH 1024"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "course",
+            "code": "MATH 1020"
+          },
+          {
+            "type": "or",
+            "children": []
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "MATH 1012",
+          "credits": 4,
+          "title": "Calculus IA"
+        },
+        {
+          "code": "MATH 1013",
+          "credits": 3,
+          "title": "Calculus I"
+        },
+        {
+          "code": "MATH 1014",
+          "credits": 3,
+          "title": "Calculus II"
+        },
+        {
+          "code": "MATH 1020",
+          "credits": 4,
+          "title": "Accelerated Calculus"
+        },
+        {
+          "code": "MATH 1023",
+          "credits": 3,
+          "title": "Honors Calculus I"
+        },
+        {
+          "code": "MATH 1024",
+          "credits": 3,
+          "title": "Honors Calculus II"
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
+      "minCredits": 3,
+      "maxCredits": 4,
+      "note": "PHYS 1101 OR PHYS 1111 OR PHYS 1112 OR PHYS 1312",
+      "logic": {
+        "type": "or",
+        "children": [
+          {
+            "type": "course",
+            "code": "PHYS 1101"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 1111"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 1112"
+          },
+          {
+            "type": "course",
+            "code": "PHYS 1312"
+          }
+        ]
+      },
+      "options": [
+        {
+          "code": "PHYS 1101",
+          "credits": 4,
+          "title": "Introductory Physics"
+        },
+        {
+          "code": "PHYS 1111",
+          "credits": 3,
+          "title": "General Physics I"
+        },
+        {
+          "code": "PHYS 1112",
+          "credits": 3,
+          "title": "General Physics I with Calculus"
+        },
+        {
+          "code": "PHYS 1312",
+          "credits": 3,
+          "title": "Honors General Physics I"
+        }
+      ]
+    }
+  ],
+  "schoolRequirements": [],
+  "electives": [
+    {
+      "subject": "ISDN/ENTR/TEMG/SBM",
+      "minCredits": 6,
+      "maxCredits": null,
+      "freeForm": "Product Management and Entrepreneurship Electives (Courses from the specified elective list, of which at least 1 course must be at 3000-level or above.) ISDN 3350 3 Global Product Development ISDN 3360 3 From Product Innovations to Successful Technology Startups ISDN 4200 3 Product Management ENTR 3100 3 Industrial Landscape: Understanding the Elements to Start a Business TEMG 3950 3 T&M Case Analysis and Product Innovation TEMG 4940 3-5 T&M Prototyping and Research Project TEMG 4950 3-5 T&M Corporate Consulting Project TEMG 4970 1-5 T&M IBPC Startup Project FINA 2203 3 Fundamentals of Business Finance ISOM 2030 3 Business Protections for Innovations ISOM 2700 3 Operations Management ISOM 4020 3 Innovation Management and Technology Entrepreneurship MARK 2120 3 Marketing Management ISDN/SENG/ MATH",
+      "areas": []
+    },
+    {
+      "subject": "ISDN/SENG/MATH",
+      "minCredits": 18,
+      "maxCredits": null,
+      "freeForm": "Project-related Electives (Courses from the specified elective list, of which at least 12 credits should be at 3000-level or above and no more than 3 credits at 1000-level.  Students should seek approval of their advisor for the choices of courses.) ISDN 2210 3 Introduction to Brand Design ISDN 3004 2 Advanced Sketching ISDN 3150 3 AI for Design ISDN 3300 3 Interaction Design ISDN 4000J 3 Introduction to EcoDesign ISDN 4000O 3 Extended Reality Technology and Applications ISDN 4000Q 3 Designing the Metaverse with Immersive Technologies ISDN 4000R 3 Introduction to soft robotics ISDN 4000S 3 Applied Generative AI for Interdisciplinary Projects BIEN 3320 3 Data Science for Biology and Medicine COMP 1022P** 3 Introduction to Computing with Java COMP 2011 4 Programming with C++ COMP 2012 4 Object-Oriented Programming and Data Structures COMP 2211 3 Introduction to Artificial Intelligence COMP 2611 4 Computer Organization COMP 3111 4 Software Engineering COMP 3211 3 Learning, Reasoning, and Decision Making in AI COMP 3311 3 Database Management Systems COMP 3711 3 Design and Analysis of Algorithms COMP 4021 3 Internet Computing COMP 4221 3 Introduction to Natural Language Processing COMP 4331 3 Data Mining COMP 4411 3 Computer Graphics COMP 4421 3 Image Processing COMP 4461 3 Human-Computer Interaction COMP 4462 3 Data Visualization COMP 4521 3 Mobile Application Development COMP 4632 3 Practicing Cybersecurity: Attacks and Counter-measures COMP 4641 3 Social Information Network Analysis and Engineering COMP 4651 3 Cloud Computing and Big Data Systems COMP 4901 0-4 Special Topics in Computer Science",
+      "areas": []
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 0,
+      "maxCredits": 4,
+      "freeForm": "Any ELEC courses at 3000-level",
+      "areas": []
+    },
+    {
+      "subject": "ELEC",
+      "minCredits": 0,
+      "maxCredits": 4,
+      "freeForm": "Any ELEC courses at 4000-level ELEC 2100 4 Signals and Systems ELEC 2200** 4 Digital Circuits and Systems ELEC 2300** 4 Computer Organization ELEC 2350 4 Introduction to Computer Organization and Design ELEC 2400 4 Electronic Circuits ELEC 2600 4 Probability and Random Processes in Engineering ENGG 1100 3 First Year Cornerstone Engineering Design Project Course IEDA 2520 3 Probability for Engineers MECH 2020 3 Statics and Dynamics MECH 2040 3 Solid Mechanics I MECH 2210 3 Fluid Mechanics MECH 2310 3 Thermodynamics MECH 2410 3 Engineering Materials I MECH 2520 3 Design and Manufacturing I MECH 3030 3 Mechanisms of Machinery MECH 3300 3 Energy Conversion MECH 3310 3 Heat Transfer MECH 3420 3 Engineering Materials II MECH 3510 3 Computer-Aided Design and Manufacturing MECH 3520** 3 Design and Manufacturing II MECH 3610 3 Control Principles MECH 3907 3 Mechatronic Design and Prototyping MECH 4450 3 Introduction to Finite Element Analysis MECH 4710 3 Introduction to Robotics MECH 4740 3 Numerical Methods in Engineering MATH 2011 3 Introduction to Multivariable Calculus MATH 2111 3 Matrix Algebra and Applications MATH 2343 4 Discrete Structures MATH 2350 3 Applied Linear Algebra and Differential Equations MATH 2411 4 Applied Statistics",
+      "areas": []
+    }
+  ],
+  "notes": "- COMP 1022P: The course was last offered in 2024-25 and was deleted subsequently.\n- ELEC 2200: The course was last offered in 2019-20 and was deleted subsequently.\n- ELEC 2300: The course was last offered in 2019-20 and was deleted subsequently.\n- MATH 1012: The course was last offered in 2024-25 and was deleted subsequently.\n- MECH 3520: The course was last offered in 2019-20 and was deleted subsequently.\n2026-27 ISDN (4Y) (2023-24 intake) Page 4",
+  "tracks": []
+}
