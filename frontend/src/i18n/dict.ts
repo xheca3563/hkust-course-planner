@@ -25,15 +25,15 @@ export const translations = {
 
 export type TKey = keyof typeof translations
 
-export type TVars = Record<string, string | number>
+export type TVars = Record<string, string | number | null | undefined>
 
 export function translate(key: TKey, lang: Language, vars?: TVars): string {
   const entry = translations[key]
   if (!entry) return String(key)
-  let s = entry[lang] ?? entry.en
+  let s: string = entry[lang] ?? entry.en
   if (vars) {
     for (const [k, v] of Object.entries(vars)) {
-      s = s.replaceAll(`{${k}}`, String(v))
+      s = s.replaceAll(`{${k}}`, v === null || v === undefined ? '' : String(v))
     }
   }
   return s
