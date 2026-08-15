@@ -129,36 +129,9 @@ Open http://localhost:5173 — Vite proxies `/api` to the backend at :8000.
 
 ---
 
-## 🌐 Deployment (Public Hosting)
-
-You can host the whole app **for free** (see [Cost](#-costs)):
-
-1. **Backend → [Render](https://render.com)** — create a Web Service, set root directory to `backend/`, build command `pip install -r requirements.txt`, start command `uvicorn app.main:app --host 0.0.0.0 --port $PORT`. The `data/` directory ships with the repo, so no extra files are needed. Set the environment variable `ALLOWED_ORIGINS` to your frontend domain (e.g. `https://courseplanner.vercel.app`).
-2. **Frontend → [Vercel](https://vercel.com)** — import the repo, set root directory to `frontend/`, build command `npm run build`, output `dist`. Add three environment variables in the project settings: `VITE_SUPABASE_URL`, `VITE_SUPABASE_ANON_KEY`, and `VITE_API_URL` pointing at your backend (e.g. `https://your-backend.onrender.com/api`).
-3. **Supabase** stays as-is — all user accounts live in your project.
-
-Anyone can then open the URL, register with an email, and use the app without touching the code.
-
----
-
-## 🔐 Security Notes
-
-- The **anon key** is public by design: it ships inside the frontend bundle, and **Row Level Security (RLS)** is the actual security boundary — every policy is scoped to `auth.uid() = id`, so users can only read/write their own data.
-- `.env` is gitignored — the anon key is never committed (it is harmless if leaked; you can rotate it in Supabase if needed).
-- **Never** put the `service_role` key in code or in the frontend — it bypasses RLS entirely. It lives only in the Supabase dashboard.
-- The backend is stateless (no database, no secrets) — its API is safe to expose publicly.
-
----
-
 ## 📊 Data Sources & Regeneration
 
 `data/` contains scraped course catalogs, Common Core area mappings, and professor ratings. Sources: HKUST Registry (course catalog), UCE (Common Core areas — WCQ + official PDFs), ustrankings (professor ratings). To refresh, run the scripts in `scripts/`.
-
----
-
-## 💰 Costs
-
-Public deployment is free on the free tiers: **Vercel** static hosting is free (no sleep), and **Render** offers a free web service (spins down after ~15 min idle → ~30-60 s cold start). An always-on backend costs about $5-7/month. Supabase's free tier (50k MAU, 500 MB DB) is plenty for a student community.
 
 ---
 
@@ -288,30 +261,9 @@ npm run dev
 
 打开 http://localhost:5173 — Vite 会把 `/api` 代理到 :8000 的后端。
 
-## 🌐 部署（公网托管）
-
-整套应用可以**免费**部署（见[费用](#-费用)）：
-
-1. **后端 → [Render](https://render.com)** — 创建 Web Service，根目录设为 `backend/`，构建命令 `pip install -r requirements.txt`，启动命令 `uvicorn app.main:app --host 0.0.0.0 --port $PORT`。`data/` 随仓库一起部署，无需额外文件。设置环境变量 `ALLOWED_ORIGINS` 为你的前端域名（如 `https://courseplanner.vercel.app`）。
-2. **前端 → [Vercel](https://vercel.com)** — 导入仓库，根目录设为 `frontend/`，构建命令 `npm run build`、输出目录 `dist`。在项目设置中添加三个环境变量：`VITE_SUPABASE_URL`、`VITE_SUPABASE_ANON_KEY`，以及指向后端的 `VITE_API_URL`（如 `https://your-backend.onrender.com/api`）。
-3. **Supabase** 保持不变 — 所有用户账户都在你的项目里。
-
-之后任何人打开网址、注册邮箱即可使用，无需接触代码。
-
-## 🔐 安全说明
-
-- **anon key 本身就是公开设计**：它会随前端打包发布，真正的安全边界是**行级安全（RLS）**——所有策略都限定 `auth.uid() = id`，用户只能读写自己的数据。
-- `.env` 已被 gitignore，anon key 不会被提交（即便泄露也无害，必要时可在 Supabase 中轮换）。
-- **切勿**把 `service_role` 密钥写进代码或前端——它会完全绕过 RLS。它只应存在于 Supabase 控制台。
-- 后端无状态（不连数据库、无密钥）——公开其 API 是安全的。
-
 ## 📊 数据来源与重新生成
 
 `data/` 包含抓取的课程目录、大学核心课程领域映射和教授评分。来源：港科大教务处（课程目录）、UCE 核心课程办公室（CC 领域 — WCQ + 官方 PDF）、ustrankings（教授评分）。如需更新，运行 `scripts/` 下的脚本。
-
-## 💰 费用
-
-公网部署在免费额度内完全免费：**Vercel** 静态托管免费（不休眠），**Render** 提供免费 Web 服务（约 15 分钟无访问后休眠 → 冷启动约 30-60 秒）。后端常驻在线约 $5-7/月。Supabase 免费档（5 万月活、500MB 数据库）对校园社区绰绰有余。
 
 ## 📝 许可证
 
